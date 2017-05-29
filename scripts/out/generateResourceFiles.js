@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const fs = require("fs");
+const path = require("path");
+const csvToJson_1 = require("./csvToJson");
+const colorsToDistanceMatrix_1 = require("./colorsToDistanceMatrix");
+const colors = csvToJson_1.default();
+const resourcesPath = path.resolve(__dirname, '../resources');
+const colorsJsonPath = path.join(resourcesPath, 'colors.json');
+fs.writeFileSync(colorsJsonPath, JSON.stringify(colors, undefined, 4));
+const distanceMatrix = colorsToDistanceMatrix_1.default(colors);
+const distanceMatrixPath = path.join(resourcesPath, 'colorsDistanceMatrix.json');
+fs.writeFileSync(distanceMatrixPath, JSON.stringify(distanceMatrix, undefined, 4));
