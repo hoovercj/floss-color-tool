@@ -39,7 +39,7 @@ export default class ColorList extends React.Component<{}, ColorListState> {
             <h1>DMC Color List</h1>
                 {/*<tbody>*/}
                     {Object.keys(this.state.colors).map((id: string) => {
-                        return <ColorItem color={this.state.colors[id]} colors={this.state.colors} />;  
+                        return <ColorItem key={id} color={this.state.colors[id]} colors={this.state.colors} />;
                     })}
                 {/*</tbody>*/}
             </div>

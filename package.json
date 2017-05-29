@@ -2,6 +2,7 @@
   "name": "floss-color-tool",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.codyhoover.com/floss-color-tool",
   "dependencies": {
     "@types/jest": "^19.2.3",
     "@types/node": "^7.0.22",

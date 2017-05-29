@@ -1,17 +1,13 @@
 export interface Color {
-    Floss: string;
-    Description: string;
-    Red: string;
-    Green: string;
-    Blue: string;
-    RGBcode: string;
-    Row: string;
-    Distances: ColorDistance[];
+    number: string;
+    description: string;
+    rgbCode: string;
+    distances: ColorDistance[];
 }
 
 export interface ColorDistance {
-    Floss: string;
-    Distance: number;
+    number: string;
+    distance: number;
 }
 
 export type ColorDistanceMatrix = {[key: string]: Color};

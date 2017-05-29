@@ -13,7 +13,7 @@ export default function colorsCsvToJson() {
             const dataValues = line.split(',');
             const json: any = {};
             headerValues.forEach((headerValue, index) => {
-                    json[headerValue.trim().replace(' ', '').replace(/[^a-zA-Z]/, '')] = dataValues[index].trim();
+                    json[headerValue.trim().replace(' ', '')] = dataValues[index].trim();
             });
 
             return json;

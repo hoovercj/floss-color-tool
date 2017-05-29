@@ -17,13 +17,13 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
         super();
         this.state = {
             expanded: false
-        }
+        };
     }
 
     onRowClick = () => {
         this.setState({
             expanded: !this.state.expanded
-        })
+        });
     }
 
     render() {
@@ -31,11 +31,15 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
         return (
             <tbody className={`${this.state.expanded ? 'active' : ''}`}>
                 <tr className="clickable" onClick={this.onRowClick}>
-                    <td className='text-center'>{color.Floss}</td>
-                    <td style={{backgroundColor: '#' + color.RGBcode}}></td>
-                    <td>{color.Description}</td>
-                    {color.Distances.slice(0, 5).map(closeColor =>
-                        <td title={`${closeColor.Floss} - ${this.props.colors[closeColor.Floss].Description}`} style={{backgroundColor: '#' + this.props.colors[closeColor.Floss].RGBcode}} />
+                    <td className="text-center">{color.number}</td>
+                    <td style={{backgroundColor: '#' + color.rgbCode}}/>
+                    <td>{color.description}</td>
+                    {color.distances.slice(0, 5).map(closeColor =>
+                        <td
+                            key={closeColor.number}
+                            title={`${closeColor.number} - ${this.props.colors[closeColor.number].description}`}
+                            style={{backgroundColor: '#' + this.props.colors[closeColor.number].rgbCode}}
+                        />
                     )}
                 </tr>
                 <tr className={this.state.expanded ? '' : 'hidden'}>
@@ -46,8 +50,13 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
                         <div className="col-xs-3 text-center">Alternative</div>
                         <div className="col-xs-3 text-center">Original</div>
                     </div>
-                        {color.Distances.slice(0, 5).map(closeColor =>
-                            <CloseColorRow visible={this.state.expanded} color={color} closeColor={this.props.colors[closeColor.Floss]} />
+                        {color.distances.slice(0, 5).map(closeColor =>
+                            <CloseColorRow
+                                key={closeColor.number}
+                                visible={this.state.expanded}
+                                color={color}
+                                closeColor={this.props.colors[closeColor.number]}
+                            />
                         )}
                     </td>
                 </tr>

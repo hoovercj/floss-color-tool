@@ -3,42 +3,38 @@ var convert = require('color-convert');
 var DeltaE = require('delta-e');
 
 interface Color {
-    Floss: string;
-    Description: string;
-    Red: string;
-    Green: string;
-    Blue: string;
-    RGBcode: string;
-    Row: string;
-    Distances: ColorDistance[];
+    number: string;
+    description: string;
+    rgbCode: string;
+    distances: ColorDistance[];
 }
 
 interface ColorDistance {
-    Floss: string;
-    Distance: number;
+    number: string;
+    distance: number;
 }
 
 export default function colorsToDistanceMatrix(colors: Color[]): {[key: string]: Color} {
     const colorsWithDistance: Color[] = [];
     for (let i = 0; i < colors.length; i++) {
         const iColor = Object.assign({}, colors[i]);
-        iColor.Distances = [];
+        iColor.distances = [];
         colorsWithDistance.push(iColor);
         for (let j = 0; j < i; j++) {
             const jColor = colorsWithDistance[j];
-            const [iColorLabL, iColorLabA, iColorLabB] = convert.hex.lab(iColor.RGBcode);
-            const [jColorLabL, jColorLabA, jColorLabB] = convert.hex.lab(jColor.RGBcode);
+            const [iColorLabL, iColorLabA, iColorLabB] = convert.hex.lab(iColor.rgbCode);
+            const [jColorLabL, jColorLabA, jColorLabB] = convert.hex.lab(jColor.rgbCode);
             const distance = DeltaE.getDeltaE76({L: iColorLabL, A: iColorLabA, B: iColorLabB}, {L: jColorLabL, A: jColorLabA, B: jColorLabB});
-            iColor.Distances.push({Distance: distance, Floss: jColor.Floss});
-            jColor.Distances.push({Distance: distance, Floss: iColor.Floss});
+            iColor.distances.push({distance: distance, number: jColor.number});
+            jColor.distances.push({distance: distance, number: iColor.number});
         }
     }
 
     const colorsObject = {};
 
     colorsWithDistance.forEach(color => {
-        color.Distances = color.Distances.sort((a, b) => a.Distance - b.Distance);
-        colorsObject[color.Floss] = color;
+        color.distances = color.distances.sort((a, b) => a.distance - b.distance).slice(0, 5);
+        colorsObject[color.number] = color;
     });
 
 
