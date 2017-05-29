@@ -1,8 +1,6 @@
 import * as React from 'react';
 import { Color, ColorDistanceMatrix } from '../../Models/color';
 import CloseColorRow from './close-color-row';
-import './color-row.css';
-
 
 interface ColorRowProps {
     color: Color;
@@ -31,8 +29,8 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
     render() {
         const color: Color = this.props.color;
         return (
-            <tbody>
-                <tr onClick={this.onRowClick}>
+            <tbody className={`${this.state.expanded ? 'active' : ''}`}>
+                <tr className="clickable" onClick={this.onRowClick}>
                     <td className='text-center'>{color.Floss}</td>
                     <td style={{backgroundColor: '#' + color.RGBcode}}></td>
                     <td>{color.Description}</td>
@@ -42,14 +40,15 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
                 </tr>
                 <tr className={this.state.expanded ? '' : 'hidden'}>
                     <td colSpan={8}>
-                    <table>
-                        <tbody>
-
-                {color.Distances.slice(0, 5).map(closeColor =>
-                    <CloseColorRow visible={this.state.expanded} color={color} closeColor={this.props.colors[closeColor.Floss]} />
-                )}
-                        </tbody>
-                    </table>
+                    <div className="row inner bold">
+                        <div className="col-xs-2 text-center">DMC #</div>
+                        <div className="col-xs-4">Name</div>
+                        <div className="col-xs-3 text-center">Alternative</div>
+                        <div className="col-xs-3 text-center">Original</div>
+                    </div>
+                        {color.Distances.slice(0, 5).map(closeColor =>
+                            <CloseColorRow visible={this.state.expanded} color={color} closeColor={this.props.colors[closeColor.Floss]} />
+                        )}
                     </td>
                 </tr>
             {/*<CloseColorTable color={this.props.color} colors={this.props.colors} />*/}

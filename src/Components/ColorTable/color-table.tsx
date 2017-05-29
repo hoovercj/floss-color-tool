@@ -5,37 +5,37 @@ import './color-table.css';
 
 declare var fetch: any;
 
-interface ColorTableState {
+interface ColorTableProps {
     colors: ColorDistanceMatrix;
 }
 
-export default class ColorTable extends React.Component<{}, ColorTableState> {
+export default class ColorTable extends React.Component<ColorTableProps, {}> {
 
-    constructor() {
-        super();
-        this.state = {
-            colors: {}
-        }
-    }
+    // constructor() {
+    //     super();
+    //     this.state = {
+    //         colors: {}
+    //     }
+    // }
 
 
-    componentWillMount() {
-        const self = this;
-        fetch('colorsDistanceMatrix.json').then(function(response: any) {
-            var contentType = response.headers.get("content-type");
-            if(contentType && contentType.indexOf("application/json") !== -1) {
-                return response.json().then(function(json: ColorDistanceMatrix) {
-                    self.setState({ colors: json });
-                });
-            } else {
-                console.log("Oops, we haven't got JSON!");
-            }
-        });
-    }
+    // componentWillMount() {
+    //     const self = this;
+    //     fetch('colorsDistanceMatrix.json').then(function(response: any) {
+    //         var contentType = response.headers.get("content-type");
+    //         if(contentType && contentType.indexOf("application/json") !== -1) {
+    //             return response.json().then(function(json: ColorDistanceMatrix) {
+    //                 self.setState({ colors: json });
+    //             });
+    //         } else {
+    //             console.log("Oops, we haven't got JSON!");
+    //         }
+    //     });
+    // }
 
     render() {
         return (
-            <table className="table table-hover table-bordered color-table">
+            <table className="table table-hover color-table table-borderless">
                 <thead>
                     <tr>
                         <th className='text-center'>DMC #</th>
@@ -45,8 +45,8 @@ export default class ColorTable extends React.Component<{}, ColorTableState> {
                     </tr>
                 </thead>
                 {/*<tbody>*/}
-                    {Object.keys(this.state.colors).map((id: string) => {
-                        return <ColorRow color={this.state.colors[id]} colors={this.state.colors} />;  
+                    {Object.keys(this.props.colors).map((id: string) => {
+                        return <ColorRow color={this.props.colors[id]} colors={this.props.colors} />;  
                     })}
                 {/*</tbody>*/}
             </table>

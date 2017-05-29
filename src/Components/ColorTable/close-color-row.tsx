@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { Color } from '../../Models/color';
-import './color-row.css';
 
 interface CloseColorRowProps {
     color: Color;
@@ -15,12 +14,12 @@ export default class CloseColorRow extends React.Component<CloseColorRowProps, {
         const color: Color = this.props.color;
         const closeColor: Color = this.props.closeColor;
         return (
-                    <tr>
-                        <td className='text-center'>{color.Floss}</td>
-                        <td>{color.Description}</td>
-                        <td style={{backgroundColor: '#' + color.RGBcode}}></td>
-                        <td style={{backgroundColor: '#' + closeColor.RGBcode}}></td>
-                    </tr>
+                    <div className="row inner">
+                        <div className="col-xs-2 text-center vertically-centered">{closeColor.Floss}</div>
+                        <div className="col-xs-4 vertically-centered">{closeColor.Description}</div>
+                        <div className="col-xs-3" style={{backgroundColor: '#' + closeColor.RGBcode, height: "38px"}}></div>
+                        <div className="col-xs-3" style={{backgroundColor: '#' + color.RGBcode, height: "38px"}}></div>
+                    </div>
         );
     }
 }

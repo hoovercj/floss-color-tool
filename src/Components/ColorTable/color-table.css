@@ -1,0 +1,48 @@
+.hidden {
+    display: none;
+}
+.row.inner {
+    margin: initial;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.vertically-centered {
+    padding-top: .75em;
+}
+
+/*.table-borderless > tbody > tr > th,*/
+/*.table-borderless > tfoot > tr > th,*/
+/*.table-borderless > tfoot > tr > td,*/
+.table-borderless > thead > tr > th,
+.table-borderless > thead > tr > td {
+    background-color: palevioletred;
+}
+
+
+.table-borderless.table > tbody > tr > td,
+.table-borderless.table > tbody.active > tr:last-child > td,
+.table-borderless.table > tbody + tbody {
+    /*border: none;*/
+    border-bottom: 4px solid white;
+    border-top: 4px solid white;
+}
+
+.table-borderless.table > tbody.active > tr > td,
+.table-borderless.table > tbody.active {
+    /*border: none;*/
+    background-color: pink;
+    border-bottom: 4px solid pink;
+    border-top: 4px solid pink;
+}
+
+/*.table-borderless.table {
+    border-collapse:separate; 
+    border-spacing: 0 5px;
+}*/
