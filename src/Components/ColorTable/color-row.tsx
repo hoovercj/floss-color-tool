@@ -13,6 +13,9 @@ interface ColorRowState {
 
 export default class ColorRow extends React.Component<ColorRowProps, ColorRowState> {
 
+    private static DEFAULT_EXPANDED_CLASS = '';
+    private static ACTIVE_CLASS = 'active';
+
     constructor() {
         super();
         this.state = {
@@ -28,8 +31,12 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
 
     render() {
         const color: Color = this.props.color;
+        if (!color) {
+            return null;
+        }
+        const expandedState = this.state.expanded ? ColorRow.ACTIVE_CLASS : ColorRow.DEFAULT_EXPANDED_CLASS;
         return (
-            <tbody className={`${this.state.expanded ? 'active' : ''}`}>
+            <tbody className={`${expandedState}`}>
                 <tr className="clickable" onClick={this.onRowClick}>
                     <td className="text-center">{color.number}</td>
                     <td style={{backgroundColor: '#' + color.rgbCode}}/>
