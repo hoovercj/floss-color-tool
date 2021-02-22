@@ -37,7 +37,20 @@ export default class ColorRow extends React.Component<ColorRowProps, ColorRowSta
         const expandedState = this.state.expanded ? ColorRow.ACTIVE_CLASS : ColorRow.DEFAULT_EXPANDED_CLASS;
         return (
             <tbody className={`${expandedState}`}>
-                <tr className="clickable" onClick={this.onRowClick}>
+                <tr
+                    className="clickable"
+                    role="button"
+                    onClick={this.onRowClick}
+                    tabIndex={0}
+                    onKeyPress={(event) => {
+                        const keycode = event.keyCode
+                            ? event.keyCode
+                            : event.which;
+                        if (keycode === 13 || keycode === 32) {
+                            this.onRowClick();
+                        }
+                    }}
+                >
                     <td className="text-center">{color.number}</td>
                     <td style={{backgroundColor: '#' + color.rgbCode}}/>
                     <td>{color.description}</td>
