@@ -21,7 +21,10 @@ function colorsCsvToJson(filename, format = 'decimal') {
             let value = dataValues[index].trim();
             if (index === 2) {
                 if (format === 'decimal') {
-                    value = parseInt(value, 10).toString(16);
+                    // Decimal strings are base-10 encorded BGR order hex values
+                    // so they must be converted to hex, split, and then reversed
+                    const hexString = parseInt(value, 10).toString(16);
+                    value = hexString.match(/.{1,2}/g).reverse().join("");
                 }
                 value = value.toUpperCase();
             }

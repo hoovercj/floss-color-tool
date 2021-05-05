@@ -2,177 +2,177 @@
     {
         "number": "1",
         "description": "Snow White",
-        "rgbCode": "EAEFEB"
+        "rgbCode": "EBEFEA"
     },
     {
         "number": "2",
         "description": "White",
-        "rgbCode": "EBF0EC"
+        "rgbCode": "ECF0EB"
     },
     {
         "number": "6",
         "description": "Salmon vy lt",
-        "rgbCode": "CAD9F3"
+        "rgbCode": "F3D9CA"
     },
     {
         "number": "8",
         "description": "Salmon lt",
-        "rgbCode": "AAB9F8"
+        "rgbCode": "F8B9AA"
     },
     {
         "number": "9",
         "description": "Salmon md lt",
-        "rgbCode": "8594F3"
+        "rgbCode": "F39485"
     },
     {
         "number": "10",
         "description": "Salmon md",
-        "rgbCode": "6B7AEB"
+        "rgbCode": "EB7A6B"
     },
     {
         "number": "11",
         "description": "Salmon md dk",
-        "rgbCode": "5370E4"
+        "rgbCode": "E47053"
     },
     {
         "number": "13",
         "description": "Salmon dk",
-        "rgbCode": "2841BC"
+        "rgbCode": "BC4128"
     },
     {
         "number": "19",
         "description": "Burgundy md",
-        "rgbCode": "2F39B6"
+        "rgbCode": "B6392F"
     },
     {
         "number": "20",
         "description": "Burgundy md dk",
-        "rgbCode": "203B87"
+        "rgbCode": "873B20"
     },
     {
         "number": "22",
         "description": "Burgundy vy dk",
-        "rgbCode": "16366B"
+        "rgbCode": "6B3616"
     },
     {
         "number": "23",
         "description": "Baby Pink",
-        "rgbCode": "CFCAF5"
+        "rgbCode": "F5CACF"
     },
     {
         "number": "24",
         "description": "Carnation vy lt",
-        "rgbCode": "C7C3F6"
+        "rgbCode": "F6C3C7"
     },
     {
         "number": "25",
         "description": "Carnation lt",
-        "rgbCode": "B8AFF5"
+        "rgbCode": "F5AFB8"
     },
     {
         "number": "26",
         "description": "Carnation md lt",
-        "rgbCode": "A98EFB"
+        "rgbCode": "FB8EA9"
     },
     {
         "number": "27",
         "description": "Carnation md",
-        "rgbCode": "8E6CF8"
+        "rgbCode": "F86C8E"
     },
     {
         "number": "28",
         "description": "Carnation md",
-        "rgbCode": "6A4FF1"
+        "rgbCode": "F14F6A"
     },
     {
         "number": "29",
         "description": "Carnation dk",
-        "rgbCode": "4139D6"
+        "rgbCode": "D63941"
     },
     {
         "number": "31",
         "description": "Blush lt",
-        "rgbCode": "9D8AF8"
+        "rgbCode": "F88A9D"
     },
     {
         "number": "33",
         "description": "Blush md",
-        "rgbCode": "776CF6"
+        "rgbCode": "F66C77"
     },
     {
         "number": "35",
         "description": "Blush dk",
-        "rgbCode": "4B4BED"
+        "rgbCode": "ED4B4B"
     },
     {
         "number": "36",
         "description": "Blossom Pink lt",
-        "rgbCode": "B2AFF2"
+        "rgbCode": "F2AFB2"
     },
     {
         "number": "38",
         "description": "Blossom Pink md",
-        "rgbCode": "7C64EA"
+        "rgbCode": "EA647C"
     },
     {
         "number": "39",
         "description": "Blossom Pink dk",
-        "rgbCode": "5351C5"
+        "rgbCode": "C55153"
     },
     {
         "number": "40",
         "description": "Carmine Rose lt",
-        "rgbCode": "9973F8"
+        "rgbCode": "F87399"
     },
     {
         "number": "41",
         "description": "Carmine Rose md lt",
-        "rgbCode": "795BEE"
+        "rgbCode": "EE5B79"
     },
     {
         "number": "42",
         "description": "Carmine Rose md",
-        "rgbCode": "4F48BB"
+        "rgbCode": "BB484F"
     },
     {
         "number": "43",
         "description": "Carmine Rose md dk",
-        "rgbCode": "27397D"
+        "rgbCode": "7D3927"
     },
     {
         "number": "44",
         "description": "Carmine Rose dk",
-        "rgbCode": "183573"
+        "rgbCode": "733518"
     },
     {
         "number": "45",
         "description": "Carmine Rose vy dk",
-        "rgbCode": "1F386B"
+        "rgbCode": "6B381F"
     },
     {
         "number": "46",
         "description": "Crimson Red",
-        "rgbCode": "1626CE"
+        "rgbCode": "CE2616"
     },
     {
         "number": "47",
         "description": "Carmine Red",
-        "rgbCode": "1E33A2"
+        "rgbCode": "A2331E"
     },
     {
         "number": "48",
         "description": "China Rose vy lt",
-        "rgbCode": "E2DDF1"
+        "rgbCode": "F1DDE2"
     },
     {
         "number": "49",
         "description": "China Rose lt",
-        "rgbCode": "D2CEF2"
+        "rgbCode": "F2CED2"
     },
     {
         "number": "50",
         "description": "China Rose md",
-        "rgbCode": "C8A6F9"
+        "rgbCode": "F9A6C8"
     },
     {
         "number": "51",
@@ -182,102 +182,102 @@
     {
         "number": "52",
         "description": "China Rose md dk",
-        "rgbCode": "AA80FA"
+        "rgbCode": "FA80AA"
     },
     {
         "number": "54",
         "description": "China Rose dk",
-        "rgbCode": "835AF1"
+        "rgbCode": "F15A83"
     },
     {
         "number": "55",
         "description": "Beauty Rose lt",
-        "rgbCode": "B98BF7"
+        "rgbCode": "F78BB9"
     },
     {
         "number": "57",
         "description": "Beauty Rose md",
-        "rgbCode": "885CE9"
+        "rgbCode": "E95C88"
     },
     {
         "number": "59",
         "description": "China Rose",
-        "rgbCode": "3D44A5"
+        "rgbCode": "A5443D"
     },
     {
         "number": "60",
         "description": "Magenta lt",
-        "rgbCode": "BCA2E8"
+        "rgbCode": "E8A2BC"
     },
     {
         "number": "62",
         "description": "Magenta md",
-        "rgbCode": "9262DB"
+        "rgbCode": "DB6292"
     },
     {
         "number": "63",
         "description": "Magenta dk",
-        "rgbCode": "784FCE"
+        "rgbCode": "CE4F78"
     },
     {
         "number": "65",
         "description": "Antique Rose vy dk",
-        "rgbCode": "4B4197"
+        "rgbCode": "97414B"
     },
     {
         "number": "66",
         "description": "Raspberry lt",
-        "rgbCode": "B192E2"
+        "rgbCode": "E292B1"
     },
     {
         "number": "68",
         "description": "Raspberry md lt",
-        "rgbCode": "785BBF"
+        "rgbCode": "BF5B78"
     },
     {
         "number": "69",
         "description": "Raspberry md",
-        "rgbCode": "544598"
+        "rgbCode": "984554"
     },
     {
         "number": "70",
         "description": "Raspberry dk",
-        "rgbCode": "31386C"
+        "rgbCode": "6C3831"
     },
     {
         "number": "72",
         "description": "Raspberry vy dk",
-        "rgbCode": "273459"
+        "rgbCode": "593427"
     },
     {
         "number": "73",
         "description": "Antique Rose vy lt",
-        "rgbCode": "D2C9F1"
+        "rgbCode": "F1C9D2"
     },
     {
         "number": "74",
         "description": "Antique Rose lt",
-        "rgbCode": "BCABF1"
+        "rgbCode": "F1ABBC"
     },
     {
         "number": "75",
         "description": "Antique Rose md lt",
-        "rgbCode": "AD8CEE"
+        "rgbCode": "EE8CAD"
     },
     {
         "number": "76",
         "description": "Antique Rose md",
-        "rgbCode": "846FCE"
+        "rgbCode": "CE6F84"
     },
     {
         "number": "77",
         "description": "Antique Rose md dk",
-        "rgbCode": "6D53B3"
+        "rgbCode": "B3536D"
     },
     {
         "number": "78",
         "description": "Antique Rose dk",
-        "rgbCode": "5F49A5"
+        "rgbCode": "A5495F"
     },
     {
         "number": "79",
@@ -287,427 +287,427 @@
     {
         "number": "85",
         "description": "Orchid lt",
-        "rgbCode": "D9AEE9"
+        "rgbCode": "E9AED9"
     },
     {
         "number": "86",
         "description": "Orchid md lt",
-        "rgbCode": "BA86DC"
+        "rgbCode": "DC86BA"
     },
     {
         "number": "87",
         "description": "Orchid md",
-        "rgbCode": "9254BC"
+        "rgbCode": "BC5492"
     },
     {
         "number": "88",
         "description": "Orchid md dk",
-        "rgbCode": "7944AF"
+        "rgbCode": "AF4479"
     },
     {
         "number": "89",
         "description": "Orchid dk",
-        "rgbCode": "6D3DAA"
+        "rgbCode": "AA3D6D"
     },
     {
         "number": "90",
         "description": "Plum lt",
-        "rgbCode": "C5A8D5"
+        "rgbCode": "D5A8C5"
     },
     {
         "number": "92",
         "description": "Plum md",
-        "rgbCode": "9D5DA9"
+        "rgbCode": "A95D9D"
     },
     {
         "number": "94",
         "description": "Plum dk",
-        "rgbCode": "7A428F"
+        "rgbCode": "8F427A"
     },
     {
         "number": "95",
         "description": "Violet vy lt",
-        "rgbCode": "DAB3E0"
+        "rgbCode": "E0B3DA"
     },
     {
         "number": "96",
         "description": "Violet lt",
-        "rgbCode": "CD98DB"
+        "rgbCode": "DB98CD"
     },
     {
         "number": "97",
         "description": "Violet md lt",
-        "rgbCode": "B67AC1"
+        "rgbCode": "C17AB6"
     },
     {
         "number": "98",
         "description": "Violet md",
-        "rgbCode": "AF6DAE"
+        "rgbCode": "AE6DAF"
     },
     {
         "number": "99",
         "description": "Violet",
-        "rgbCode": "8E5193"
+        "rgbCode": "93518E"
     },
     {
         "number": "100",
         "description": "Violet md dk",
-        "rgbCode": "744378"
+        "rgbCode": "784374"
     },
     {
         "number": "101",
         "description": "Violet dk",
-        "rgbCode": "643961"
+        "rgbCode": "613964"
     },
     {
         "number": "102",
         "description": "Violet vy dk",
-        "rgbCode": "563048"
+        "rgbCode": "483056"
     },
     {
         "number": "103",
         "description": "Plum vy lt",
-        "rgbCode": "E3C9E7"
+        "rgbCode": "E7C9E3"
     },
     {
         "number": "108",
         "description": "Lavender lt",
-        "rgbCode": "D9A8BC"
+        "rgbCode": "BCA8D9"
     },
     {
         "number": "109",
         "description": "Lavender md lt",
-        "rgbCode": "C3879F"
+        "rgbCode": "9F87C3"
     },
     {
         "number": "110",
         "description": "Lavender md",
-        "rgbCode": "B66C83"
+        "rgbCode": "836CB6"
     },
     {
         "number": "111",
         "description": "Lavender md dk",
-        "rgbCode": "995779"
+        "rgbCode": "795799"
     },
     {
         "number": "112",
         "description": "Lavender dk",
-        "rgbCode": "7F3E5D"
+        "rgbCode": "5D3E7F"
     },
     {
         "number": "117",
         "description": "Thistle lt",
-        "rgbCode": "CDA591"
+        "rgbCode": "91A5CD"
     },
     {
         "number": "118",
         "description": "Thistle md",
-        "rgbCode": "BC8076"
+        "rgbCode": "7680BC"
     },
     {
         "number": "119",
         "description": "Thistle md",
-        "rgbCode": "955457"
+        "rgbCode": "575495"
     },
     {
         "number": "120",
         "description": "Blueberry lt",
-        "rgbCode": "DCC1A8"
+        "rgbCode": "A8C1DC"
     },
     {
         "number": "121",
         "description": "Blueberry md lt",
-        "rgbCode": "BB967B"
+        "rgbCode": "7B96BB"
     },
     {
         "number": "122",
         "description": "Blueberry md",
-        "rgbCode": "815E4B"
+        "rgbCode": "4B5E81"
     },
     {
         "number": "123",
         "description": "Blueberry dk",
-        "rgbCode": "694438"
+        "rgbCode": "384469"
     },
     {
         "number": "127",
         "description": "Indigo",
-        "rgbCode": "30291D"
+        "rgbCode": "1D2930"
     },
     {
         "number": "128",
         "description": "Blue lt",
-        "rgbCode": "E4D3BA"
+        "rgbCode": "BAD3E4"
     },
     {
         "number": "129",
         "description": "Blue",
-        "rgbCode": "D5B694"
+        "rgbCode": "94B6D5"
     },
     {
         "number": "130",
         "description": "Blue md lt",
-        "rgbCode": "CFAA82"
+        "rgbCode": "82AACF"
     },
     {
         "number": "131",
         "description": "Blue md",
-        "rgbCode": "B47554"
+        "rgbCode": "5475B4"
     },
     {
         "number": "132",
         "description": "Blue md dk",
-        "rgbCode": "925223"
+        "rgbCode": "235292"
     },
     {
         "number": "133",
         "description": "Blue dk",
-        "rgbCode": "83431F"
+        "rgbCode": "1F4383"
     },
     {
         "number": "134",
         "description": "Blue vy dk",
-        "rgbCode": "673217"
+        "rgbCode": "173267"
     },
     {
         "number": "136",
         "description": "Wedgewood lt",
-        "rgbCode": "B28863"
+        "rgbCode": "6388B2"
     },
     {
         "number": "137",
         "description": "Wedgewood md",
-        "rgbCode": "A46842"
+        "rgbCode": "4268A4"
     },
     {
         "number": "139",
         "description": "Wedgewood dk",
-        "rgbCode": "7A431F"
+        "rgbCode": "1F437A"
     },
     {
         "number": "140",
         "description": "Copen Blue lt",
-        "rgbCode": "C9A178"
+        "rgbCode": "78A1C9"
     },
     {
         "number": "142",
         "description": "Copen Blue md",
-        "rgbCode": "A66230"
+        "rgbCode": "3062A6"
     },
     {
         "number": "143",
         "description": "Copen Blue dk",
-        "rgbCode": "8C4E20"
+        "rgbCode": "204E8C"
     },
     {
         "number": "144",
         "description": "Delft Blue vy lt",
-        "rgbCode": "CBAF8D"
+        "rgbCode": "8DAFCB"
     },
     {
         "number": "145",
         "description": "Delft Blue lt",
-        "rgbCode": "BA916A"
+        "rgbCode": "6A91BA"
     },
     {
         "number": "146",
         "description": "Delft Blue",
-        "rgbCode": "B37749"
+        "rgbCode": "4977B3"
     },
     {
         "number": "147",
         "description": "Delft Blue md lt",
-        "rgbCode": "915625"
+        "rgbCode": "255691"
     },
     {
         "number": "148",
         "description": "Delft Blue md",
-        "rgbCode": "6E4622"
+        "rgbCode": "22466E"
     },
     {
         "number": "149",
         "description": "Delft Blue md dk",
-        "rgbCode": "523417"
+        "rgbCode": "173452"
     },
     {
         "number": "150",
         "description": "Delft Blue dk",
-        "rgbCode": "3C2F16"
+        "rgbCode": "162F3C"
     },
     {
         "number": "152",
         "description": "Delft Blue vy dk",
-        "rgbCode": "25291B"
+        "rgbCode": "1B2925"
     },
     {
         "number": "158",
         "description": "Sapphire vy lt",
-        "rgbCode": "E1E3C5"
+        "rgbCode": "C5E3E1"
     },
     {
         "number": "159",
         "description": "Sapphire lt",
-        "rgbCode": "DCC3A3"
+        "rgbCode": "A3C3DC"
     },
     {
         "number": "160",
         "description": "Sapphire md lt",
-        "rgbCode": "D8BE8F"
+        "rgbCode": "8FBED8"
     },
     {
         "number": "161",
         "description": "Sapphire md",
-        "rgbCode": "B8975B"
+        "rgbCode": "5B97B8"
     },
     {
         "number": "162",
         "description": "Sapphire md dk",
-        "rgbCode": "946A26"
+        "rgbCode": "266A94"
     },
     {
         "number": "164",
         "description": "Sapphire dk",
-        "rgbCode": "684911"
+        "rgbCode": "114968"
     },
     {
         "number": "167",
         "description": "Surf Blue vy lt",
-        "rgbCode": "CBC68C"
+        "rgbCode": "8CC6CB"
     },
     {
         "number": "168",
         "description": "Surf Blue lt",
-        "rgbCode": "AEA05A"
+        "rgbCode": "5AA0AE"
     },
     {
         "number": "169",
         "description": "Surf Blue md",
-        "rgbCode": "8D7226"
+        "rgbCode": "26728D"
     },
     {
         "number": "170",
         "description": "Surf Blue dk",
-        "rgbCode": "6C5110"
+        "rgbCode": "10516C"
     },
     {
         "number": "175",
         "description": "Ocean Blue lt",
-        "rgbCode": "C09A7B"
+        "rgbCode": "7B9AC0"
     },
     {
         "number": "176",
         "description": "Ocean Blue",
-        "rgbCode": "AC7F6B"
+        "rgbCode": "6B7FAC"
     },
     {
         "number": "177",
         "description": "Ocean Blue md",
-        "rgbCode": "925B4B"
+        "rgbCode": "4B5B92"
     },
     {
         "number": "178",
         "description": "Ocean Blue dk",
-        "rgbCode": "6A3F32"
+        "rgbCode": "323F6A"
     },
     {
         "number": "185",
         "description": "Sea Green lt",
-        "rgbCode": "CCD888"
+        "rgbCode": "88D8CC"
     },
     {
         "number": "186",
         "description": "Sea Green md lt",
-        "rgbCode": "B4C55B"
+        "rgbCode": "5BC5B4"
     },
     {
         "number": "187",
         "description": "Sea Green md",
-        "rgbCode": "98AC2E"
+        "rgbCode": "2EAC98"
     },
     {
         "number": "188",
         "description": "Sea Green md dk",
-        "rgbCode": "748802"
+        "rgbCode": "028874"
     },
     {
         "number": "189",
         "description": "Sea Green dk",
-        "rgbCode": "667701"
+        "rgbCode": "017766"
     },
     {
         "number": "203",
         "description": "Mint Green lt",
-        "rgbCode": "99C987"
+        "rgbCode": "87C999"
     },
     {
         "number": "204",
         "description": "Mint Green md",
-        "rgbCode": "94C27A"
+        "rgbCode": "7AC294"
     },
     {
         "number": "205",
         "description": "Mint Green dk",
-        "rgbCode": "72A84C"
+        "rgbCode": "4CA872"
     },
     {
         "number": "206",
         "description": "Spruce lt",
-        "rgbCode": "AFD49F"
+        "rgbCode": "9FD4AF"
     },
     {
         "number": "208",
         "description": "Spruce md lt",
-        "rgbCode": "86B272"
+        "rgbCode": "72B286"
     },
     {
         "number": "209",
         "description": "Spruce",
-        "rgbCode": "74AC63"
+        "rgbCode": "63AC74"
     },
     {
         "number": "210",
         "description": "Spruce md",
-        "rgbCode": "578C43"
+        "rgbCode": "438C57"
     },
     {
         "number": "211",
         "description": "Spruce md dk",
-        "rgbCode": "487030"
+        "rgbCode": "307048"
     },
     {
         "number": "212",
         "description": "Spruce dk",
-        "rgbCode": "426224"
+        "rgbCode": "246242"
     },
     {
         "number": "213",
         "description": "Juniper vy lt",
-        "rgbCode": "B8D6BF"
+        "rgbCode": "BFD6B8"
     },
     {
         "number": "214",
         "description": "Juniper lt",
-        "rgbCode": "98BE9C"
+        "rgbCode": "9CBE98"
     },
     {
         "number": "215",
         "description": "Juniper md lt",
-        "rgbCode": "7AA873"
+        "rgbCode": "73A87A"
     },
     {
         "number": "216",
         "description": "Juniper md",
-        "rgbCode": "6F975B"
+        "rgbCode": "5B976F"
     },
     {
         "number": "217",
         "description": "Juniper md dk",
-        "rgbCode": "527838"
+        "rgbCode": "387852"
     },
     {
         "number": "218",
         "description": "Juniper dk",
-        "rgbCode": "3F6227"
+        "rgbCode": "27623F"
     },
     {
         "number": "219",
@@ -727,62 +727,62 @@
     {
         "number": "225",
         "description": "Emerald lt",
-        "rgbCode": "66B669"
+        "rgbCode": "69B666"
     },
     {
         "number": "226",
         "description": "Emerald md lt",
-        "rgbCode": "57AA59"
+        "rgbCode": "59AA57"
     },
     {
         "number": "227",
         "description": "Emerald md",
-        "rgbCode": "479036"
+        "rgbCode": "369047"
     },
     {
         "number": "228",
         "description": "Emerald md dk",
-        "rgbCode": "3A7A22"
+        "rgbCode": "227A3A"
     },
     {
         "number": "229",
         "description": "Emerald dk",
-        "rgbCode": "336913"
+        "rgbCode": "136933"
     },
     {
         "number": "230",
         "description": "Mint Green vy dk",
-        "rgbCode": "3F6F0D"
+        "rgbCode": "0D6F3F"
     },
     {
         "number": "231",
         "description": "Rose Grey lt",
-        "rgbCode": "BBC5CA"
+        "rgbCode": "CAC5BB"
     },
     {
         "number": "232",
         "description": "Rose Grey md",
-        "rgbCode": "A8B0B3"
+        "rgbCode": "B3B0A8"
     },
     {
         "number": "233",
         "description": "Rose Grey",
-        "rgbCode": "8A8E93"
+        "rgbCode": "938E8A"
     },
     {
         "number": "234",
         "description": "Charcoal Grey lt",
-        "rgbCode": "C3CAC2"
+        "rgbCode": "C2CAC3"
     },
     {
         "number": "235",
         "description": "Charcoal Grey md",
-        "rgbCode": "8F9183"
+        "rgbCode": "83918F"
     },
     {
         "number": "236",
         "description": "Charcoal Grey dk",
-        "rgbCode": "4B4D47"
+        "rgbCode": "474D4B"
     },
     {
         "number": "237",
@@ -792,182 +792,182 @@
     {
         "number": "238",
         "description": "Spring Green md",
-        "rgbCode": "49AF6C"
+        "rgbCode": "6CAF49"
     },
     {
         "number": "239",
         "description": "Spring Green dk",
-        "rgbCode": "369C56"
+        "rgbCode": "569C36"
     },
     {
         "number": "240",
         "description": "Grass Green lt",
-        "rgbCode": "89C6A0"
+        "rgbCode": "A0C689"
     },
     {
         "number": "241",
         "description": "Grass Green",
-        "rgbCode": "7FC489"
+        "rgbCode": "89C47F"
     },
     {
         "number": "242",
         "description": "Grass Green md lt",
-        "rgbCode": "6CB274"
+        "rgbCode": "74B26C"
     },
     {
         "number": "243",
         "description": "Grass Green md",
-        "rgbCode": "5FA461"
+        "rgbCode": "61A45F"
     },
     {
         "number": "244",
         "description": "Grass Green md dk",
-        "rgbCode": "488646"
+        "rgbCode": "468648"
     },
     {
         "number": "245",
         "description": "Grass Green dk",
-        "rgbCode": "31732A"
+        "rgbCode": "2A7331"
     },
     {
         "number": "246",
         "description": "Grass Green vy dk",
-        "rgbCode": "2A5F20"
+        "rgbCode": "205F2A"
     },
     {
         "number": "253",
         "description": "Parrot Green vy lt",
-        "rgbCode": "84E2CA"
+        "rgbCode": "CAE284"
     },
     {
         "number": "254",
         "description": "Parrot Green lt",
-        "rgbCode": "5FD4C0"
+        "rgbCode": "C0D45F"
     },
     {
         "number": "255",
         "description": "Parrot Green md lt",
-        "rgbCode": "35B593"
+        "rgbCode": "93B535"
     },
     {
         "number": "256",
         "description": "Parrot Green md",
-        "rgbCode": "2A9E75"
+        "rgbCode": "759E2A"
     },
     {
         "number": "257",
         "description": "Parrot Green md dk",
-        "rgbCode": "39905D"
+        "rgbCode": "5D9039"
     },
     {
         "number": "258",
         "description": "Parrot Green dk",
-        "rgbCode": "2C814E"
+        "rgbCode": "4E812C"
     },
     {
         "number": "259",
         "description": "Loden Green vy lt",
-        "rgbCode": "A8E5D3"
+        "rgbCode": "D3E5A8"
     },
     {
         "number": "260",
         "description": "Loden Green lt",
-        "rgbCode": "8DCCB9"
+        "rgbCode": "B9CC8D"
     },
     {
         "number": "261",
         "description": "Loden Green md lt",
-        "rgbCode": "76B18E"
+        "rgbCode": "8EB176"
     },
     {
         "number": "262",
         "description": "Loden Green md",
-        "rgbCode": "447856"
+        "rgbCode": "567844"
     },
     {
         "number": "263",
         "description": "Loden Green dk",
-        "rgbCode": "28523A"
+        "rgbCode": "3A5228"
     },
     {
         "number": "264",
         "description": "Avocado vy lt",
-        "rgbCode": "88C7B5"
+        "rgbCode": "B5C788"
     },
     {
         "number": "265",
         "description": "Avocado lt",
-        "rgbCode": "6FBFA3"
+        "rgbCode": "A3BF6F"
     },
     {
         "number": "266",
         "description": "Avocado md lt",
-        "rgbCode": "4EA086"
+        "rgbCode": "86A04E"
     },
     {
         "number": "267",
         "description": "Avocado md",
-        "rgbCode": "3F9178"
+        "rgbCode": "78913F"
     },
     {
         "number": "268",
         "description": "Avocado md dk",
-        "rgbCode": "316E53"
+        "rgbCode": "536E31"
     },
     {
         "number": "269",
         "description": "Avocado dk",
-        "rgbCode": "26533D"
+        "rgbCode": "3D5326"
     },
     {
         "number": "271",
         "description": "Soft Carnation",
-        "rgbCode": "DAE0EE"
+        "rgbCode": "EEE0DA"
     },
     {
         "number": "273",
         "description": "Stone Grey dk",
-        "rgbCode": "465C5F"
+        "rgbCode": "5F5C46"
     },
     {
         "number": "274",
         "description": "Blue Mist lt",
-        "rgbCode": "CED4BF"
+        "rgbCode": "BFD4CE"
     },
     {
         "number": "275",
         "description": "Citrus lt",
-        "rgbCode": "D3EFEE"
+        "rgbCode": "EEEFD3"
     },
     {
         "number": "276",
         "description": "Pearl",
-        "rgbCode": "BFDFEA"
+        "rgbCode": "EADFBF"
     },
     {
         "number": "277",
         "description": "Desert vy dk",
-        "rgbCode": "195F79"
+        "rgbCode": "795F19"
     },
     {
         "number": "278",
         "description": "Olive Green lt",
-        "rgbCode": "5ED5DB"
+        "rgbCode": "DBD55E"
     },
     {
         "number": "279",
         "description": "Olive Green md lt",
-        "rgbCode": "37BDC2"
+        "rgbCode": "C2BD37"
     },
     {
         "number": "280",
         "description": "Olive Green md",
-        "rgbCode": "3BA8A8"
+        "rgbCode": "A8A83B"
     },
     {
         "number": "281",
         "description": "Olive Green dk",
-        "rgbCode": "278285"
+        "rgbCode": "858227"
     },
     {
         "number": "282",
@@ -977,232 +977,232 @@
     {
         "number": "288",
         "description": "Canary Yellow lt",
-        "rgbCode": "65EDF5"
+        "rgbCode": "F5ED65"
     },
     {
         "number": "289",
         "description": "Canary Yellow md",
-        "rgbCode": "44ECF7"
+        "rgbCode": "F7EC44"
     },
     {
         "number": "290",
         "description": "Canary Yellow md",
-        "rgbCode": "2E0FC"
+        "rgbCode": "C0F2E"
     },
     {
         "number": "291",
         "description": "Canary Yellow dk",
-        "rgbCode": "D9FB"
+        "rgbCode": "FBD9"
     },
     {
         "number": "292",
         "description": "Jonquil vy lt",
-        "rgbCode": "9BEEF1"
+        "rgbCode": "F1EE9B"
     },
     {
         "number": "293",
         "description": "Jonquil lt",
-        "rgbCode": "76EDF4"
+        "rgbCode": "F4ED76"
     },
     {
         "number": "295",
         "description": "Jonquil md lt",
-        "rgbCode": "64EBF6"
+        "rgbCode": "F6EB64"
     },
     {
         "number": "297",
         "description": "Jonquil md",
-        "rgbCode": "5D8FB"
+        "rgbCode": "B8F5D"
     },
     {
         "number": "298",
         "description": "Jonquil dk",
-        "rgbCode": "CCFC"
+        "rgbCode": "FCCC"
     },
     {
         "number": "300",
         "description": "Citrus lt",
-        "rgbCode": "ACEEF0"
+        "rgbCode": "F0EEAC"
     },
     {
         "number": "301",
         "description": "Citrus",
-        "rgbCode": "87E7F4"
+        "rgbCode": "F4E787"
     },
     {
         "number": "302",
         "description": "Citrus md lt",
-        "rgbCode": "50D6F9"
+        "rgbCode": "F9D650"
     },
     {
         "number": "303",
         "description": "Citrus md",
-        "rgbCode": "20B2FB"
+        "rgbCode": "FBB220"
     },
     {
         "number": "304",
         "description": "Citrus dk",
-        "rgbCode": "898F8"
+        "rgbCode": "88F89"
     },
     {
         "number": "305",
         "description": "Topaz lt",
-        "rgbCode": "53DAF5"
+        "rgbCode": "F5DA53"
     },
     {
         "number": "306",
         "description": "Topaz md lt",
-        "rgbCode": "27B5E3"
+        "rgbCode": "E3B527"
     },
     {
         "number": "307",
         "description": "Topaz md",
-        "rgbCode": "C9ED5"
+        "rgbCode": "5EDC9"
     },
     {
         "number": "308",
         "description": "Topaz md dk",
-        "rgbCode": "1985BC"
+        "rgbCode": "BC8519"
     },
     {
         "number": "309",
         "description": "Topaz dk",
-        "rgbCode": "1B74A7"
+        "rgbCode": "A7741B"
     },
     {
         "number": "310",
         "description": "Topaz vy dk",
-        "rgbCode": "185986"
+        "rgbCode": "865918"
     },
     {
         "number": "311",
         "description": "Tangerine vy lt",
-        "rgbCode": "79D4F5"
+        "rgbCode": "F5D479"
     },
     {
         "number": "313",
         "description": "Tangerine lt",
-        "rgbCode": "61C3F9"
+        "rgbCode": "F9C361"
     },
     {
         "number": "314",
         "description": "Tangerine md lt",
-        "rgbCode": "1597FA"
+        "rgbCode": "FA9715"
     },
     {
         "number": "316",
         "description": "Tangerine dk",
-        "rgbCode": "474F2"
+        "rgbCode": "24F47"
     },
     {
         "number": "323",
         "description": "Apricot lt",
-        "rgbCode": "5D90FA"
+        "rgbCode": "FA905D"
     },
     {
         "number": "324",
         "description": "Apricot md",
-        "rgbCode": "3478F3"
+        "rgbCode": "F37834"
     },
     {
         "number": "326",
         "description": "Apricot dk",
-        "rgbCode": "1E54D2"
+        "rgbCode": "D2541E"
     },
     {
         "number": "328",
         "description": "Melon lt",
-        "rgbCode": "7297FC"
+        "rgbCode": "FC9772"
     },
     {
         "number": "329",
         "description": "Melon dk",
-        "rgbCode": "3F73F9"
+        "rgbCode": "F9733F"
     },
     {
         "number": "330",
         "description": "Melon dk",
-        "rgbCode": "2F63F9"
+        "rgbCode": "F9632F"
     },
     {
         "number": "332",
         "description": "Blaze lt",
-        "rgbCode": "1848F5"
+        "rgbCode": "F54818"
     },
     {
         "number": "333",
         "description": "Blaze md lt",
-        "rgbCode": "213EF1"
+        "rgbCode": "F13E21"
     },
     {
         "number": "334",
         "description": "Blaze md",
-        "rgbCode": "132CE4"
+        "rgbCode": "E42C13"
     },
     {
         "number": "335",
         "description": "Blaze dk",
-        "rgbCode": "1226EC"
+        "rgbCode": "EC2612"
     },
     {
         "number": "336",
         "description": "Terra Cotta lt",
-        "rgbCode": "81ACF0"
+        "rgbCode": "F0AC81"
     },
     {
         "number": "337",
         "description": "Terra Cotta md lt",
-        "rgbCode": "6A93E5"
+        "rgbCode": "E5936A"
     },
     {
         "number": "338",
         "description": "Terra Cotta",
-        "rgbCode": "5372D5"
+        "rgbCode": "D57253"
     },
     {
         "number": "339",
         "description": "Terra Cotta md",
-        "rgbCode": "3359BA"
+        "rgbCode": "BA5933"
     },
     {
         "number": "340",
         "description": "Terra Cotta md dk",
-        "rgbCode": "274DA6"
+        "rgbCode": "A64D27"
     },
     {
         "number": "341",
         "description": "Terra Cotta dk",
-        "rgbCode": "214597"
+        "rgbCode": "974521"
     },
     {
         "number": "342",
         "description": "Lilac lt",
-        "rgbCode": "DEBDD4"
+        "rgbCode": "D4BDDE"
     },
     {
         "number": "343",
         "description": "Slate Blue",
-        "rgbCode": "C7B99D"
+        "rgbCode": "9DB9C7"
     },
     {
         "number": "347",
         "description": "Bark lt",
-        "rgbCode": "75ACDB"
+        "rgbCode": "DBAC75"
     },
     {
         "number": "349",
         "description": "Bark md",
-        "rgbCode": "3171B3"
+        "rgbCode": "B37131"
     },
     {
         "number": "351",
         "description": "Bark md dk",
-        "rgbCode": "1C4C87"
+        "rgbCode": "874C1C"
     },
     {
         "number": "352",
         "description": "Bark dk",
-        "rgbCode": "214A79"
+        "rgbCode": "794A21"
     },
     {
         "number": "354",
@@ -1212,192 +1212,192 @@
     {
         "number": "355",
         "description": "Mocha md",
-        "rgbCode": "2C629B"
+        "rgbCode": "9B622C"
     },
     {
         "number": "357",
         "description": "Mocha dk",
-        "rgbCode": "1D4E78"
+        "rgbCode": "784E1D"
     },
     {
         "number": "358",
         "description": "Coffee",
-        "rgbCode": "285776"
+        "rgbCode": "765728"
     },
     {
         "number": "359",
         "description": "Coffee md",
-        "rgbCode": "1E4963"
+        "rgbCode": "63491E"
     },
     {
         "number": "360",
         "description": "Coffee dk",
-        "rgbCode": "204556"
+        "rgbCode": "564520"
     },
     {
         "number": "361",
         "description": "Nutmeg lt",
-        "rgbCode": "93D1ED"
+        "rgbCode": "EDD193"
     },
     {
         "number": "362",
         "description": "Nutmeg md lt",
-        "rgbCode": "70BDE7"
+        "rgbCode": "E7BD70"
     },
     {
         "number": "363",
         "description": "Nutmeg md",
-        "rgbCode": "4DA8DD"
+        "rgbCode": "DDA84D"
     },
     {
         "number": "365",
         "description": "Nutmeg dk",
-        "rgbCode": "2980B5"
+        "rgbCode": "B58029"
     },
     {
         "number": "366",
         "description": "Spice vy lt",
-        "rgbCode": "A1CFE7"
+        "rgbCode": "E7CFA1"
     },
     {
         "number": "367",
         "description": "Spice lt",
-        "rgbCode": "8EC5E3"
+        "rgbCode": "E3C58E"
     },
     {
         "number": "368",
         "description": "Spice md lt",
-        "rgbCode": "70AAD5"
+        "rgbCode": "D5AA70"
     },
     {
         "number": "369",
         "description": "Spice md",
-        "rgbCode": "5892C9"
+        "rgbCode": "C99258"
     },
     {
         "number": "370",
         "description": "Spice md dk",
-        "rgbCode": "266199"
+        "rgbCode": "996126"
     },
     {
         "number": "371",
         "description": "Spice dk",
-        "rgbCode": "285B89"
+        "rgbCode": "895B28"
     },
     {
         "number": "372",
         "description": "Desert lt",
-        "rgbCode": "85BED3"
+        "rgbCode": "D3BE85"
     },
     {
         "number": "373",
         "description": "Desert md",
-        "rgbCode": "62A1BA"
+        "rgbCode": "BAA162"
     },
     {
         "number": "374",
         "description": "Desert md",
-        "rgbCode": "4784A5"
+        "rgbCode": "A58447"
     },
     {
         "number": "375",
         "description": "Desert dk",
-        "rgbCode": "3B7796"
+        "rgbCode": "96773B"
     },
     {
         "number": "376",
         "description": "Fawn lt",
-        "rgbCode": "9EBDD3"
+        "rgbCode": "D3BD9E"
     },
     {
         "number": "378",
         "description": "Fawn md",
-        "rgbCode": "7293AD"
+        "rgbCode": "AD9372"
     },
     {
         "number": "379",
         "description": "Fawn dk",
-        "rgbCode": "5D809E"
+        "rgbCode": "9E805D"
     },
     {
         "number": "380",
         "description": "Fudge",
-        "rgbCode": "21434F"
+        "rgbCode": "4F4321"
     },
     {
         "number": "381",
         "description": "Fudge md",
-        "rgbCode": "1C3B42"
+        "rgbCode": "423B1C"
     },
     {
         "number": "382",
         "description": "Fudge dk",
-        "rgbCode": "1D3B3E"
+        "rgbCode": "3E3B1D"
     },
     {
         "number": "386",
         "description": "Citrus vy lt",
-        "rgbCode": "C5EFEF"
+        "rgbCode": "EFEFC5"
     },
     {
         "number": "387",
         "description": "Ecru",
-        "rgbCode": "C1E1E7"
+        "rgbCode": "E7E1C1"
     },
     {
         "number": "388",
         "description": "Ecru md",
-        "rgbCode": "9EBFCB"
+        "rgbCode": "CBBF9E"
     },
     {
         "number": "390",
         "description": "Linen lt",
-        "rgbCode": "B5D2D7"
+        "rgbCode": "D7D2B5"
     },
     {
         "number": "391",
         "description": "Linen",
-        "rgbCode": "A0C1CA"
+        "rgbCode": "CAC1A0"
     },
     {
         "number": "392",
         "description": "Linen md",
-        "rgbCode": "7899A4"
+        "rgbCode": "A49978"
     },
     {
         "number": "393",
         "description": "Linen dk",
-        "rgbCode": "5A767F"
+        "rgbCode": "7F765A"
     },
     {
         "number": "397",
         "description": "Grey lt",
-        "rgbCode": "C7CDCC"
+        "rgbCode": "CCCDC7"
     },
     {
         "number": "398",
         "description": "Grey",
-        "rgbCode": "B5BCB9"
+        "rgbCode": "B9BCB5"
     },
     {
         "number": "399",
         "description": "Grey md lt",
-        "rgbCode": "9DA49C"
+        "rgbCode": "9CA49D"
     },
     {
         "number": "400",
         "description": "Grey md",
-        "rgbCode": "676964"
+        "rgbCode": "646967"
     },
     {
         "number": "401",
         "description": "Grey dk",
-        "rgbCode": "4D4F4F"
+        "rgbCode": "4F4F4D"
     },
     {
         "number": "403",
         "description": "Black",
-        "rgbCode": "202525"
+        "rgbCode": "252520"
     },
     {
         "number": "406",
@@ -1407,12 +1407,12 @@
     {
         "number": "410",
         "description": "Ice Blue dk",
-        "rgbCode": "C06D00"
+        "rgbCode": "006DC0"
     },
     {
         "number": "433",
         "description": "Ice Blue",
-        "rgbCode": "E7A937"
+        "rgbCode": "37A9E7"
     },
     {
         "number": "610",
@@ -1447,12 +1447,12 @@
     {
         "number": "681",
         "description": "Forest dk",
-        "rgbCode": "436E6D"
+        "rgbCode": "6D6E43"
     },
     {
         "number": "683",
         "description": "Turf Green",
-        "rgbCode": "3B4F2A"
+        "rgbCode": "2A4F3B"
     },
     {
         "number": "701",
@@ -1467,12 +1467,12 @@
     {
         "number": "778",
         "description": "Flesh lt",
-        "rgbCode": "BEDDEE"
+        "rgbCode": "EEDDBE"
     },
     {
         "number": "779",
         "description": "Blue Mist md dk",
-        "rgbCode": "838453"
+        "rgbCode": "538483"
     },
     {
         "number": "781",
@@ -1522,17 +1522,17 @@
     {
         "number": "830",
         "description": "Sierra vy lt",
-        "rgbCode": "A0C2C9"
+        "rgbCode": "C9C2A0"
     },
     {
         "number": "831",
         "description": "Sierra lt",
-        "rgbCode": "8DB3BF"
+        "rgbCode": "BFB38D"
     },
     {
         "number": "832",
         "description": "Sierra md",
-        "rgbCode": "618B93"
+        "rgbCode": "938B61"
     },
     {
         "number": "837",
@@ -1552,122 +1552,122 @@
     {
         "number": "842",
         "description": "Fern Green lt",
-        "rgbCode": "90CCC4"
+        "rgbCode": "C4CC90"
     },
     {
         "number": "843",
         "description": "Fern Green",
-        "rgbCode": "559890"
+        "rgbCode": "909855"
     },
     {
         "number": "844",
         "description": "Fern Green md",
-        "rgbCode": "41827E"
+        "rgbCode": "7E8241"
     },
     {
         "number": "845",
         "description": "Fern Green md dk",
-        "rgbCode": "2F6769"
+        "rgbCode": "69672F"
     },
     {
         "number": "846",
         "description": "Fern Green dk",
-        "rgbCode": "224D47"
+        "rgbCode": "474D22"
     },
     {
         "number": "847",
         "description": "Blue Mist vy lt",
-        "rgbCode": "D1DBCA"
+        "rgbCode": "CADBD1"
     },
     {
         "number": "848",
         "description": "Blue Mist",
-        "rgbCode": "B7BFAA"
+        "rgbCode": "AABFB7"
     },
     {
         "number": "849",
         "description": "Blue Mist md lt",
-        "rgbCode": "A7AF95"
+        "rgbCode": "95AFA7"
     },
     {
         "number": "850",
         "description": "Blue Mist md",
-        "rgbCode": "9CA07C"
+        "rgbCode": "7CA09C"
     },
     {
         "number": "851",
         "description": "Blue Mist dk",
-        "rgbCode": "656333"
+        "rgbCode": "336365"
     },
     {
         "number": "852",
         "description": "Turf vy lt",
-        "rgbCode": "A2CFD8"
+        "rgbCode": "D8CFA2"
     },
     {
         "number": "853",
         "description": "Turf lt",
-        "rgbCode": "79ABB7"
+        "rgbCode": "B7AB79"
     },
     {
         "number": "854",
         "description": "Turf md lt",
-        "rgbCode": "639AA7"
+        "rgbCode": "A79A63"
     },
     {
         "number": "855",
         "description": "Turf md",
-        "rgbCode": "528D9D"
+        "rgbCode": "9D8D52"
     },
     {
         "number": "856",
         "description": "Turf dk",
-        "rgbCode": "407882"
+        "rgbCode": "827840"
     },
     {
         "number": "858",
         "description": "Laurel Green lt",
-        "rgbCode": "8BB29F"
+        "rgbCode": "9FB28B"
     },
     {
         "number": "859",
         "description": "Laurel Green",
-        "rgbCode": "759E88"
+        "rgbCode": "889E75"
     },
     {
         "number": "860",
         "description": "Laurel Green md lt",
-        "rgbCode": "5D8873"
+        "rgbCode": "73885D"
     },
     {
         "number": "861",
         "description": "Laurel Green md",
-        "rgbCode": "3F6B50"
+        "rgbCode": "506B3F"
     },
     {
         "number": "862",
         "description": "Laurel Green dk",
-        "rgbCode": "32523A"
+        "rgbCode": "3A5232"
     },
     {
         "number": "868",
         "description": "Flesh md",
-        "rgbCode": "94B4EE"
+        "rgbCode": "EEB494"
     },
     {
         "number": "869",
         "description": "Amethyst lt",
-        "rgbCode": "BFBCC6"
+        "rgbCode": "C6BCBF"
     },
     {
         "number": "870",
         "description": "Amethyst md lt",
-        "rgbCode": "B0A2AA"
+        "rgbCode": "AAA2B0"
     },
     {
         "number": "871",
         "description": "Amethyst md lt",
-        "rgbCode": "837987"
+        "rgbCode": "877983"
     },
     {
         "number": "872",
@@ -1677,662 +1677,662 @@
     {
         "number": "873",
         "description": "Amethyst dk",
-        "rgbCode": "4F495E"
+        "rgbCode": "5E494F"
     },
     {
         "number": "874",
         "description": "Saffron md",
-        "rgbCode": "60B6D4"
+        "rgbCode": "D4B660"
     },
     {
         "number": "875",
         "description": "Pine lt",
-        "rgbCode": "A7C597"
+        "rgbCode": "97C5A7"
     },
     {
         "number": "876",
         "description": "Pine",
-        "rgbCode": "7C9E64"
+        "rgbCode": "649E7C"
     },
     {
         "number": "877",
         "description": "Pine md",
-        "rgbCode": "6D8E4F"
+        "rgbCode": "4F8E6D"
     },
     {
         "number": "878",
         "description": "Pine md dk",
-        "rgbCode": "4C6C37"
+        "rgbCode": "376C4C"
     },
     {
         "number": "879",
         "description": "Pine dk",
-        "rgbCode": "415C23"
+        "rgbCode": "235C41"
     },
     {
         "number": "880",
         "description": "Copper lt",
-        "rgbCode": "B4D4EA"
+        "rgbCode": "EAD4B4"
     },
     {
         "number": "881",
         "description": "Copper",
-        "rgbCode": "A8CFE9"
+        "rgbCode": "E9CFA8"
     },
     {
         "number": "882",
         "description": "Copper md lt",
-        "rgbCode": "81AAE1"
+        "rgbCode": "E1AA81"
     },
     {
         "number": "883",
         "description": "Copper md",
-        "rgbCode": "628DCB"
+        "rgbCode": "CB8D62"
     },
     {
         "number": "884",
         "description": "Copper dk",
-        "rgbCode": "3D6BB7"
+        "rgbCode": "B76B3D"
     },
     {
         "number": "885",
         "description": "Sand Stone lt",
-        "rgbCode": "B4DFE5"
+        "rgbCode": "E5DFB4"
     },
     {
         "number": "886",
         "description": "Sand Stone",
-        "rgbCode": "86C3CD"
+        "rgbCode": "CDC386"
     },
     {
         "number": "887",
         "description": "Sand Stone md lt",
-        "rgbCode": "7BBFD1"
+        "rgbCode": "D1BF7B"
     },
     {
         "number": "888",
         "description": "Sand Stone md dk",
-        "rgbCode": "458EA5"
+        "rgbCode": "A58E45"
     },
     {
         "number": "889",
         "description": "Sand Stone md dk",
-        "rgbCode": "32627D"
+        "rgbCode": "7D6232"
     },
     {
         "number": "890",
         "description": "Brass lt",
-        "rgbCode": "46A3CB"
+        "rgbCode": "CBA346"
     },
     {
         "number": "891",
         "description": "Brass",
-        "rgbCode": "65C4E7"
+        "rgbCode": "E7C465"
     },
     {
         "number": "892",
         "description": "Rose Wine lt",
-        "rgbCode": "C3D4E8"
+        "rgbCode": "E8D4C3"
     },
     {
         "number": "893",
         "description": "Rose Wine",
-        "rgbCode": "AEBCE7"
+        "rgbCode": "E7BCAE"
     },
     {
         "number": "894",
         "description": "Rose Wine md lt",
-        "rgbCode": "97A2DB"
+        "rgbCode": "DBA297"
     },
     {
         "number": "895",
         "description": "Rose Wine md",
-        "rgbCode": "7D82D0"
+        "rgbCode": "D0827D"
     },
     {
         "number": "896",
         "description": "Rose Wine dk",
-        "rgbCode": "4B4F91"
+        "rgbCode": "914F4B"
     },
     {
         "number": "897",
         "description": "Rose Wine vy dk",
-        "rgbCode": "333F73"
+        "rgbCode": "733F33"
     },
     {
         "number": "898",
         "description": "Sierra",
-        "rgbCode": "4F7E8E"
+        "rgbCode": "8E7E4F"
     },
     {
         "number": "899",
         "description": "Tawny lt",
-        "rgbCode": "8FAAB4"
+        "rgbCode": "B4AA8F"
     },
     {
         "number": "900",
         "description": "Pewter lt",
-        "rgbCode": "A8BAB0"
+        "rgbCode": "B0BAA8"
     },
     {
         "number": "901",
         "description": "Tawny md",
-        "rgbCode": "3793BA"
+        "rgbCode": "BA9337"
     },
     {
         "number": "903",
         "description": "Tawny md",
-        "rgbCode": "567A88"
+        "rgbCode": "887A56"
     },
     {
         "number": "904",
         "description": "Mocha Brown dk",
-        "rgbCode": "43626B"
+        "rgbCode": "6B6243"
     },
     {
         "number": "905",
         "description": "Tawny dk",
-        "rgbCode": "29424C"
+        "rgbCode": "4C4229"
     },
     {
         "number": "906",
         "description": "Brass dk",
-        "rgbCode": "19495D"
+        "rgbCode": "5D4919"
     },
     {
         "number": "907",
         "description": "Saffron dk",
-        "rgbCode": "2095B4"
+        "rgbCode": "B49520"
     },
     {
         "number": "914",
         "description": "Flesh md dk",
-        "rgbCode": "6E95C4"
+        "rgbCode": "C4956E"
     },
     {
         "number": "920",
         "description": "Denim lt",
-        "rgbCode": "AEA481"
+        "rgbCode": "81A4AE"
     },
     {
         "number": "921",
         "description": "Denim md",
-        "rgbCode": "888460"
+        "rgbCode": "608488"
     },
     {
         "number": "922",
         "description": "Denim dk",
-        "rgbCode": "736F50"
+        "rgbCode": "506F73"
     },
     {
         "number": "923",
         "description": "Emerald vy dk",
-        "rgbCode": "345A17"
+        "rgbCode": "175A34"
     },
     {
         "number": "924",
         "description": "Olive Green vy dk",
-        "rgbCode": "1E6864"
+        "rgbCode": "64681E"
     },
     {
         "number": "925",
         "description": "Tangerine vy",
-        "rgbCode": "35EF0"
+        "rgbCode": "0EF35"
     },
     {
         "number": "926",
         "description": "Ecru vy lt",
-        "rgbCode": "D8EAEA"
+        "rgbCode": "EAEAD8"
     },
     {
         "number": "928",
         "description": "Larkspur lt",
-        "rgbCode": "DBD09E"
+        "rgbCode": "9ED0DB"
     },
     {
         "number": "933",
         "description": "Fawn vy lt",
-        "rgbCode": "B2D2E5"
+        "rgbCode": "E5D2B2"
     },
     {
         "number": "936",
         "description": "Fawn vy dk",
-        "rgbCode": "365A7D"
+        "rgbCode": "7D5A36"
     },
     {
         "number": "939",
         "description": "Stormy Blue md",
-        "rgbCode": "AD907B"
+        "rgbCode": "7B90AD"
     },
     {
         "number": "940",
         "description": "Stormy Blue md dk",
-        "rgbCode": "94653F"
+        "rgbCode": "3F6594"
     },
     {
         "number": "941",
         "description": "Stormy Blue vy dk",
-        "rgbCode": "7B4F3B"
+        "rgbCode": "3B4F7B"
     },
     {
         "number": "942",
         "description": "Wheat lt",
-        "rgbCode": "8ACBE1"
+        "rgbCode": "E1CB8A"
     },
     {
         "number": "943",
         "description": "Wheat md",
-        "rgbCode": "61A5C5"
+        "rgbCode": "C5A561"
     },
     {
         "number": "944",
         "description": "Wheat dk",
-        "rgbCode": "2A678D"
+        "rgbCode": "8D672A"
     },
     {
         "number": "945",
         "description": "Harvest md",
-        "rgbCode": "61AFBA"
+        "rgbCode": "BAAF61"
     },
     {
         "number": "956",
         "description": "Harvest lt",
-        "rgbCode": "94CBD2"
+        "rgbCode": "D2CB94"
     },
     {
         "number": "968",
         "description": "Wineberry lt",
-        "rgbCode": "BAC1E7"
+        "rgbCode": "E7C1BA"
     },
     {
         "number": "969",
         "description": "Wineberry md",
-        "rgbCode": "9491C5"
+        "rgbCode": "C59194"
     },
     {
         "number": "970",
         "description": "Wineberry md",
-        "rgbCode": "7165A6"
+        "rgbCode": "A66571"
     },
     {
         "number": "972",
         "description": "Wineberry dk",
-        "rgbCode": "534287"
+        "rgbCode": "874253"
     },
     {
         "number": "975",
         "description": "Sea Blue lt",
-        "rgbCode": "D3CFB3"
+        "rgbCode": "B3CFD3"
     },
     {
         "number": "976",
         "description": "Sea Blue md lt",
-        "rgbCode": "CCBF9C"
+        "rgbCode": "9CBFCC"
     },
     {
         "number": "977",
         "description": "Sea Blue md",
-        "rgbCode": "AF926D"
+        "rgbCode": "6D92AF"
     },
     {
         "number": "978",
         "description": "Sea Blue md dk",
-        "rgbCode": "977B4E"
+        "rgbCode": "4E7B97"
     },
     {
         "number": "979",
         "description": "Sea Blue dk",
-        "rgbCode": "7F5B2D"
+        "rgbCode": "2D5B7F"
     },
     {
         "number": "1001",
         "description": "Antique Gold md",
-        "rgbCode": "318ED7"
+        "rgbCode": "D78E31"
     },
     {
         "number": "1002",
         "description": "Antique Gold lt",
-        "rgbCode": "4AAEEC"
+        "rgbCode": "ECAE4A"
     },
     {
         "number": "1003",
         "description": "Amberglow",
-        "rgbCode": "418AE8"
+        "rgbCode": "E88A41"
     },
     {
         "number": "1004",
         "description": "Apricot vy dk",
-        "rgbCode": "2357B3"
+        "rgbCode": "B35723"
     },
     {
         "number": "1005",
         "description": "Cherry Red md",
-        "rgbCode": "23378C"
+        "rgbCode": "8C3723"
     },
     {
         "number": "1006",
         "description": "Cherry Red",
-        "rgbCode": "2A39A4"
+        "rgbCode": "A4392A"
     },
     {
         "number": "1007",
         "description": "Chicory dk",
-        "rgbCode": "5276A6"
+        "rgbCode": "A67652"
     },
     {
         "number": "1008",
         "description": "Chicory md",
-        "rgbCode": "8FB0D9"
+        "rgbCode": "D9B08F"
     },
     {
         "number": "1009",
         "description": "Copper vy lt",
-        "rgbCode": "C0E0EE"
+        "rgbCode": "EEE0C0"
     },
     {
         "number": "1010",
         "description": "Cinnamon vy lt",
-        "rgbCode": "C8E5F0"
+        "rgbCode": "F0E5C8"
     },
     {
         "number": "1011",
         "description": "Flesh vy lt",
-        "rgbCode": "D0E7F0"
+        "rgbCode": "F0E7D0"
     },
     {
         "number": "1012",
         "description": "Chicory lt",
-        "rgbCode": "BFDEF1"
+        "rgbCode": "F1DEBF"
     },
     {
         "number": "1013",
         "description": "Brick md",
-        "rgbCode": "6186CF"
+        "rgbCode": "CF8661"
     },
     {
         "number": "1014",
         "description": "Brick vy dk",
-        "rgbCode": "304AA7"
+        "rgbCode": "A74A30"
     },
     {
         "number": "1015",
         "description": "Brick dk",
-        "rgbCode": "243C90"
+        "rgbCode": "903C24"
     },
     {
         "number": "1016",
         "description": "Antique Mauve lt",
-        "rgbCode": "AFA9D1"
+        "rgbCode": "D1A9AF"
     },
     {
         "number": "1017",
         "description": "Antique",
-        "rgbCode": "9A94BF"
+        "rgbCode": "BF949A"
     },
     {
         "number": "1018",
         "description": "Antique Mauve dk",
-        "rgbCode": "7171A0"
+        "rgbCode": "A07171"
     },
     {
         "number": "1019",
         "description": "Antique Mauve vy dk",
-        "rgbCode": "555B8C"
+        "rgbCode": "8C5B55"
     },
     {
         "number": "1020",
         "description": "Peony vy lt",
-        "rgbCode": "CBD0EC"
+        "rgbCode": "ECD0CB"
     },
     {
         "number": "1021",
         "description": "Peony lt",
-        "rgbCode": "BCC4F0"
+        "rgbCode": "F0C4BC"
     },
     {
         "number": "1022",
         "description": "Peony md lt",
-        "rgbCode": "94A3EC"
+        "rgbCode": "ECA394"
     },
     {
         "number": "1023",
         "description": "Peony",
-        "rgbCode": "7A83E2"
+        "rgbCode": "E2837A"
     },
     {
         "number": "1024",
         "description": "Peony md",
-        "rgbCode": "656FD2"
+        "rgbCode": "D26F65"
     },
     {
         "number": "1025",
         "description": "Peony md dk",
-        "rgbCode": "3744B7"
+        "rgbCode": "B74437"
     },
     {
         "number": "1026",
         "description": "Wineberry vy lt",
-        "rgbCode": "D1DCEE"
+        "rgbCode": "EEDCD1"
     },
     {
         "number": "1027",
         "description": "Rose Wine md dk",
-        "rgbCode": "616AB6"
+        "rgbCode": "B66A61"
     },
     {
         "number": "1028",
         "description": "Raspberry md dk",
-        "rgbCode": "3B3C7A"
+        "rgbCode": "7A3C3B"
     },
     {
         "number": "1029",
         "description": "Antique Rose dk",
-        "rgbCode": "3A3676"
+        "rgbCode": "76363A"
     },
     {
         "number": "1030",
         "description": "Thistle md dk",
-        "rgbCode": "BA7881"
+        "rgbCode": "8178BA"
     },
     {
         "number": "1031",
         "description": "Antique Blue lt",
-        "rgbCode": "DED6C0"
+        "rgbCode": "C0D6DE"
     },
     {
         "number": "1032",
         "description": "Antique Blue vy lt",
-        "rgbCode": "D3CBB0"
+        "rgbCode": "B0CBD3"
     },
     {
         "number": "1033",
         "description": "Antique Blue lt",
-        "rgbCode": "C1B499"
+        "rgbCode": "99B4C1"
     },
     {
         "number": "1034",
         "description": "Antique",
-        "rgbCode": "988866"
+        "rgbCode": "668898"
     },
     {
         "number": "1035",
         "description": "Antique Blue dk",
-        "rgbCode": "635A3D"
+        "rgbCode": "3D5A63"
     },
     {
         "number": "1036",
         "description": "Antique Blue vy dk",
-        "rgbCode": "5C4B29"
+        "rgbCode": "294B5C"
     },
     {
         "number": "1037",
         "description": "Sea Blue vy lt",
-        "rgbCode": "E8EBE1"
+        "rgbCode": "E1EBE8"
     },
     {
         "number": "1038",
         "description": "Glacier Blue md",
-        "rgbCode": "D5C18F"
+        "rgbCode": "8FC1D5"
     },
     {
         "number": "1039",
         "description": "Glacier Blue md dk",
-        "rgbCode": "BCA467"
+        "rgbCode": "67A4BC"
     },
     {
         "number": "1040",
         "description": "Pewter md",
-        "rgbCode": "82988D"
+        "rgbCode": "8D9882"
     },
     {
         "number": "1041",
         "description": "Stone Grey vy dk",
-        "rgbCode": "425853"
+        "rgbCode": "535842"
     },
     {
         "number": "1042",
         "description": "Pine vy lt",
-        "rgbCode": "C6E2C9"
+        "rgbCode": "C9E2C6"
     },
     {
         "number": "1043",
         "description": "Grass Green vy lt",
-        "rgbCode": "B1E4C1"
+        "rgbCode": "C1E4B1"
     },
     {
         "number": "1044",
         "description": "Grass Green dk",
-        "rgbCode": "1A4B24"
+        "rgbCode": "244B1A"
     },
     {
         "number": "1045",
         "description": "Toast lt",
-        "rgbCode": "559ECB"
+        "rgbCode": "CB9E55"
     },
     {
         "number": "1046",
         "description": "Toast",
-        "rgbCode": "3180B5"
+        "rgbCode": "B58031"
     },
     {
         "number": "1047",
         "description": "Cinnamon lt",
-        "rgbCode": "69B9F4"
+        "rgbCode": "F4B969"
     },
     {
         "number": "1048",
         "description": "Cinnamon md",
-        "rgbCode": "3C84D2"
+        "rgbCode": "D2843C"
     },
     {
         "number": "1049",
         "description": "Cinnamon",
-        "rgbCode": "2B6EB4"
+        "rgbCode": "B46E2B"
     },
     {
         "number": "1050",
         "description": "Tawny md dk",
-        "rgbCode": "2C4C61"
+        "rgbCode": "614C2C"
     },
     {
         "number": "1060",
         "description": "Teal ul lt",
-        "rgbCode": "D9D7AD"
+        "rgbCode": "ADD7D9"
     },
     {
         "number": "1062",
         "description": "Teal vy lt",
-        "rgbCode": "B8B27C"
+        "rgbCode": "7CB2B8"
     },
     {
         "number": "1064",
         "description": "Teal lt",
-        "rgbCode": "AEA367"
+        "rgbCode": "67A3AE"
     },
     {
         "number": "1066",
         "description": "Teal md",
-        "rgbCode": "7D732E"
+        "rgbCode": "2E737D"
     },
     {
         "number": "1068",
         "description": "Teal",
-        "rgbCode": "645E1C"
+        "rgbCode": "1C5E64"
     },
     {
         "number": "1070",
         "description": "Jade lt",
-        "rgbCode": "B2C678"
+        "rgbCode": "78C6B2"
     },
     {
         "number": "1072",
         "description": "Jade md lt",
-        "rgbCode": "9AB55B"
+        "rgbCode": "5BB59A"
     },
     {
         "number": "1074",
         "description": "Jade md",
-        "rgbCode": "889F3E"
+        "rgbCode": "3E9F88"
     },
     {
         "number": "1076",
         "description": "Jade",
-        "rgbCode": "79902C"
+        "rgbCode": "2C9079"
     },
     {
         "number": "1080",
         "description": "Taupe lt",
-        "rgbCode": "9EC2D5"
+        "rgbCode": "D5C29E"
     },
     {
         "number": "1082",
         "description": "Taupe md lt",
-        "rgbCode": "83A4B5"
+        "rgbCode": "B5A483"
     },
     {
         "number": "1084",
         "description": "Taupe",
-        "rgbCode": "61889A"
+        "rgbCode": "9A8861"
     },
     {
         "number": "1086",
         "description": "Taupe dk",
-        "rgbCode": "3B6071"
+        "rgbCode": "71603B"
     },
     {
         "number": "1088",
         "description": "Taupe vy dk",
-        "rgbCode": "234651"
+        "rgbCode": "514623"
     },
     {
         "number": "1089",
         "description": "Electric Blue md",
-        "rgbCode": "D28D03"
+        "rgbCode": "038DD2"
     },
     {
         "number": "1090",
         "description": "Electric Blue lt",
-        "rgbCode": "E8BA63"
+        "rgbCode": "63BAE8"
     },
     {
         "number": "1092",
         "description": "Sea Green vy lt",
-        "rgbCode": "E1E6B2"
+        "rgbCode": "B2E6E1"
     },
     {
         "number": "1094",
         "description": "Beauty Rose vy lt",
-        "rgbCode": "CFB1F2"
+        "rgbCode": "F2B1CF"
     },
     {
         "number": "1096",
         "description": "Slate Blue lt",
-        "rgbCode": "D9D2B9"
+        "rgbCode": "B9D2D9"
     },
     {
         "number": "1098",
         "description": "Crimson lt",
-        "rgbCode": "2932DF"
+        "rgbCode": "DF3229"
     },
     {
         "number": "1200",
@@ -2342,32 +2342,32 @@
     {
         "number": "1201",
         "description": "Variegated",
-        "rgbCode": "8A62DB"
+        "rgbCode": "DB628A"
     },
     {
         "number": "1202",
         "description": "Variegated",
-        "rgbCode": "6C6ED6"
+        "rgbCode": "D66E6C"
     },
     {
         "number": "1203",
         "description": "Variegated",
-        "rgbCode": "3D37D5"
+        "rgbCode": "D5373D"
     },
     {
         "number": "1204",
         "description": "Variegated",
-        "rgbCode": "3A2AC0"
+        "rgbCode": "C02A3A"
     },
     {
         "number": "1206",
         "description": "Variegated",
-        "rgbCode": "130C6F"
+        "rgbCode": "6F0C13"
     },
     {
         "number": "1207",
         "description": "Variegated",
-        "rgbCode": "825AC7"
+        "rgbCode": "C75A82"
     },
     {
         "number": "1208",
@@ -2377,27 +2377,27 @@
     {
         "number": "1209",
         "description": "Variegated",
-        "rgbCode": "B592AF"
+        "rgbCode": "AF92B5"
     },
     {
         "number": "1210",
         "description": "Variegated",
-        "rgbCode": "AB6A3E"
+        "rgbCode": "3E6AAB"
     },
     {
         "number": "1211",
         "description": "Variegated",
-        "rgbCode": "BD8A5E"
+        "rgbCode": "5E8ABD"
     },
     {
         "number": "1212",
         "description": "Variegated",
-        "rgbCode": "C8A583"
+        "rgbCode": "83A5C8"
     },
     {
         "number": "1213",
         "description": "Variegated",
-        "rgbCode": "729E5E"
+        "rgbCode": "5E9E72"
     },
     {
         "number": "1214",
@@ -2407,27 +2407,27 @@
     {
         "number": "1215",
         "description": "Variegated",
-        "rgbCode": "43976D"
+        "rgbCode": "6D9743"
     },
     {
         "number": "1216",
         "description": "Variegated",
-        "rgbCode": "367B60"
+        "rgbCode": "607B36"
     },
     {
         "number": "1217",
         "description": "Variegated",
-        "rgbCode": "59CDE8"
+        "rgbCode": "E8CD59"
     },
     {
         "number": "1218",
         "description": "Variegated",
-        "rgbCode": "3768BB"
+        "rgbCode": "BB6837"
     },
     {
         "number": "1220",
         "description": "Variegated",
-        "rgbCode": "327FE1"
+        "rgbCode": "E17F32"
     },
     {
         "number": "1223",
@@ -2442,31 +2442,31 @@
     {
         "number": "4146",
         "description": "Sportsman Flesh",
-        "rgbCode": "A9C8EB"
+        "rgbCode": "EBC8A9"
     },
     {
         "number": "5975",
         "description": "Brick dk",
-        "rgbCode": "415FB9"
+        "rgbCode": "B95F41"
     },
     {
         "number": "8581",
         "description": "Stone Grey",
-        "rgbCode": "738D85"
+        "rgbCode": "858D73"
     },
     {
         "number": "9046",
         "description": "Christmas Red",
-        "rgbCode": "1627BE"
+        "rgbCode": "BE2716"
     },
     {
         "number": "9159",
         "description": "Glacier Blue",
-        "rgbCode": "E5D8B2"
+        "rgbCode": "B2D8E5"
     },
     {
         "number": "9575",
         "description": "Brick md lt",
-        "rgbCode": "85A4E9"
+        "rgbCode": "E9A485"
     }
 ]

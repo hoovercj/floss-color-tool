@@ -12,7 +12,7 @@
     {
         "number": "313",
         "description": "Aran",
-        "rgbCode": "E6F0F0"
+        "rgbCode": "F0F0E6"
     },
     {
         "number": "312",
@@ -22,27 +22,27 @@
     {
         "number": "3950",
         "description": "Charcoal",
-        "rgbCode": "51363E"
+        "rgbCode": "3E3651"
     },
     {
         "number": "400",
         "description": "Grey Heather",
-        "rgbCode": "707272"
+        "rgbCode": "727270"
     },
     {
         "number": "341",
         "description": "Light Grey",
-        "rgbCode": "CDC5BF"
+        "rgbCode": "BFC5CD"
     },
     {
         "number": "378",
         "description": "Claret",
-        "rgbCode": "120A28"
+        "rgbCode": "280A12"
     },
     {
         "number": "365",
         "description": "Coffee",
-        "rgbCode": "141722"
+        "rgbCode": "221714"
     },
     {
         "number": "360",
@@ -52,236 +52,236 @@
     {
         "number": "336",
         "description": "Warm Brown",
-        "rgbCode": "2F5D7B"
+        "rgbCode": "7B5D2F"
     },
     {
         "number": "334",
         "description": "Buff",
-        "rgbCode": "A3CCD6"
+        "rgbCode": "D6CCA3"
     },
     {
         "number": "376",
         "description": "Burgundy",
-        "rgbCode": "1A024D"
+        "rgbCode": "4D021A"
     },
     {
         "number": "319",
         "description": "Cherry Red",
-        "rgbCode": "11007C"
+        "rgbCode": "7C0011"
     },
     {
         "number": "390",
         "description": "Hot Red",
-        "rgbCode": "1201B1"
+        "rgbCode": "B10112"
     },
     {
         "number": "718",
         "description": "Shocking Pink",
-        "rgbCode": "801FBC"
+        "rgbCode": "BC1F80"
     },
     {
         "number": "774",
         "description": "Light Raspberry",
-        "rgbCode": "8965BA"
+        "rgbCode": "BA6589"
     },
     {
         "number": "726",
         "description": "Coral",
-        "rgbCode": "495CC0"
+        "rgbCode": "C05C49"
     },
     {
         "number": "722",
         "description": "Pretty n Pink",
-        "rgbCode": "B05CFA"
+        "rgbCode": "FA5CB0"
     },
     {
         "number": "373",
         "description": "Petal Pink",
-        "rgbCode": "DABFF5"
+        "rgbCode": "F5BFDA"
     },
     {
         "number": "345",
         "description": "Baby Pink",
-        "rgbCode": "E2D6F9"
+        "rgbCode": "F9D6E2"
     },
     {
         "number": "3251",
         "description": "Flame",
-        "rgbCode": "900EC"
+        "rgbCode": "C0E90"
     },
     {
         "number": "256",
         "description": "Carrot",
-        "rgbCode": "3264CB"
+        "rgbCode": "CB6432"
     },
     {
         "number": "254",
         "description": "Pumpkin",
-        "rgbCode": "D7ADA"
+        "rgbCode": "AADD7"
     },
     {
         "number": "776",
         "description": "Dark Orchid",
-        "rgbCode": "3A0F2B"
+        "rgbCode": "2B0F3A"
     },
     {
         "number": "528",
         "description": "Medium Purple",
-        "rgbCode": "92476A"
+        "rgbCode": "6A4792"
     },
     {
         "number": "356",
         "description": "Amethyst",
-        "rgbCode": "71002C"
+        "rgbCode": "2C0071"
     },
     {
         "number": "358",
         "description": "Lavender",
-        "rgbCode": "BB5E72"
+        "rgbCode": "725EBB"
     },
     {
         "number": "530",
         "description": "Orchid",
-        "rgbCode": "C47EA9"
+        "rgbCode": "A97EC4"
     },
     {
         "number": "579",
         "description": "Pale Plum",
-        "rgbCode": "D6AABC"
+        "rgbCode": "BCAAD6"
     },
     {
         "number": "321",
         "description": "Gold",
-        "rgbCode": "AA7CD"
+        "rgbCode": "D7CAA"
     },
     {
         "number": "324",
         "description": "Bright Yellow",
-        "rgbCode": "2AF2E8"
+        "rgbCode": "E8F22A"
     },
     {
         "number": "322",
         "description": "Pale Yellow",
-        "rgbCode": "C7FCF9"
+        "rgbCode": "F9FCC7"
     },
     {
         "number": "235",
         "description": "Lemon",
-        "rgbCode": "79E8F5"
+        "rgbCode": "F5E879"
     },
     {
         "number": "320",
         "description": "Cornmeal",
-        "rgbCode": "9CE8EF"
+        "rgbCode": "EFE89C"
     },
     {
         "number": "387",
         "description": "Soft Navy",
-        "rgbCode": "4F1C18"
+        "rgbCode": "181C4F"
     },
     {
         "number": "5851",
         "description": "Denim",
-        "rgbCode": "64332C"
+        "rgbCode": "2C3364"
     },
     {
         "number": "380",
         "description": "Windsor Blue",
-        "rgbCode": "4A3225"
+        "rgbCode": "25324A"
     },
     {
         "number": "385",
         "description": "Royal Blue",
-        "rgbCode": "771D1A"
+        "rgbCode": "1A1D77"
     },
     {
         "number": "886",
         "description": "Blue",
-        "rgbCode": "9A3A24"
+        "rgbCode": "243A9A"
     },
     {
         "number": "885",
         "description": "Delft Blue",
-        "rgbCode": "B86344"
+        "rgbCode": "4463B8"
     },
     {
         "number": "347",
         "description": "Light Periwinkle",
-        "rgbCode": "CA8F79"
+        "rgbCode": "798FCA"
     },
     {
         "number": "382",
         "description": "Country Blue",
-        "rgbCode": "BFAC8D"
+        "rgbCode": "8DACBF"
     },
     {
         "number": "381",
         "description": "Light Blue",
-        "rgbCode": "E5BEA8"
+        "rgbCode": "A8BEE5"
     },
     {
         "number": "512",
         "description": "Turquoise",
-        "rgbCode": "DBAE5A"
+        "rgbCode": "5AAEDB"
     },
     {
         "number": "389",
         "description": "Hunter Green",
-        "rgbCode": "1E371F"
+        "rgbCode": "1F371E"
     },
     {
         "number": "406",
         "description": "Medium Thyme",
-        "rgbCode": "2E4741"
+        "rgbCode": "41472E"
     },
     {
         "number": "631",
         "description": "Light Sage",
-        "rgbCode": "6C8A72"
+        "rgbCode": "728A6C"
     },
     {
         "number": "624",
         "description": "Tea Leaf",
-        "rgbCode": "468F69"
+        "rgbCode": "698F46"
     },
     {
         "number": "661",
         "description": "Frosty Green",
-        "rgbCode": "88AD9F"
+        "rgbCode": "9FAD88"
     },
     {
         "number": "656",
         "description": "Real Teal",
-        "rgbCode": "594F12"
+        "rgbCode": "124F59"
     },
     {
         "number": "368",
         "description": "Paddy Green",
-        "rgbCode": "2B5A0E"
+        "rgbCode": "0E5A2B"
     },
     {
         "number": "3862",
         "description": "Jade",
-        "rgbCode": "8A7E10"
+        "rgbCode": "107E8A"
     },
     {
         "number": "505",
         "description": "Aruba Sea",
-        "rgbCode": "B5B77A"
+        "rgbCode": "7AB7B5"
     },
     {
         "number": "3620",
         "description": "Glow Worm",
-        "rgbCode": "97D666"
+        "rgbCode": "66D697"
     },
     {
         "number": "672",
         "description": "Spring Green",
-        "rgbCode": "44D793"
+        "rgbCode": "93D744"
     },
     {
         "number": "668",
         "description": "Honey Dew",
-        "rgbCode": "B6DAC0"
+        "rgbCode": "C0DAB6"
     }
 ]

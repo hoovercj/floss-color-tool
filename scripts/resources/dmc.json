@@ -2,7 +2,7 @@
     {
         "number": "B5200",
         "description": "Snow White",
-        "rgbCode": "FFFAFA"
+        "rgbCode": "FAFAFF"
     },
     {
         "number": "BLANC",
@@ -12,7 +12,7 @@
     {
         "number": "ECRUT",
         "description": "Ecru",
-        "rgbCode": "C4DEED"
+        "rgbCode": "EDDEC4"
     },
     {
         "number": "1",
@@ -32,327 +32,327 @@
     {
         "number": "4",
         "description": "Dark Grey",
-        "rgbCode": "646467"
+        "rgbCode": "676464"
     },
     {
         "number": "5",
         "description": "Light Brown",
-        "rgbCode": "B8C1C8"
+        "rgbCode": "C8C1B8"
     },
     {
         "number": "6",
         "description": "Beige",
-        "rgbCode": "93A2B4"
+        "rgbCode": "B4A293"
     },
     {
         "number": "7",
         "description": "Brown",
-        "rgbCode": "646D7A"
+        "rgbCode": "7A6D64"
     },
     {
         "number": "8",
         "description": "Brown DK",
-        "rgbCode": "505B69"
+        "rgbCode": "695B50"
     },
     {
         "number": "9",
         "description": "Brown V DK",
-        "rgbCode": "373848"
+        "rgbCode": "483837"
     },
     {
         "number": "10",
         "description": "Manilla",
-        "rgbCode": "B8CECE"
+        "rgbCode": "CECEB8"
     },
     {
         "number": "11",
         "description": "Yellow/Green pale",
-        "rgbCode": "9DD2D5"
+        "rgbCode": "D5D29D"
     },
     {
         "number": "12",
         "description": "Cabbage",
-        "rgbCode": "63C5CC"
+        "rgbCode": "CCC563"
     },
     {
         "number": "13",
         "description": "Spearmint",
-        "rgbCode": "B7CEA8"
+        "rgbCode": "A8CEB7"
     },
     {
         "number": "14",
         "description": "Cabbage LT",
-        "rgbCode": "A3C8C5"
+        "rgbCode": "C5C8A3"
     },
     {
         "number": "15",
         "description": "Mint Creme",
-        "rgbCode": "80C5BD"
+        "rgbCode": "BDC580"
     },
     {
         "number": "16",
         "description": "Ivy",
-        "rgbCode": "6AB5B0"
+        "rgbCode": "B0B56A"
     },
     {
         "number": "17",
         "description": "Nutmeg LT",
-        "rgbCode": "6BC6D4"
+        "rgbCode": "D4C66B"
     },
     {
         "number": "18",
         "description": "Yellow/Green Med",
-        "rgbCode": "53A7B6"
+        "rgbCode": "B6A753"
     },
     {
         "number": "19",
         "description": "Terracotta Pale",
-        "rgbCode": "8AB7E0"
+        "rgbCode": "E0B78A"
     },
     {
         "number": "20",
         "description": "Flesh",
-        "rgbCode": "A6BBDB"
+        "rgbCode": "DBBBA6"
     },
     {
         "number": "21",
         "description": "Sunburn",
-        "rgbCode": "6A7AB8"
+        "rgbCode": "B87A6A"
     },
     {
         "number": "22",
         "description": "Venison",
-        "rgbCode": "383D88"
+        "rgbCode": "883D38"
     },
     {
         "number": "23",
         "description": "Rose Water",
-        "rgbCode": "DFDAE8"
+        "rgbCode": "E8DADF"
     },
     {
         "number": "24",
         "description": "Lilac Pale",
-        "rgbCode": "E4D9E0"
+        "rgbCode": "E0D9E4"
     },
     {
         "number": "25",
         "description": "Lilac",
-        "rgbCode": "DBCAD0"
+        "rgbCode": "D0CADB"
     },
     {
         "number": "26",
         "description": "Hyacinth",
-        "rgbCode": "D1B0BB"
+        "rgbCode": "BBB0D1"
     },
     {
         "number": "27",
         "description": "Lilac aged",
-        "rgbCode": "D8D4D9"
+        "rgbCode": "D9D4D8"
     },
     {
         "number": "28",
         "description": "Indigrey",
-        "rgbCode": "A07881"
+        "rgbCode": "8178A0"
     },
     {
         "number": "29",
         "description": "Purple DK",
-        "rgbCode": "5E3C49"
+        "rgbCode": "493C5E"
     },
     {
         "number": "30",
         "description": "Purple Mid",
-        "rgbCode": "B0898A"
+        "rgbCode": "8A89B0"
     },
     {
         "number": "31",
         "description": "Violet aged",
-        "rgbCode": "9D6265"
+        "rgbCode": "65629D"
     },
     {
         "number": "32",
         "description": "Indigo dark",
-        "rgbCode": "855356"
+        "rgbCode": "565385"
     },
     {
         "number": "33",
         "description": "Maroon",
-        "rgbCode": "8E4B88"
+        "rgbCode": "884B8E"
     },
     {
         "number": "34",
         "description": "Maroon Med",
-        "rgbCode": "70307A"
+        "rgbCode": "7A3070"
     },
     {
         "number": "35",
         "description": "Maroon DK",
-        "rgbCode": "4B2758"
+        "rgbCode": "58274B"
     },
     {
         "number": "150",
         "description": "Rose Ultra V DK Dusty",
-        "rgbCode": "381291"
+        "rgbCode": "911238"
     },
     {
         "number": "151",
         "description": "Dusty Rose very light",
-        "rgbCode": "BAA8F2"
+        "rgbCode": "F2A8BA"
     },
     {
         "number": "152",
         "description": "Shell Pink medium li",
-        "rgbCode": "8582CC"
+        "rgbCode": "CC8285"
     },
     {
         "number": "153",
         "description": "Violet very light",
-        "rgbCode": "C49ED1"
+        "rgbCode": "D19EC4"
     },
     {
         "number": "154",
         "description": "Grape very light",
-        "rgbCode": "2B1738"
+        "rgbCode": "38172B"
     },
     {
         "number": "155",
         "description": "Blue Violet medium dk",
-        "rgbCode": "AB6576"
+        "rgbCode": "7665AB"
     },
     {
         "number": "156",
         "description": "Blue Violet medium lt",
-        "rgbCode": "B37D73"
+        "rgbCode": "737DB3"
     },
     {
         "number": "157",
         "description": "Cornflower Blue very",
-        "rgbCode": "CAAB95"
+        "rgbCode": "95ABCA"
     },
     {
         "number": "158",
         "description": "Cornflower Blue medium",
-        "rgbCode": "653030"
+        "rgbCode": "303065"
     },
     {
         "number": "159",
         "description": "Grey Blue light",
-        "rgbCode": "C5A697"
+        "rgbCode": "97A6C5"
     },
     {
         "number": "160",
         "description": "Grey Blue medium",
-        "rgbCode": "9C7566"
+        "rgbCode": "66759C"
     },
     {
         "number": "161",
         "description": "Grey Blue",
-        "rgbCode": "855C4F"
+        "rgbCode": "4F5C85"
     },
     {
         "number": "162",
         "description": "Blue ultra very light",
-        "rgbCode": "D0C1A2"
+        "rgbCode": "A2C1D0"
     },
     {
         "number": "163",
         "description": "Celadon Green medium",
-        "rgbCode": "5B7144"
+        "rgbCode": "44715B"
     },
     {
         "number": "164",
         "description": "Forest Green light",
-        "rgbCode": "78BF87"
+        "rgbCode": "87BF78"
     },
     {
         "number": "165",
         "description": "Moss Green very light",
-        "rgbCode": "65C9CD"
+        "rgbCode": "CDC965"
     },
     {
         "number": "166",
         "description": "Moss Green medium light",
-        "rgbCode": "209FA1"
+        "rgbCode": "A19F20"
     },
     {
         "number": "167",
         "description": "Yellow Beige very dark",
-        "rgbCode": "3A648D"
+        "rgbCode": "8D643A"
     },
     {
         "number": "168",
         "description": "Pewter very light",
-        "rgbCode": "B7B3AB"
+        "rgbCode": "ABB3B7"
     },
     {
         "number": "169",
         "description": "Pewter light",
-        "rgbCode": "7A7A70"
+        "rgbCode": "707A7A"
     },
     {
         "number": "208",
         "description": "Lavender very dark",
-        "rgbCode": "964582"
+        "rgbCode": "824596"
     },
     {
         "number": "209",
         "description": "Lavender dark",
-        "rgbCode": "B36CA6"
+        "rgbCode": "A66CB3"
     },
     {
         "number": "210",
         "description": "Lavender medium",
-        "rgbCode": "CD91BE"
+        "rgbCode": "BE91CD"
     },
     {
         "number": "211",
         "description": "Lavender light",
-        "rgbCode": "E3B5D6"
+        "rgbCode": "D6B5E3"
     },
     {
         "number": "221",
         "description": "Shell Pink very dark",
-        "rgbCode": "29236D"
+        "rgbCode": "6D2329"
     },
     {
         "number": "223",
         "description": "Shell Pink light",
-        "rgbCode": "655CB3"
+        "rgbCode": "B35C65"
     },
     {
         "number": "224",
         "description": "Shell Pink very light",
-        "rgbCode": "8B8FD4"
+        "rgbCode": "D48F8B"
     },
     {
         "number": "225",
         "description": "Shell Pink ultra ver",
-        "rgbCode": "BDC4F5"
+        "rgbCode": "F5C4BD"
     },
     {
         "number": "300",
         "description": "Mahogany very dark",
-        "rgbCode": "202E63"
+        "rgbCode": "632E20"
     },
     {
         "number": "301",
         "description": "Mahogany medium",
-        "rgbCode": "254799"
+        "rgbCode": "994725"
     },
     {
         "number": "304",
         "description": "Christmas Red medium",
-        "rgbCode": "29009A"
+        "rgbCode": "9A0029"
     },
     {
         "number": "307",
         "description": "Lemon",
-        "rgbCode": "18DEFB"
+        "rgbCode": "FBDE18"
     },
     {
         "number": "309",
         "description": "Rose deep",
-        "rgbCode": "3E20AD"
+        "rgbCode": "AD203E"
     },
     {
         "number": "310",
@@ -362,37 +362,37 @@
     {
         "number": "311",
         "description": "Navy Blue medium",
-        "rgbCode": "503020"
+        "rgbCode": "203050"
     },
     {
         "number": "312",
         "description": "Navy Blue light",
-        "rgbCode": "6F4223"
+        "rgbCode": "23426F"
     },
     {
         "number": "315",
         "description": "Antique Mauve dark",
-        "rgbCode": "42386F"
+        "rgbCode": "6F3842"
     },
     {
         "number": "316",
         "description": "Antique Mauve medium",
-        "rgbCode": "7F6AAF"
+        "rgbCode": "AF6A7F"
     },
     {
         "number": "317",
         "description": "Pewter Grey",
-        "rgbCode": "60544F"
+        "rgbCode": "4F5460"
     },
     {
         "number": "318",
         "description": "Steel Grey light",
-        "rgbCode": "968780"
+        "rgbCode": "808796"
     },
     {
         "number": "319",
         "description": "Pistachio Green very",
-        "rgbCode": "2C4025"
+        "rgbCode": "25402C"
     },
     {
         "number": "320",
@@ -402,17 +402,17 @@
     {
         "number": "321",
         "description": "Christmas Red",
-        "rgbCode": "2500AC"
+        "rgbCode": "AC0025"
     },
     {
         "number": "322",
         "description": "Baby Blue dark",
-        "rgbCode": "9B6640"
+        "rgbCode": "40669B"
     },
     {
         "number": "326",
         "description": "Rose very deep",
-        "rgbCode": "3812A6"
+        "rgbCode": "A61238"
     },
     {
         "number": "327",
@@ -422,297 +422,297 @@
     {
         "number": "333",
         "description": "Blue Violet very dark",
-        "rgbCode": "87364F"
+        "rgbCode": "4F3687"
     },
     {
         "number": "334",
         "description": "Baby Blue medium",
-        "rgbCode": "A6754A"
+        "rgbCode": "4A75A6"
     },
     {
         "number": "335",
         "description": "Rose",
-        "rgbCode": "6444D4"
+        "rgbCode": "D44464"
     },
     {
         "number": "336",
         "description": "Navy Blue",
-        "rgbCode": "4F2C20"
+        "rgbCode": "202C4F"
     },
     {
         "number": "340",
         "description": "Blue Violet medium",
-        "rgbCode": "BE767C"
+        "rgbCode": "7C76BE"
     },
     {
         "number": "341",
         "description": "Blue Violet light",
-        "rgbCode": "CB9E92"
+        "rgbCode": "929ECB"
     },
     {
         "number": "347",
         "description": "Salmon very dark",
-        "rgbCode": "3020A6"
+        "rgbCode": "A62030"
     },
     {
         "number": "349",
         "description": "Coral dark",
-        "rgbCode": "291CBD"
+        "rgbCode": "BD1C29"
     },
     {
         "number": "350",
         "description": "Coral medium",
-        "rgbCode": "3434D4"
+        "rgbCode": "D43434"
     },
     {
         "number": "351",
         "description": "Coral",
-        "rgbCode": "464DE0"
+        "rgbCode": "E04D46"
     },
     {
         "number": "352",
         "description": "Coral light",
-        "rgbCode": "6573F2"
+        "rgbCode": "F27365"
     },
     {
         "number": "353",
         "description": "Peach",
-        "rgbCode": "93A6FE"
+        "rgbCode": "FEA693"
     },
     {
         "number": "355",
         "description": "Terra Cotta dark",
-        "rgbCode": "2C2E88"
+        "rgbCode": "882E2C"
     },
     {
         "number": "356",
         "description": "Terra Cotta medium",
-        "rgbCode": "454FAD"
+        "rgbCode": "AD4F45"
     },
     {
         "number": "367",
         "description": "Pistachio Green dark",
-        "rgbCode": "476640"
+        "rgbCode": "406647"
     },
     {
         "number": "368",
         "description": "Pistachio Green light",
-        "rgbCode": "76A47B"
+        "rgbCode": "7BA476"
     },
     {
         "number": "369",
         "description": "Pistachio Green very",
-        "rgbCode": "9DD4C1"
+        "rgbCode": "C1D49D"
     },
     {
         "number": "370",
         "description": "Mustard medium",
-        "rgbCode": "3D6E82"
+        "rgbCode": "826E3D"
     },
     {
         "number": "371",
         "description": "Mustard",
-        "rgbCode": "477A8F"
+        "rgbCode": "8F7A47"
     },
     {
         "number": "372",
         "description": "Mustard light",
-        "rgbCode": "6193A3"
+        "rgbCode": "A39361"
     },
     {
         "number": "400",
         "description": "Mahogany dark",
-        "rgbCode": "213375"
+        "rgbCode": "753321"
     },
     {
         "number": "402",
         "description": "Mahogany very light",
-        "rgbCode": "5B89E8"
+        "rgbCode": "E8895B"
     },
     {
         "number": "407",
         "description": "Clay Brown (3773)",
-        "rgbCode": "6072B1"
+        "rgbCode": "B17260"
     },
     {
         "number": "413",
         "description": "Pewter Grey dark",
-        "rgbCode": "47423D"
+        "rgbCode": "3D4247"
     },
     {
         "number": "414",
         "description": "Steel Grey dark",
-        "rgbCode": "786B64"
+        "rgbCode": "646B78"
     },
     {
         "number": "415",
         "description": "Pearl Grey",
-        "rgbCode": "B1A69F"
+        "rgbCode": "9FA6B1"
     },
     {
         "number": "420",
         "description": "Hazel Nut Brown dark",
-        "rgbCode": "34608E"
+        "rgbCode": "8E6034"
     },
     {
         "number": "422",
         "description": "Hazel Nut Brown ligh",
-        "rgbCode": "5B93BC"
+        "rgbCode": "BC935B"
     },
     {
         "number": "433",
         "description": "Brown medium",
-        "rgbCode": "233864"
+        "rgbCode": "643823"
     },
     {
         "number": "434",
         "description": "Brown light",
-        "rgbCode": "254680"
+        "rgbCode": "804625"
     },
     {
         "number": "435",
         "description": "Brown very light",
-        "rgbCode": "3461A3"
+        "rgbCode": "A36134"
     },
     {
         "number": "436",
         "description": "Tan",
-        "rgbCode": "4A7CB9"
+        "rgbCode": "B97C4A"
     },
     {
         "number": "437",
         "description": "Tan light",
-        "rgbCode": "6A9CD1"
+        "rgbCode": "D19C6A"
     },
     {
         "number": "444",
         "description": "Lemon dark",
-        "rgbCode": "B9F0"
+        "rgbCode": "F0B9"
     },
     {
         "number": "445",
         "description": "Lemon light",
-        "rgbCode": "7AF5F7"
+        "rgbCode": "F7F57A"
     },
     {
         "number": "451",
         "description": "Shell Grey dark",
-        "rgbCode": "6C6C7A"
+        "rgbCode": "7A6C6C"
     },
     {
         "number": "452",
         "description": "Shell Grey medium",
-        "rgbCode": "8B8B9F"
+        "rgbCode": "9F8B8B"
     },
     {
         "number": "453",
         "description": "Shell Grey light",
-        "rgbCode": "A6ADBF"
+        "rgbCode": "BFADA6"
     },
     {
         "number": "469",
         "description": "Avocado Green",
-        "rgbCode": "235F57"
+        "rgbCode": "575F23"
     },
     {
         "number": "470",
         "description": "Avocado Green light",
-        "rgbCode": "30786A"
+        "rgbCode": "6A7830"
     },
     {
         "number": "471",
         "description": "Avocado Green very lt",
-        "rgbCode": "549D8D"
+        "rgbCode": "8D9D54"
     },
     {
         "number": "472",
         "description": "Avocado Green ultra",
-        "rgbCode": "60BBBB"
+        "rgbCode": "BBBB60"
     },
     {
         "number": "498",
         "description": "Christmas Red dark",
-        "rgbCode": "250088"
+        "rgbCode": "880025"
     },
     {
         "number": "500",
         "description": "Blue Green very dark",
-        "rgbCode": "363D25"
+        "rgbCode": "253D36"
     },
     {
         "number": "501",
         "description": "Blue Green dark",
-        "rgbCode": "4A5436"
+        "rgbCode": "36544A"
     },
     {
         "number": "502",
         "description": "Blue Green",
-        "rgbCode": "657554"
+        "rgbCode": "547565"
     },
     {
         "number": "503",
         "description": "Blue Green medium",
-        "rgbCode": "8B9C83"
+        "rgbCode": "839C8B"
     },
     {
         "number": "505",
         "description": "Jade Green",
-        "rgbCode": "42612C"
+        "rgbCode": "2C6142"
     },
     {
         "number": "517",
         "description": "Wedgewood dark",
-        "rgbCode": "916323"
+        "rgbCode": "236391"
     },
     {
         "number": "518",
         "description": "Wedgewood light",
-        "rgbCode": "A4843D"
+        "rgbCode": "3D84A4"
     },
     {
         "number": "519",
         "description": "Sky Blue",
-        "rgbCode": "C8B178"
+        "rgbCode": "78B1C8"
     },
     {
         "number": "520",
         "description": "Fern Green dark",
-        "rgbCode": "34473A"
+        "rgbCode": "3A4734"
     },
     {
         "number": "522",
         "description": "Fern Green",
-        "rgbCode": "5F7D72"
+        "rgbCode": "727D5F"
     },
     {
         "number": "523",
         "description": "Fern Green light",
-        "rgbCode": "73978E"
+        "rgbCode": "8E9773"
     },
     {
         "number": "524",
         "description": "Fern Green very light",
-        "rgbCode": "84A29A"
+        "rgbCode": "9AA284"
     },
     {
         "number": "535",
         "description": "Ash Grey very light",
-        "rgbCode": "464B4B"
+        "rgbCode": "4B4B46"
     },
     {
         "number": "543",
         "description": "Beige Brown ultra",
-        "rgbCode": "ADC7E5"
+        "rgbCode": "E5C7AD"
     },
     {
         "number": "550",
         "description": "Violet very dark",
-        "rgbCode": "4B1847"
+        "rgbCode": "47184B"
     },
     {
         "number": "552",
         "description": "Violet medium",
-        "rgbCode": "81387B"
+        "rgbCode": "7B3881"
     },
     {
         "number": "553",
@@ -722,612 +722,612 @@
     {
         "number": "554",
         "description": "Violet light",
-        "rgbCode": "C38BC4"
+        "rgbCode": "C48BC3"
     },
     {
         "number": "561",
         "description": "Jade very dark",
-        "rgbCode": "445529"
+        "rgbCode": "295544"
     },
     {
         "number": "562",
         "description": "Jade medium",
-        "rgbCode": "5A7C3A"
+        "rgbCode": "3A7C5A"
     },
     {
         "number": "563",
         "description": "Jade light",
-        "rgbCode": "8CB16D"
+        "rgbCode": "6DB18C"
     },
     {
         "number": "564",
         "description": "Jade very light",
-        "rgbCode": "A3C98B"
+        "rgbCode": "8BC9A3"
     },
     {
         "number": "580",
         "description": "Moss Green dark",
-        "rgbCode": "205F5C"
+        "rgbCode": "5C5F20"
     },
     {
         "number": "581",
         "description": "Moss Green",
-        "rgbCode": "297B79"
+        "rgbCode": "797B29"
     },
     {
         "number": "597",
         "description": "Turquoise",
-        "rgbCode": "9F924D"
+        "rgbCode": "4D929F"
     },
     {
         "number": "598",
         "description": "Turquoise light",
-        "rgbCode": "B5B27A"
+        "rgbCode": "7AB2B5"
     },
     {
         "number": "600",
         "description": "Cranberry very dark",
-        "rgbCode": "4700AF"
+        "rgbCode": "AF0047"
     },
     {
         "number": "601",
         "description": "Cranberry dark",
-        "rgbCode": "571BC6"
+        "rgbCode": "C61B57"
     },
     {
         "number": "602",
         "description": "Cranberry medium",
-        "rgbCode": "6D30D7"
+        "rgbCode": "D7306D"
     },
     {
         "number": "603",
         "description": "Cranberry",
-        "rgbCode": "8C4FE9"
+        "rgbCode": "E94F8C"
     },
     {
         "number": "604",
         "description": "Cranberry light",
-        "rgbCode": "AD7AF6"
+        "rgbCode": "F67AAD"
     },
     {
         "number": "605",
         "description": "Cranberry very light",
-        "rgbCode": "C198FE"
+        "rgbCode": "FE98C1"
     },
     {
         "number": "606",
         "description": "Burnt Orange-Red",
-        "rgbCode": "2018E8"
+        "rgbCode": "E81820"
     },
     {
         "number": "608",
         "description": "Burnt Orange",
-        "rgbCode": "2542FF"
+        "rgbCode": "FF4225"
     },
     {
         "number": "610",
         "description": "Drab Brown dark",
-        "rgbCode": "304A60"
+        "rgbCode": "604A30"
     },
     {
         "number": "611",
         "description": "Drab Brown",
-        "rgbCode": "3D5A70"
+        "rgbCode": "705A3D"
     },
     {
         "number": "612",
         "description": "Drab Brown light",
-        "rgbCode": "5A8199"
+        "rgbCode": "99815A"
     },
     {
         "number": "613",
         "description": "Drab Brown very light",
-        "rgbCode": "6D96AC"
+        "rgbCode": "AC966D"
     },
     {
         "number": "632",
         "description": "Desert Sand ultra ve",
-        "rgbCode": "343D72"
+        "rgbCode": "723D34"
     },
     {
         "number": "640",
         "description": "Beige Grey very dark",
-        "rgbCode": "4F6472"
+        "rgbCode": "72644F"
     },
     {
         "number": "642",
         "description": "Beige Grey dark",
-        "rgbCode": "637D8C"
+        "rgbCode": "8C7D63"
     },
     {
         "number": "644",
         "description": "Beige Grey medium",
-        "rgbCode": "94B0BA"
+        "rgbCode": "BAB094"
     },
     {
         "number": "645",
         "description": "Beaver Grey very dark",
-        "rgbCode": "475E54"
+        "rgbCode": "545E47"
     },
     {
         "number": "646",
         "description": "Beaver Grey dark",
-        "rgbCode": "596369"
+        "rgbCode": "696359"
     },
     {
         "number": "647",
         "description": "Beaver Grey medium",
-        "rgbCode": "707B7D"
+        "rgbCode": "7D7B70"
     },
     {
         "number": "648",
         "description": "Beaver Grey light",
-        "rgbCode": "8B9898"
+        "rgbCode": "98988B"
     },
     {
         "number": "666",
         "description": "Christmas Red bright",
-        "rgbCode": "2300C9"
+        "rgbCode": "C90023"
     },
     {
         "number": "676",
         "description": "Old Gold light",
-        "rgbCode": "69B4E6"
+        "rgbCode": "E6B469"
     },
     {
         "number": "677",
         "description": "Old Gold very light",
-        "rgbCode": "8ECFEA"
+        "rgbCode": "EACF8E"
     },
     {
         "number": "680",
         "description": "Old Gold dark",
-        "rgbCode": "3473A6"
+        "rgbCode": "A67334"
     },
     {
         "number": "699",
         "description": "Christmas Green",
-        "rgbCode": "3D5F00"
+        "rgbCode": "005F3D"
     },
     {
         "number": "700",
         "description": "Christmas Green bright",
-        "rgbCode": "3E7000"
+        "rgbCode": "00703E"
     },
     {
         "number": "701",
         "description": "Christmas Green light",
-        "rgbCode": "38730D"
+        "rgbCode": "0D7338"
     },
     {
         "number": "702",
         "description": "Kelly Green",
-        "rgbCode": "3E8534"
+        "rgbCode": "34853E"
     },
     {
         "number": "703",
         "description": "Chartreuse",
-        "rgbCode": "46A760"
+        "rgbCode": "60A746"
     },
     {
         "number": "704",
         "description": "Chartreuse bright",
-        "rgbCode": "44AD78"
+        "rgbCode": "78AD44"
     },
     {
         "number": "712",
         "description": "Cream",
-        "rgbCode": "D2E8F3"
+        "rgbCode": "F3E8D2"
     },
     {
         "number": "718",
         "description": "Plum",
-        "rgbCode": "6F20A7"
+        "rgbCode": "A7206F"
     },
     {
         "number": "720",
         "description": "Orange Spice dark",
-        "rgbCode": "1B42D2"
+        "rgbCode": "D2421B"
     },
     {
         "number": "721",
         "description": "Orange Spice medium",
-        "rgbCode": "2C5CF2"
+        "rgbCode": "F25C2C"
     },
     {
         "number": "722",
         "description": "Orange Spice light",
-        "rgbCode": "4A82FF"
+        "rgbCode": "FF824A"
     },
     {
         "number": "725",
         "description": "Topaz",
-        "rgbCode": "40BAFC"
+        "rgbCode": "FCBA40"
     },
     {
         "number": "726",
         "description": "Topaz light",
-        "rgbCode": "47D4FF"
+        "rgbCode": "FFD447"
     },
     {
         "number": "727",
         "description": "Topaz very light",
-        "rgbCode": "71E4FF"
+        "rgbCode": "FFE471"
     },
     {
         "number": "728",
         "description": "Golden Yellow",
-        "rgbCode": "3DADEF"
+        "rgbCode": "EFAD3D"
     },
     {
         "number": "729",
         "description": "Old Gold medium",
-        "rgbCode": "4089C2"
+        "rgbCode": "C28940"
     },
     {
         "number": "730",
         "description": "Olive Green very dark",
-        "rgbCode": "204D57"
+        "rgbCode": "574D20"
     },
     {
         "number": "732",
         "description": "Olive Green (731)",
-        "rgbCode": "205C69"
+        "rgbCode": "695C20"
     },
     {
         "number": "733",
         "description": "Olive Green medium",
-        "rgbCode": "308698"
+        "rgbCode": "988630"
     },
     {
         "number": "734",
         "description": "Olive Green light",
-        "rgbCode": "479DB0"
+        "rgbCode": "B09D47"
     },
     {
         "number": "738",
         "description": "Tan very light",
-        "rgbCode": "78A9D5"
+        "rgbCode": "D5A978"
     },
     {
         "number": "739",
         "description": "Tan ultra very light",
-        "rgbCode": "A6CDED"
+        "rgbCode": "EDCDA6"
     },
     {
         "number": "740",
         "description": "Tangerine (971)",
-        "rgbCode": "1B6CFF"
+        "rgbCode": "FF6C1B"
     },
     {
         "number": "741",
         "description": "Tangerine medium",
-        "rgbCode": "2088FF"
+        "rgbCode": "FF8820"
     },
     {
         "number": "742",
         "description": "Tangerine light",
-        "rgbCode": "23A5FF"
+        "rgbCode": "FFA523"
     },
     {
         "number": "743",
         "description": "Yellow medium",
-        "rgbCode": "47C8FF"
+        "rgbCode": "FFC847"
     },
     {
         "number": "744",
         "description": "Yellow pale",
-        "rgbCode": "7ADEFF"
+        "rgbCode": "FFDE7A"
     },
     {
         "number": "745",
         "description": "Yellow light pale",
-        "rgbCode": "89DFFF"
+        "rgbCode": "FFDF89"
     },
     {
         "number": "746",
         "description": "Off White",
-        "rgbCode": "C7F1FA"
+        "rgbCode": "FAF1C7"
     },
     {
         "number": "747",
         "description": "Sky Blue very light",
-        "rgbCode": "E1DBAD"
+        "rgbCode": "ADDBE1"
     },
     {
         "number": "754",
         "description": "Peach light",
-        "rgbCode": "96B0F4"
+        "rgbCode": "F4B096"
     },
     {
         "number": "758",
         "description": "Terra Cotta very light",
-        "rgbCode": "7A91DB"
+        "rgbCode": "DB917A"
     },
     {
         "number": "760",
         "description": "Salmon",
-        "rgbCode": "7F78E5"
+        "rgbCode": "E5787F"
     },
     {
         "number": "761",
         "description": "Salmon light",
-        "rgbCode": "A8A3F5"
+        "rgbCode": "F5A3A8"
     },
     {
         "number": "762",
         "description": "Pearl Grey very light",
-        "rgbCode": "CEC5C4"
+        "rgbCode": "C4C5CE"
     },
     {
         "number": "772",
         "description": "Yellow Green very light",
-        "rgbCode": "97DAC2"
+        "rgbCode": "C2DA97"
     },
     {
         "number": "775",
         "description": "Baby Blue very light",
-        "rgbCode": "DBCFB4"
+        "rgbCode": "B4CFDB"
     },
     {
         "number": "777",
         "description": "Raspberry very dark",
-        "rgbCode": "2C0D78"
+        "rgbCode": "780D2C"
     },
     {
         "number": "778",
         "description": "Antique Mauve very lt",
-        "rgbCode": "9E94C9"
+        "rgbCode": "C9949E"
     },
     {
         "number": "779",
         "description": "Cocoa dark",
-        "rgbCode": "363854"
+        "rgbCode": "543836"
     },
     {
         "number": "780",
         "description": "Topaz ultra very dark",
-        "rgbCode": "234A8C"
+        "rgbCode": "8C4A23"
     },
     {
         "number": "782",
         "description": "Topaz dark (781)",
-        "rgbCode": "2065AC"
+        "rgbCode": "AC6520"
     },
     {
         "number": "783",
         "description": "Topaz medium",
-        "rgbCode": "2C84D0"
+        "rgbCode": "D0842C"
     },
     {
         "number": "791",
         "description": "Cornflower Blue very",
-        "rgbCode": "60292E"
+        "rgbCode": "2E2960"
     },
     {
         "number": "792",
         "description": "Cornflower Blue dark",
-        "rgbCode": "823E3A"
+        "rgbCode": "3A3E82"
     },
     {
         "number": "793",
         "description": "Cornflower Blue medium",
-        "rgbCode": "976454"
+        "rgbCode": "546497"
     },
     {
         "number": "794",
         "description": "Cornflower Blue light",
-        "rgbCode": "B88A70"
+        "rgbCode": "708AB8"
     },
     {
         "number": "796",
         "description": "Royal Blue dark",
-        "rgbCode": "702B24"
+        "rgbCode": "242B70"
     },
     {
         "number": "797",
         "description": "Royal Blue",
-        "rgbCode": "7C3A29"
+        "rgbCode": "293A7C"
     },
     {
         "number": "798",
         "description": "Delft Blue dark",
-        "rgbCode": "A35F3D"
+        "rgbCode": "3D5FA3"
     },
     {
         "number": "799",
         "description": "Delft Blue medium",
-        "rgbCode": "B57B53"
+        "rgbCode": "537BB5"
     },
     {
         "number": "800",
         "description": "Delft Blue pale",
-        "rgbCode": "D4B28E"
+        "rgbCode": "8EB2D4"
     },
     {
         "number": "801",
         "description": "Coffee Brown dark",
-        "rgbCode": "243357"
+        "rgbCode": "573324"
     },
     {
         "number": "803",
         "description": "Baby Blue ultra very",
-        "rgbCode": "603620"
+        "rgbCode": "203660"
     },
     {
         "number": "807",
         "description": "Peacock Blue dark",
-        "rgbCode": "C7906D"
+        "rgbCode": "6D90C7"
     },
     {
         "number": "809",
         "description": "Delft Blue",
-        "rgbCode": "BB925C"
+        "rgbCode": "5C92BB"
     },
     {
         "number": "813",
         "description": "Blue - LT",
-        "rgbCode": "D7C2A1"
+        "rgbCode": "A1C2D7"
     },
     {
         "number": "814",
         "description": "Garnet dark",
-        "rgbCode": "25135B"
+        "rgbCode": "5B1325"
     },
     {
         "number": "815",
         "description": "Garnet medium",
-        "rgbCode": "230D70"
+        "rgbCode": "700D23"
     },
     {
         "number": "816",
         "description": "Garnet",
-        "rgbCode": "2C1389"
+        "rgbCode": "89132C"
     },
     {
         "number": "817",
         "description": "Coral Red very dark",
-        "rgbCode": "1B0DA6"
+        "rgbCode": "A60D1B"
     },
     {
         "number": "818",
         "description": "Baby Pink",
-        "rgbCode": "D2D0FF"
+        "rgbCode": "FFD0D2"
     },
     {
         "number": "819",
         "description": "Baby Pink light",
-        "rgbCode": "DADEFF"
+        "rgbCode": "FFDEDA"
     },
     {
         "number": "820",
         "description": "Royal Blue very dark",
-        "rgbCode": "632020"
+        "rgbCode": "202063"
     },
     {
         "number": "822",
         "description": "Beige Grey light",
-        "rgbCode": "BAD6E0"
+        "rgbCode": "E0D6BA"
     },
     {
         "number": "823",
         "description": "Navy Blue dark",
-        "rgbCode": "3A2320"
+        "rgbCode": "20233A"
     },
     {
         "number": "824",
         "description": "Blue very dark",
-        "rgbCode": "713E1B"
+        "rgbCode": "1B3E71"
     },
     {
         "number": "825",
         "description": "Blue dark",
-        "rgbCode": "864F1B"
+        "rgbCode": "1B4F86"
     },
     {
         "number": "826",
         "description": "Blue medium",
-        "rgbCode": "A16B30"
+        "rgbCode": "306BA1"
     },
     {
         "number": "827",
         "description": "Blue very light",
-        "rgbCode": "D0B487"
+        "rgbCode": "87B4D0"
     },
     {
         "number": "828",
         "description": "Blue ultra very light",
-        "rgbCode": "D4C9A6"
+        "rgbCode": "A6C9D4"
     },
     {
         "number": "829",
         "description": "Golden Olive very dark",
-        "rgbCode": "20425F"
+        "rgbCode": "5F4220"
     },
     {
         "number": "830",
         "description": "Golden Olive dark",
-        "rgbCode": "234B69"
+        "rgbCode": "694B23"
     },
     {
         "number": "831",
         "description": "Golden Olive medium",
-        "rgbCode": "255C78"
+        "rgbCode": "785C25"
     },
     {
         "number": "832",
         "description": "Golden Olive",
-        "rgbCode": "2C769A"
+        "rgbCode": "9A762C"
     },
     {
         "number": "833",
         "description": "Golden Olive light",
-        "rgbCode": "3E8DB0"
+        "rgbCode": "B08D3E"
     },
     {
         "number": "834",
         "description": "Golden Olive very light",
-        "rgbCode": "50A5C7"
+        "rgbCode": "C7A550"
     },
     {
         "number": "838",
         "description": "Beige Brown very dark",
-        "rgbCode": "293045"
+        "rgbCode": "453029"
     },
     {
         "number": "839",
         "description": "Beige Brown dark",
-        "rgbCode": "343D55"
+        "rgbCode": "553D34"
     },
     {
         "number": "840",
         "description": "Beige Brown medium",
-        "rgbCode": "4A5C7F"
+        "rgbCode": "7F5C4A"
     },
     {
         "number": "841",
         "description": "Beige Brown light",
-        "rgbCode": "63789B"
+        "rgbCode": "9B7863"
     },
     {
         "number": "842",
         "description": "Beige Brown very light",
-        "rgbCode": "879FBF"
+        "rgbCode": "BF9F87"
     },
     {
         "number": "844",
         "description": "Beaver Grey ultra dark",
-        "rgbCode": "363D3D"
+        "rgbCode": "3D3D36"
     },
     {
         "number": "869",
         "description": "Hazel Nut Brown very",
-        "rgbCode": "254770"
+        "rgbCode": "704725"
     },
     {
         "number": "890",
         "description": "Pistachio Green ultra",
-        "rgbCode": "23361B"
+        "rgbCode": "1B3623"
     },
     {
         "number": "891",
         "description": "Carnation dark",
-        "rgbCode": "462CEF"
+        "rgbCode": "EF2C46"
     },
     {
         "number": "892",
         "description": "Carnation medium",
-        "rgbCode": "5338F4"
+        "rgbCode": "F43853"
     },
     {
         "number": "893",
         "description": "Carnation light",
-        "rgbCode": "6D4DFB"
+        "rgbCode": "FB4D6D"
     },
     {
         "number": "894",
         "description": "Carnation very light",
-        "rgbCode": "9A7CFF"
+        "rgbCode": "FF7C9A"
     },
     {
         "number": "895",
@@ -1337,1082 +1337,1082 @@
     {
         "number": "898",
         "description": "Coffee Brown very dark",
-        "rgbCode": "232E4A"
+        "rgbCode": "4A2E23"
     },
     {
         "number": "899",
         "description": "Rose medium",
-        "rgbCode": "8266EB"
+        "rgbCode": "EB6682"
     },
     {
         "number": "900",
         "description": "Burnt Orange dark",
-        "rgbCode": "2334C6"
+        "rgbCode": "C63423"
     },
     {
         "number": "902",
         "description": "Garnet very dark",
-        "rgbCode": "2E205B"
+        "rgbCode": "5B202E"
     },
     {
         "number": "904",
         "description": "Parrot Green very dark",
-        "rgbCode": "255F34"
+        "rgbCode": "345F25"
     },
     {
         "number": "905",
         "description": "Parrot Green dark",
-        "rgbCode": "23713D"
+        "rgbCode": "3D7123"
     },
     {
         "number": "906",
         "description": "Parrot Green medium",
-        "rgbCode": "238B5A"
+        "rgbCode": "5A8B23"
     },
     {
         "number": "907",
         "description": "Parrot Green light",
-        "rgbCode": "23A687"
+        "rgbCode": "87A623"
     },
     {
         "number": "909",
         "description": "Emerald Green very dk",
-        "rgbCode": "406500"
+        "rgbCode": "006540"
     },
     {
         "number": "910",
         "description": "Emerald Green dark",
-        "rgbCode": "4B7A00"
+        "rgbCode": "007A4B"
     },
     {
         "number": "911",
         "description": "Emerald Green medium",
-        "rgbCode": "538800"
+        "rgbCode": "008853"
     },
     {
         "number": "912",
         "description": "Emerald Green light",
-        "rgbCode": "669C30"
+        "rgbCode": "309C66"
     },
     {
         "number": "913",
         "description": "Nile Green medium",
-        "rgbCode": "78AF4D"
+        "rgbCode": "4DAF78"
     },
     {
         "number": "915",
         "description": "Plum dark",
-        "rgbCode": "3D0076"
+        "rgbCode": "76003D"
     },
     {
         "number": "917",
         "description": "Plum medium",
-        "rgbCode": "5B1B91"
+        "rgbCode": "911B5B"
     },
     {
         "number": "918",
         "description": "Red Copper dark",
-        "rgbCode": "232E7B"
+        "rgbCode": "7B2E23"
     },
     {
         "number": "919",
         "description": "Red Copper",
-        "rgbCode": "202991"
+        "rgbCode": "912920"
     },
     {
         "number": "920",
         "description": "Copper medium",
-        "rgbCode": "253DA4"
+        "rgbCode": "A43D25"
     },
     {
         "number": "921",
         "description": "Copper",
-        "rgbCode": "2E4DBC"
+        "rgbCode": "BC4D2E"
     },
     {
         "number": "922",
         "description": "Copper light",
-        "rgbCode": "3A63D7"
+        "rgbCode": "D7633A"
     },
     {
         "number": "924",
         "description": "Grey Green very dark",
-        "rgbCode": "474229"
+        "rgbCode": "294247"
     },
     {
         "number": "926",
         "description": "Grey Green medium",
-        "rgbCode": "787861"
+        "rgbCode": "617878"
     },
     {
         "number": "927",
         "description": "Grey Green light",
-        "rgbCode": "979A88"
+        "rgbCode": "889A97"
     },
     {
         "number": "928",
         "description": "Grey Green very light",
-        "rgbCode": "B1B5AB"
+        "rgbCode": "ABB5B1"
     },
     {
         "number": "930",
         "description": "Antique Blue dark",
-        "rgbCode": "5A4630"
+        "rgbCode": "30465A"
     },
     {
         "number": "931",
         "description": "Antique Blue medium",
-        "rgbCode": "826A53"
+        "rgbCode": "536A82"
     },
     {
         "number": "932",
         "description": "Antique Blue light",
-        "rgbCode": "A68F75"
+        "rgbCode": "758FA6"
     },
     {
         "number": "934",
         "description": "Black Avocado Green",
-        "rgbCode": "25342E"
+        "rgbCode": "2E3425"
     },
     {
         "number": "935",
         "description": "Avocado Green dark",
-        "rgbCode": "2C3D36"
+        "rgbCode": "363D2C"
     },
     {
         "number": "936",
         "description": "Avocado Green very dk",
-        "rgbCode": "234442"
+        "rgbCode": "424423"
     },
     {
         "number": "937",
         "description": "Avocado Green medium",
-        "rgbCode": "295446"
+        "rgbCode": "465429"
     },
     {
         "number": "938",
         "description": "Coffee Brown ultra dk",
-        "rgbCode": "23293D"
+        "rgbCode": "3D2923"
     },
     {
         "number": "939",
         "description": "Navy Blue very dark",
-        "rgbCode": "2C1B1B"
+        "rgbCode": "1B1B2C"
     },
     {
         "number": "943",
         "description": "Aquamarine medium",
-        "rgbCode": "798F00"
+        "rgbCode": "008F79"
     },
     {
         "number": "945",
         "description": "Tawny medium",
-        "rgbCode": "8FB2EE"
+        "rgbCode": "EEB28F"
     },
     {
         "number": "946",
         "description": "Burnt Orange medium",
-        "rgbCode": "1C3DF5"
+        "rgbCode": "F53D1C"
     },
     {
         "number": "947",
         "description": "Burnt Orange",
-        "rgbCode": "1B4AFF"
+        "rgbCode": "FF4A1B"
     },
     {
         "number": "948",
         "description": "Peach very light",
-        "rgbCode": "C1D5FD"
+        "rgbCode": "FDD5C1"
     },
     {
         "number": "950",
         "description": "Desert Sand light",
-        "rgbCode": "93ACDF"
+        "rgbCode": "DFAC93"
     },
     {
         "number": "951",
         "description": "Tawny light",
-        "rgbCode": "A9CEF7"
+        "rgbCode": "F7CEA9"
     },
     {
         "number": "954",
         "description": "Nile Green",
-        "rgbCode": "87BE6C"
+        "rgbCode": "6CBE87"
     },
     {
         "number": "955",
         "description": "Nile Green light",
-        "rgbCode": "A8DC97"
+        "rgbCode": "97DCA8"
     },
     {
         "number": "956",
         "description": "Geranium",
-        "rgbCode": "7244F9"
+        "rgbCode": "F94472"
     },
     {
         "number": "957",
         "description": "Geranium pale",
-        "rgbCode": "A27CFF"
+        "rgbCode": "FF7CA2"
     },
     {
         "number": "958",
         "description": "Sea Green dark",
-        "rgbCode": "879800"
+        "rgbCode": "009887"
     },
     {
         "number": "959",
         "description": "Sea Green medium",
-        "rgbCode": "9DAD30"
+        "rgbCode": "30AD9D"
     },
     {
         "number": "961",
         "description": "Dusty Rose dark",
-        "rgbCode": "6F4BD9"
+        "rgbCode": "D94B6F"
     },
     {
         "number": "962",
         "description": "Dusty Rose medium",
-        "rgbCode": "8664E4"
+        "rgbCode": "E46486"
     },
     {
         "number": "963",
         "description": "Dusty Rose ultra",
-        "rgbCode": "C4BAFF"
+        "rgbCode": "FFBAC4"
     },
     {
         "number": "964",
         "description": "Sea Green light",
-        "rgbCode": "C1CD75"
+        "rgbCode": "75CDC1"
     },
     {
         "number": "966",
         "description": "Baby Green medium",
-        "rgbCode": "8EBF8D"
+        "rgbCode": "8DBF8E"
     },
     {
         "number": "967",
         "description": "Apricot very light",
-        "rgbCode": "A9BEFF"
+        "rgbCode": "FFBEA9"
     },
     {
         "number": "970",
         "description": "Pumpkin light",
-        "rgbCode": "2466FF"
+        "rgbCode": "FF6624"
     },
     {
         "number": "972",
         "description": "Canary deep",
-        "rgbCode": "A4FF"
+        "rgbCode": "FFA4"
     },
     {
         "number": "973",
         "description": "Canary bright",
-        "rgbCode": "CFFF"
+        "rgbCode": "FFCF"
     },
     {
         "number": "975",
         "description": "Golden Brown dark",
-        "rgbCode": "203A79"
+        "rgbCode": "793A20"
     },
     {
         "number": "976",
         "description": "Golden Brown medium",
-        "rgbCode": "2C6AC4"
+        "rgbCode": "C46A2C"
     },
     {
         "number": "977",
         "description": "Golden Brown light",
-        "rgbCode": "3D83E6"
+        "rgbCode": "E6833D"
     },
     {
         "number": "986",
         "description": "Forest Green very dark",
-        "rgbCode": "2C5025"
+        "rgbCode": "25502C"
     },
     {
         "number": "987",
         "description": "Forest Green dark",
-        "rgbCode": "3A6642"
+        "rgbCode": "42663A"
     },
     {
         "number": "988",
         "description": "Forest Green medium",
-        "rgbCode": "44805A"
+        "rgbCode": "5A8044"
     },
     {
         "number": "989",
         "description": "Forest Green",
-        "rgbCode": "54926C"
+        "rgbCode": "6C9254"
     },
     {
         "number": "991",
         "description": "Aquamarine dark",
-        "rgbCode": "50580D"
+        "rgbCode": "0D5850"
     },
     {
         "number": "992",
         "description": "Aquamarine medium",
-        "rgbCode": "809336"
+        "rgbCode": "369380"
     },
     {
         "number": "993",
         "description": "Aquamarine light",
-        "rgbCode": "90AB55"
+        "rgbCode": "55AB90"
     },
     {
         "number": "995",
         "description": "Electric Blue dark",
-        "rgbCode": "BC6F00"
+        "rgbCode": "006FBC"
     },
     {
         "number": "996",
         "description": "Electric Blue medium",
-        "rgbCode": "E19700"
+        "rgbCode": "0097E1"
     },
     {
         "number": "3011",
         "description": "Khaki Green dark",
-        "rgbCode": "30585C"
+        "rgbCode": "5C5830"
     },
     {
         "number": "3012",
         "description": "Khaki Green medium",
-        "rgbCode": "40737D"
+        "rgbCode": "7D7340"
     },
     {
         "number": "3013",
         "description": "Khaki Green light",
-        "rgbCode": "6A9FA3"
+        "rgbCode": "A39F6A"
     },
     {
         "number": "3021",
         "description": "Brown Grey very dark",
-        "rgbCode": "2E3846"
+        "rgbCode": "46382E"
     },
     {
         "number": "3022",
         "description": "Brown Grey medium",
-        "rgbCode": "5F7273"
+        "rgbCode": "73725F"
     },
     {
         "number": "3023",
         "description": "Brown Grey light",
-        "rgbCode": "768D93"
+        "rgbCode": "938D76"
     },
     {
         "number": "3024",
         "description": "Brown Grey very ligh",
-        "rgbCode": "9FB0B9"
+        "rgbCode": "B9B09F"
     },
     {
         "number": "3031",
         "description": "Mocha Brown very dark",
-        "rgbCode": "252E42"
+        "rgbCode": "422E25"
     },
     {
         "number": "3032",
         "description": "Mocha Brown medium",
-        "rgbCode": "698696"
+        "rgbCode": "968669"
     },
     {
         "number": "3033",
         "description": "Mocha Brown very lig",
-        "rgbCode": "A6BDD2"
+        "rgbCode": "D2BDA6"
     },
     {
         "number": "3041",
         "description": "Antique Violet mediu",
-        "rgbCode": "655472"
+        "rgbCode": "725465"
     },
     {
         "number": "3042",
         "description": "Antique Violet light",
-        "rgbCode": "8D7C96"
+        "rgbCode": "967C8D"
     },
     {
         "number": "3045",
         "description": "Yellow Beige dark",
-        "rgbCode": "46769F"
+        "rgbCode": "9F7646"
     },
     {
         "number": "3046",
         "description": "Yellow Beige medium",
-        "rgbCode": "66A9C5"
+        "rgbCode": "C5A966"
     },
     {
         "number": "3047",
         "description": "Yellow Beige light",
-        "rgbCode": "91C9DB"
+        "rgbCode": "DBC991"
     },
     {
         "number": "3051",
         "description": "Green Grey dark",
-        "rgbCode": "2E4D46"
+        "rgbCode": "464D2E"
     },
     {
         "number": "3052",
         "description": "Green Grey medium",
-        "rgbCode": "547C71"
+        "rgbCode": "717C54"
     },
     {
         "number": "3053",
         "description": "Green Grey",
-        "rgbCode": "69968B"
+        "rgbCode": "8B9669"
     },
     {
         "number": "3064",
         "description": "Desert Sand",
-        "rgbCode": "5973B8"
+        "rgbCode": "B87359"
     },
     {
         "number": "3072",
         "description": "Beaver Grey very light",
-        "rgbCode": "BEC6C2"
+        "rgbCode": "C2C6BE"
     },
     {
         "number": "3078",
         "description": "Golden Yellow very lt",
-        "rgbCode": "97EBFA"
+        "rgbCode": "FAEB97"
     },
     {
         "number": "3325",
         "description": "Baby Blue light",
-        "rgbCode": "D8B88E"
+        "rgbCode": "8EB8D8"
     },
     {
         "number": "3326",
         "description": "Rose light (776)",
-        "rgbCode": "A693F7"
+        "rgbCode": "F793A6"
     },
     {
         "number": "3328",
         "description": "Salmon dark",
-        "rgbCode": "4B42C1"
+        "rgbCode": "C1424B"
     },
     {
         "number": "3340",
         "description": "Apricot medium",
-        "rgbCode": "4766FF"
+        "rgbCode": "FF6647"
     },
     {
         "number": "3341",
         "description": "Apricot",
-        "rgbCode": "6681FF"
+        "rgbCode": "FF8166"
     },
     {
         "number": "3345",
         "description": "Hunter Green dark",
-        "rgbCode": "254A34"
+        "rgbCode": "344A25"
     },
     {
         "number": "3346",
         "description": "Hunter Green",
-        "rgbCode": "30614D"
+        "rgbCode": "4D6130"
     },
     {
         "number": "3347",
         "description": "Yellow Green medium",
-        "rgbCode": "4A836B"
+        "rgbCode": "6B834A"
     },
     {
         "number": "3348",
         "description": "Yellow Green light",
-        "rgbCode": "6AB8A3"
+        "rgbCode": "A3B86A"
     },
     {
         "number": "3350",
         "description": "Dusty Rose ultra dark",
-        "rgbCode": "46299E"
+        "rgbCode": "9E2946"
     },
     {
         "number": "3354",
         "description": "Dusty Rose light",
-        "rgbCode": "9E89E7"
+        "rgbCode": "E7899E"
     },
     {
         "number": "3362",
         "description": "Pine Green dark",
-        "rgbCode": "334A42"
+        "rgbCode": "424A33"
     },
     {
         "number": "3363",
         "description": "Pine Green medium",
-        "rgbCode": "4A6B5B"
+        "rgbCode": "5B6B4A"
     },
     {
         "number": "3364",
         "description": "Pine Green",
-        "rgbCode": "5F9689"
+        "rgbCode": "89965F"
     },
     {
         "number": "3371",
         "description": "Black Brown",
-        "rgbCode": "21242B"
+        "rgbCode": "2B2421"
     },
     {
         "number": "3607",
         "description": "Plum light",
-        "rgbCode": "8F3DBF"
+        "rgbCode": "BF3D8F"
     },
     {
         "number": "3608",
         "description": "Plum very light",
-        "rgbCode": "AD70D7"
+        "rgbCode": "D770AD"
     },
     {
         "number": "3609",
         "description": "Plum ultra light",
-        "rgbCode": "CE91E5"
+        "rgbCode": "E591CE"
     },
     {
         "number": "3685",
         "description": "Mauve dark",
-        "rgbCode": "36186A"
+        "rgbCode": "6A1836"
     },
     {
         "number": "3687",
         "description": "Mauve",
-        "rgbCode": "643DB1"
+        "rgbCode": "B13D64"
     },
     {
         "number": "3688",
         "description": "Mauve medium",
-        "rgbCode": "8769D1"
+        "rgbCode": "D16987"
     },
     {
         "number": "3689",
         "description": "Mauve light",
-        "rgbCode": "C2ACF5"
+        "rgbCode": "F5ACC2"
     },
     {
         "number": "3705",
         "description": "Melon dark",
-        "rgbCode": "4D3AEE"
+        "rgbCode": "EE3A4D"
     },
     {
         "number": "3706",
         "description": "Melon medium",
-        "rgbCode": "7561FF"
+        "rgbCode": "FF6175"
     },
     {
         "number": "3708",
         "description": "Melon light",
-        "rgbCode": "9E88FF"
+        "rgbCode": "FF889E"
     },
     {
         "number": "3712",
         "description": "Salmon medium",
-        "rgbCode": "5C57CF"
+        "rgbCode": "CF575C"
     },
     {
         "number": "3713",
         "description": "Salmon very light",
-        "rgbCode": "C7C7FF"
+        "rgbCode": "FFC7C7"
     },
     {
         "number": "3716",
         "description": "Dusty Rose very light",
-        "rgbCode": "AF97FE"
+        "rgbCode": "FE97AF"
     },
     {
         "number": "3721",
         "description": "Shell Pink dark",
-        "rgbCode": "3A3085"
+        "rgbCode": "85303A"
     },
     {
         "number": "3722",
         "description": "Shell Pink medium",
-        "rgbCode": "4D4499"
+        "rgbCode": "99444D"
     },
     {
         "number": "3726",
         "description": "Antique Mauve dark",
-        "rgbCode": "534680"
+        "rgbCode": "804653"
     },
     {
         "number": "3727",
         "description": "Antique Mauve light",
-        "rgbCode": "9C89C9"
+        "rgbCode": "C9899C"
     },
     {
         "number": "3731",
         "description": "Dusty Rose very dark",
-        "rgbCode": "5F40C1"
+        "rgbCode": "C1405F"
     },
     {
         "number": "3733",
         "description": "Dusty Rose",
-        "rgbCode": "856CE0"
+        "rgbCode": "E06C85"
     },
     {
         "number": "3740",
         "description": "Antique Violet dark",
-        "rgbCode": "4D3E5C"
+        "rgbCode": "5C3E4D"
     },
     {
         "number": "3743",
         "description": "Antique Violet very",
-        "rgbCode": "B8A9BB"
+        "rgbCode": "BBA9B8"
     },
     {
         "number": "3746",
         "description": "Blue Violet dark",
-        "rgbCode": "9F4F60"
+        "rgbCode": "604F9F"
     },
     {
         "number": "3747",
         "description": "Blue Violet very light",
-        "rgbCode": "DFBAAD"
+        "rgbCode": "ADBADF"
     },
     {
         "number": "3750",
         "description": "Antique Blue very dark",
-        "rgbCode": "4F3823"
+        "rgbCode": "23384F"
     },
     {
         "number": "3752",
         "description": "Antique Blue very light",
-        "rgbCode": "BDB19D"
+        "rgbCode": "9DB1BD"
     },
     {
         "number": "3753",
         "description": "Antique Blue ultra",
-        "rgbCode": "D7C6B1"
+        "rgbCode": "B1C6D7"
     },
     {
         "number": "3755",
         "description": "Baby Blue",
-        "rgbCode": "C49869"
+        "rgbCode": "6998C4"
     },
     {
         "number": "3756",
         "description": "Baby Blue ultra",
-        "rgbCode": "F3EDDD"
+        "rgbCode": "DDEDF3"
     },
     {
         "number": "3760",
         "description": "Wedgewood (806)",
-        "rgbCode": "996F2C"
+        "rgbCode": "2C6F99"
     },
     {
         "number": "3761",
         "description": "Sky Blue light",
-        "rgbCode": "D8C48E"
+        "rgbCode": "8EC4D8"
     },
     {
         "number": "3765",
         "description": "Raspberry dark",
-        "rgbCode": "795800"
+        "rgbCode": "005879"
     },
     {
         "number": "3766",
         "description": "Peacock Blue light",
-        "rgbCode": "B9A258"
+        "rgbCode": "58A2B9"
     },
     {
         "number": "3768",
         "description": "Grey Green dark",
-        "rgbCode": "615B42"
+        "rgbCode": "425B61"
     },
     {
         "number": "3770",
         "description": "Tawny very light",
-        "rgbCode": "C9E6FF"
+        "rgbCode": "FFE6C9"
     },
     {
         "number": "3771",
         "description": "Terra Cotta ultra",
-        "rgbCode": "7B9BDF"
+        "rgbCode": "DF9B7B"
     },
     {
         "number": "3772",
         "description": "Desert Sand very dark",
-        "rgbCode": "4B5A93"
+        "rgbCode": "935A4B"
     },
     {
         "number": "3774",
         "description": "Desert Sand very light",
-        "rgbCode": "A6BEE9"
+        "rgbCode": "E9BEA6"
     },
     {
         "number": "3776",
         "description": "Mahogany light",
-        "rgbCode": "365FBD"
+        "rgbCode": "BD5F36"
     },
     {
         "number": "3777",
         "description": "Terra Cotta very dark",
-        "rgbCode": "292582"
+        "rgbCode": "822529"
     },
     {
         "number": "3778",
         "description": "Terra Cotta light",
-        "rgbCode": "5A69C1"
+        "rgbCode": "C1695A"
     },
     {
         "number": "3779",
         "description": "Terra Cotta ultra",
-        "rgbCode": "92A4E8"
+        "rgbCode": "E8A492"
     },
     {
         "number": "3781",
         "description": "Mocha Brown dark",
-        "rgbCode": "2E3D50"
+        "rgbCode": "503D2E"
     },
     {
         "number": "3782",
         "description": "Mocha Brown light",
-        "rgbCode": "7892AC"
+        "rgbCode": "AC9278"
     },
     {
         "number": "3787",
         "description": "Brown Grey dark",
-        "rgbCode": "3D4750"
+        "rgbCode": "50473D"
     },
     {
         "number": "3790",
         "description": "Beige Grey ultra dark",
-        "rgbCode": "3D4D61"
+        "rgbCode": "614D3D"
     },
     {
         "number": "3799",
         "description": "Pewter Grey very dark",
-        "rgbCode": "383430"
+        "rgbCode": "303438"
     },
     {
         "number": "3801",
         "description": "Christmas Red light",
-        "rgbCode": "3823E0"
+        "rgbCode": "E02338"
     },
     {
         "number": "3802",
         "description": "Antique Mauve very dk",
-        "rgbCode": "362C60"
+        "rgbCode": "602C36"
     },
     {
         "number": "3803",
         "description": "Mauve medium",
-        "rgbCode": "44257B"
+        "rgbCode": "7B2544"
     },
     {
         "number": "3804",
         "description": "Cyclamen Pink dark",
-        "rgbCode": "6118BA"
+        "rgbCode": "BA1861"
     },
     {
         "number": "3805",
         "description": "Cyclamen Pink",
-        "rgbCode": "732BCC"
+        "rgbCode": "CC2B73"
     },
     {
         "number": "3806",
         "description": "Cyclamen Pink light",
-        "rgbCode": "9255E4"
+        "rgbCode": "E45592"
     },
     {
         "number": "3807",
         "description": "Cornflower Blue",
-        "rgbCode": "8F5447"
+        "rgbCode": "47548F"
     },
     {
         "number": "3808",
         "description": "Turquoise ultra very",
-        "rgbCode": "574700"
+        "rgbCode": "004757"
     },
     {
         "number": "3809",
         "description": "Turquoise very dark",
-        "rgbCode": "6D5C13"
+        "rgbCode": "135C6D"
     },
     {
         "number": "3810",
         "description": "Turquoise dark",
-        "rgbCode": "8C7B34"
+        "rgbCode": "347B8C"
     },
     {
         "number": "3811",
         "description": "Turquoise very light",
-        "rgbCode": "C6C595"
+        "rgbCode": "95C5C6"
     },
     {
         "number": "3812",
         "description": "Sea Green very dark",
-        "rgbCode": "7C8800"
+        "rgbCode": "00887C"
     },
     {
         "number": "3813",
         "description": "Blue Green light",
-        "rgbCode": "9DAC8C"
+        "rgbCode": "8CAC9D"
     },
     {
         "number": "3814",
         "description": "Aquamarine (was 504)",
-        "rgbCode": "63710D"
+        "rgbCode": "0D7163"
     },
     {
         "number": "3815",
         "description": "Celadon Green dark",
-        "rgbCode": "576A38"
+        "rgbCode": "386A57"
     },
     {
         "number": "3816",
         "description": "Celadon Green",
-        "rgbCode": "6F8353"
+        "rgbCode": "53836F"
     },
     {
         "number": "3817",
         "description": "Celadon Green light",
-        "rgbCode": "96AB82"
+        "rgbCode": "82AB96"
     },
     {
         "number": "3818",
         "description": "Emerald Green ultra",
-        "rgbCode": "364F00"
+        "rgbCode": "004F36"
     },
     {
         "number": "3819",
         "description": "Moss Green light",
-        "rgbCode": "38B7B8"
+        "rgbCode": "B8B738"
     },
     {
         "number": "3820",
         "description": "Straw dark",
-        "rgbCode": "2B96D6"
+        "rgbCode": "D6962B"
     },
     {
         "number": "3821",
         "description": "Straw",
-        "rgbCode": "44B0E3"
+        "rgbCode": "E3B044"
     },
     {
         "number": "3822",
         "description": "Straw light",
-        "rgbCode": "5FC6F0"
+        "rgbCode": "F0C65F"
     },
     {
         "number": "3823",
         "description": "Yellow ultra pale",
-        "rgbCode": "B4EDFE"
+        "rgbCode": "FEEDB4"
     },
     {
         "number": "3824",
         "description": "Apricot light",
-        "rgbCode": "8DA5FF"
+        "rgbCode": "FFA58D"
     },
     {
         "number": "3825",
         "description": "Pumpkin pale",
-        "rgbCode": "639AFF"
+        "rgbCode": "FF9A63"
     },
     {
         "number": "3826",
         "description": "Golden Brown",
-        "rgbCode": "254D9C"
+        "rgbCode": "9C4D25"
     },
     {
         "number": "3827",
         "description": "Golden Brown pale",
-        "rgbCode": "5898E1"
+        "rgbCode": "E19858"
     },
     {
         "number": "3828",
         "description": "Hazel Nut Brown",
-        "rgbCode": "4679A6"
+        "rgbCode": "A67946"
     },
     {
         "number": "3829",
         "description": "Old Gold very dark",
-        "rgbCode": "2E6CA4"
+        "rgbCode": "A46C2E"
     },
     {
         "number": "3830",
         "description": "Terra Cotta",
-        "rgbCode": "363A9C"
+        "rgbCode": "9C3A36"
     },
     {
         "number": "3831",
         "description": "Raspberry dark",
-        "rgbCode": "3A20A8"
+        "rgbCode": "A8203A"
     },
     {
         "number": "3832",
         "description": "Raspberry medium",
-        "rgbCode": "5038C6"
+        "rgbCode": "C63850"
     },
     {
         "number": "3833",
         "description": "Raspberry light",
-        "rgbCode": "6A55CF"
+        "rgbCode": "CF556A"
     },
     {
         "number": "3834",
         "description": "Grape dark",
-        "rgbCode": "4A295B"
+        "rgbCode": "5B294A"
     },
     {
         "number": "3835",
         "description": "Grape medium",
-        "rgbCode": "614071"
+        "rgbCode": "714061"
     },
     {
         "number": "3836",
         "description": "Grape light",
-        "rgbCode": "906CA2"
+        "rgbCode": "A26C90"
     },
     {
         "number": "3837",
         "description": "Lavender ultra dark",
-        "rgbCode": "81366C"
+        "rgbCode": "6C3681"
     },
     {
         "number": "3838",
         "description": "Lavender Blue dark",
-        "rgbCode": "A65C4A"
+        "rgbCode": "4A5CA6"
     },
     {
         "number": "3839",
         "description": "Lavender Blue medium",
-        "rgbCode": "AE705B"
+        "rgbCode": "5B70AE"
     },
     {
         "number": "3840",
         "description": "Lavender Blue light",
-        "rgbCode": "CEA385"
+        "rgbCode": "85A3CE"
     },
     {
         "number": "3841",
         "description": "Baby Blue pale",
-        "rgbCode": "CEBC9F"
+        "rgbCode": "9FBCCE"
     },
     {
         "number": "3842",
         "description": "Wedgewood dark",
-        "rgbCode": "6B3E0D"
+        "rgbCode": "0D3E6B"
     },
     {
         "number": "3843",
         "description": "Electric Blue",
-        "rgbCode": "C78100"
+        "rgbCode": "0081C7"
     },
     {
         "number": "3844",
         "description": "Bright Turquoise dark",
-        "rgbCode": "B28900"
+        "rgbCode": "0089B2"
     },
     {
         "number": "3845",
         "description": "Bright Turquoise med",
-        "rgbCode": "BE9B00"
+        "rgbCode": "009BBE"
     },
     {
         "number": "3846",
         "description": "Bright Turquoise light",
-        "rgbCode": "D1AF00"
+        "rgbCode": "00AFD1"
     },
     {
         "number": "3847",
         "description": "Teal Green dark",
-        "rgbCode": "4D5000"
+        "rgbCode": "00504D"
     },
     {
         "number": "3848",
         "description": "Teal Green medium",
-        "rgbCode": "6A6D18"
+        "rgbCode": "186D6A"
     },
     {
         "number": "3849",
         "description": "Teal Green light",
-        "rgbCode": "8D9144"
+        "rgbCode": "44918D"
     },
     {
         "number": "3850",
         "description": "Bright Green dark",
-        "rgbCode": "6B8500"
+        "rgbCode": "00856B"
     },
     {
         "number": "3851",
         "description": "Bright Green light",
-        "rgbCode": "829F00"
+        "rgbCode": "009F82"
     },
     {
         "number": "3852",
         "description": "Straw very dark",
-        "rgbCode": "1B80C3"
+        "rgbCode": "C3801B"
     },
     {
         "number": "3853",
         "description": "Autumn Gold dark",
-        "rgbCode": "2C64D1"
+        "rgbCode": "D1642C"
     },
     {
         "number": "3854",
         "description": "Autumn Gold medium",
-        "rgbCode": "4793F2"
+        "rgbCode": "F29347"
     },
     {
         "number": "3855",
         "description": "Autumn Gold light",
-        "rgbCode": "70C1F9"
+        "rgbCode": "F9C170"
     },
     {
         "number": "3856",
         "description": "Mahogany ultra very",
-        "rgbCode": "72A4E5"
+        "rgbCode": "E5A472"
     },
     {
         "number": "3857",
         "description": "Rosewood dark",
-        "rgbCode": "232557"
+        "rgbCode": "572523"
     },
     {
         "number": "3858",
         "description": "Rosewood medium",
-        "rgbCode": "363D75"
+        "rgbCode": "753D36"
     },
     {
         "number": "3859",
         "description": "Rosewood light",
-        "rgbCode": "5C6DB2"
+        "rgbCode": "B26D5C"
     },
     {
         "number": "3860",
         "description": "Cocoa",
-        "rgbCode": "4B4F6F"
+        "rgbCode": "6F4F4B"
     },
     {
         "number": "3861",
         "description": "Cocoa light",
-        "rgbCode": "6A6C8D"
+        "rgbCode": "8D6C6A"
     },
     {
         "number": "3862",
         "description": "Mocha Beige dark",
-        "rgbCode": "3E557C"
+        "rgbCode": "7C553E"
     },
     {
         "number": "3863",
         "description": "Mocha Beige medium",
-        "rgbCode": "4F6992"
+        "rgbCode": "92694F"
     },
     {
         "number": "3864",
         "description": "Mocha Beige light",
-        "rgbCode": "6F89B1"
+        "rgbCode": "B1896F"
     },
     {
         "number": "3865",
         "description": "Winter White",
-        "rgbCode": "F0F7F7"
+        "rgbCode": "F7F7F0"
     },
     {
         "number": "3866",
         "description": "Mocha Brown ultra",
-        "rgbCode": "BED1DD"
+        "rgbCode": "DDD1BE"
     },
     {
         "number": "E5200",
         "description": "Snow White",
-        "rgbCode": "FFFAFA"
+        "rgbCode": "FAFAFF"
     },
     {
         "number": "E940",
@@ -2422,37 +2422,37 @@
     {
         "number": "E155",
         "description": "Blue Violet MD DK",
-        "rgbCode": "AB6576"
+        "rgbCode": "7665AB"
     },
     {
         "number": "E168",
         "description": "Pewter V LT",
-        "rgbCode": "B7B3AB"
+        "rgbCode": "ABB3B7"
     },
     {
         "number": "E130",
         "description": "Gemstone",
-        "rgbCode": "605181"
+        "rgbCode": "815160"
     },
     {
         "number": "E135",
         "description": "Golden Dawn",
-        "rgbCode": "3D9159"
+        "rgbCode": "59913D"
     },
     {
         "number": "E211",
         "description": "Lavender LT",
-        "rgbCode": "E3B5D6"
+        "rgbCode": "D6B5E3"
     },
     {
         "number": "E301",
         "description": "Mahogany MD",
-        "rgbCode": "254799"
+        "rgbCode": "994725"
     },
     {
         "number": "E307”",
         "description": "”Fluorescent Yellow",
-        "rgbCode": "18DEFB"
+        "rgbCode": "FBDE18"
     },
     {
         "number": "E310",
@@ -2462,131 +2462,131 @@
     {
         "number": "E316",
         "description": "Mauve Antique MD",
-        "rgbCode": "7F6AAF"
+        "rgbCode": "AF6A7F"
     },
     {
         "number": "E317",
         "description": "Pewter Grey",
-        "rgbCode": "60544F"
+        "rgbCode": "4F5460"
     },
     {
         "number": "E321",
         "description": "Red",
-        "rgbCode": "2500AC"
+        "rgbCode": "AC0025"
     },
     {
         "number": "E334",
         "description": "Blue Baby MD",
-        "rgbCode": "A6754A"
+        "rgbCode": "4A75A6"
     },
     {
         "number": "E415",
         "description": "Pearl Grey",
-        "rgbCode": "B1A69F"
+        "rgbCode": "9FA6B1"
     },
     {
         "number": "E436",
         "description": "Tan",
-        "rgbCode": "4A7CB9"
+        "rgbCode": "B97C4A"
     },
     {
         "number": "E677",
         "description": "Old Gold V LT",
-        "rgbCode": "8ECFEA"
+        "rgbCode": "EACF8E"
     },
     {
         "number": "E699",
         "description": "Green",
-        "rgbCode": "3D5F00"
+        "rgbCode": "005F3D"
     },
     {
         "number": "E990",
         "description": "Fluorescent Green",
-        "rgbCode": "3E7000"
+        "rgbCode": "00703E"
     },
     {
         "number": "E703",
         "description": "Chartreuse",
-        "rgbCode": "46A760"
+        "rgbCode": "60A746"
     },
     {
         "number": "E718",
         "description": "Plum",
-        "rgbCode": "6F20A7"
+        "rgbCode": "A7206F"
     },
     {
         "number": "E746",
         "description": "White Off",
-        "rgbCode": "C7F1FA"
+        "rgbCode": "FAF1C7"
     },
     {
         "number": "E747",
         "description": "Blue Sky V LT",
-        "rgbCode": "E1DBAD"
+        "rgbCode": "ADDBE1"
     },
     {
         "number": "E815",
         "description": "Garnet MD",
-        "rgbCode": "230D70"
+        "rgbCode": "700D23"
     },
     {
         "number": "E818",
         "description": "Pink Baby",
-        "rgbCode": "D2D0FF"
+        "rgbCode": "FFD0D2"
     },
     {
         "number": "E825",
         "description": "Blue DK",
-        "rgbCode": "864F1B"
+        "rgbCode": "1B4F86"
     },
     {
         "number": "E898",
         "description": "Brown Coffee V DK",
-        "rgbCode": "232E4A"
+        "rgbCode": "4A2E23"
     },
     {
         "number": "E966",
         "description": "Green Baby MD",
-        "rgbCode": "8EBF8D"
+        "rgbCode": "8DBF8E"
     },
     {
         "number": "E967",
         "description": "Apricot V LT",
-        "rgbCode": "A9BEFF"
+        "rgbCode": "FFBEA9"
     },
     {
         "number": "E3685",
         "description": "Mauve V DK",
-        "rgbCode": "36186A"
+        "rgbCode": "6A1836"
     },
     {
         "number": "E3747",
         "description": "Violet Blue V LT",
-        "rgbCode": "DFBAAD"
+        "rgbCode": "ADBADF"
     },
     {
         "number": "E3821",
         "description": "Straw",
-        "rgbCode": "44B0E3"
+        "rgbCode": "E3B044"
     },
     {
         "number": "E3837",
         "description": "Lavender Ultra DK",
-        "rgbCode": "81366C"
+        "rgbCode": "6C3681"
     },
     {
         "number": "E3843",
         "description": "Blue Electric",
-        "rgbCode": "C78100"
+        "rgbCode": "0081C7"
     },
     {
         "number": "E3849",
         "description": "Teal Green LT",
-        "rgbCode": "8D9144"
+        "rgbCode": "44918D"
     },
     {
         "number": "E3852",
         "description": "Straw V DK",
-        "rgbCode": "1B80C3"
+        "rgbCode": "C3801B"
     }
 ]

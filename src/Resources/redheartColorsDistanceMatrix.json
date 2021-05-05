@@ -2,81 +2,81 @@
     "235": {
         "number": "235",
         "description": "Lemon",
-        "rgbCode": "79E8F5",
+        "rgbCode": "F5E879",
         "distances": [
             {
-                "distance": 7.874007874011811,
+                "distance": 17.029386365926403,
                 "number": "320"
             },
             {
-                "distance": 18.601075237738275,
+                "distance": 30.822070014844883,
                 "number": "322"
             },
             {
-                "distance": 19.339079605813716,
-                "number": "334"
-            },
-            {
-                "distance": 20.639767440550294,
+                "distance": 33.12099032335839,
                 "number": "324"
             },
             {
-                "distance": 27.386127875258307,
-                "number": "668"
+                "distance": 34.91418050019218,
+                "number": "334"
+            },
+            {
+                "distance": 36.932370625238775,
+                "number": "672"
             }
         ]
     },
     "254": {
         "number": "254",
         "description": "Pumpkin",
-        "rgbCode": "D7ADA",
+        "rgbCode": "AADD7",
         "distances": [
             {
-                "distance": 13.490737563232042,
-                "number": "530"
-            },
-            {
-                "distance": 19.87460691435179,
-                "number": "358"
-            },
-            {
-                "distance": 24.351591323771842,
-                "number": "528"
-            },
-            {
-                "distance": 29.765752132274432,
+                "distance": 7.280109889280518,
                 "number": "579"
             },
             {
-                "distance": 34.583232931581165,
-                "number": "373"
+                "distance": 12.328828005937952,
+                "number": "381"
+            },
+            {
+                "distance": 13.638181696985855,
+                "number": "347"
+            },
+            {
+                "distance": 21.494185260204677,
+                "number": "382"
+            },
+            {
+                "distance": 22.825424421026653,
+                "number": "530"
             }
         ]
     },
     "256": {
         "number": "256",
         "description": "Carrot",
-        "rgbCode": "3264CB",
+        "rgbCode": "CB6432",
         "distances": [
             {
-                "distance": 5.0990195135927845,
+                "distance": 16.401219466856727,
                 "number": "726"
             },
             {
-                "distance": 22.44994432064365,
-                "number": "774"
+                "distance": 29.478805945967352,
+                "number": "390"
             },
             {
-                "distance": 41.30375285612676,
+                "distance": 35.07135583350036,
                 "number": "319"
             },
             {
-                "distance": 43.15089802078283,
-                "number": "376"
+                "distance": 35.62302626111375,
+                "number": "336"
             },
             {
-                "distance": 44.40720662234904,
-                "number": "722"
+                "distance": 51.0098029794274,
+                "number": "774"
             }
         ]
     },
@@ -90,20 +90,20 @@
                 "number": "316"
             },
             {
-                "distance": 5.0990195135927845,
+                "distance": 6.164414002968976,
                 "number": "313"
             },
             {
-                "distance": 17.72004514666935,
-                "number": "322"
+                "distance": 16.673332000533065,
+                "number": "345"
             },
             {
-                "distance": 18.547236990991408,
+                "distance": 19.672315572906,
                 "number": "341"
             },
             {
-                "distance": 21.840329667841555,
-                "number": "345"
+                "distance": 25.41653005427767,
+                "number": "668"
             }
         ]
     },
@@ -117,19 +117,19 @@
                 "number": "360"
             },
             {
-                "distance": 11.489125293076057,
+                "distance": 11.045361017187261,
                 "number": "365"
             },
             {
-                "distance": 21.6794833886788,
+                "distance": 17.204650534085253,
                 "number": "378"
             },
             {
-                "distance": 27.910571473905726,
+                "distance": 27.09243436828813,
                 "number": "380"
             },
             {
-                "distance": 28.284271247461902,
+                "distance": 29.427877939124322,
                 "number": "389"
             }
         ]
@@ -137,27 +137,27 @@
     "313": {
         "number": "313",
         "description": "Aran",
-        "rgbCode": "E6F0F0",
+        "rgbCode": "F0F0E6",
         "distances": [
             {
-                "distance": 3.7416573867739413,
+                "distance": 5.477225575051661,
                 "number": "316"
             },
             {
-                "distance": 5.0990195135927845,
+                "distance": 6.164414002968976,
                 "number": "311"
             },
             {
-                "distance": 14.352700094407323,
-                "number": "322"
+                "distance": 18.110770276274835,
+                "number": "345"
             },
             {
-                "distance": 15.684387141358123,
+                "distance": 18.894443627691185,
                 "number": "341"
             },
             {
-                "distance": 18,
-                "number": "334"
+                "distance": 19.748417658131498,
+                "number": "668"
             }
         ]
     },
@@ -171,344 +171,344 @@
                 "number": "311"
             },
             {
-                "distance": 3.7416573867739413,
+                "distance": 5.477225575051661,
                 "number": "313"
             },
             {
-                "distance": 16.61324772583615,
+                "distance": 15.684387141358123,
+                "number": "345"
+            },
+            {
+                "distance": 17.74823934929885,
                 "number": "341"
             },
             {
-                "distance": 17.4928556845359,
-                "number": "322"
-            },
-            {
-                "distance": 21,
-                "number": "345"
+                "distance": 24.372115213907882,
+                "number": "668"
             }
         ]
     },
     "319": {
         "number": "319",
         "description": "Cherry Red",
-        "rgbCode": "11007C",
+        "rgbCode": "7C0011",
         "distances": [
             {
-                "distance": 24.372115213907882,
+                "distance": 23.769728648009426,
                 "number": "390"
             },
             {
-                "distance": 26.758176320519304,
+                "distance": 27.03701166919155,
                 "number": "376"
             },
             {
-                "distance": 28.600699292150182,
-                "number": "718"
-            },
-            {
-                "distance": 38.44476557348217,
+                "distance": 27.2213151776324,
                 "number": "726"
             },
             {
-                "distance": 41.30375285612676,
+                "distance": 35.07135583350036,
                 "number": "256"
+            },
+            {
+                "distance": 43.508619835614184,
+                "number": "336"
             }
         ]
     },
     "320": {
         "number": "320",
         "description": "Cornmeal",
-        "rgbCode": "9CE8EF",
+        "rgbCode": "EFE89C",
         "distances": [
             {
-                "distance": 7.874007874011811,
-                "number": "235"
-            },
-            {
-                "distance": 11.74734012447073,
+                "distance": 14.7648230602334,
                 "number": "322"
             },
             {
-                "distance": 13.19090595827292,
+                "distance": 17.029386365926403,
+                "number": "235"
+            },
+            {
+                "distance": 19.313207915827967,
                 "number": "334"
             },
             {
-                "distance": 20.83266665599966,
+                "distance": 24.779023386727733,
                 "number": "668"
             },
             {
-                "distance": 22.58317958127243,
-                "number": "313"
+                "distance": 30.56141357987225,
+                "number": "661"
             }
         ]
     },
     "321": {
         "number": "321",
         "description": "Gold",
-        "rgbCode": "AA7CD",
+        "rgbCode": "D7CAA",
         "distances": [
             {
-                "distance": 7.3484692283495345,
-                "number": "505"
+                "distance": 21.79449471770337,
+                "number": "530"
             },
             {
-                "distance": 13.152946437965905,
-                "number": "382"
+                "distance": 22.045407685048602,
+                "number": "722"
             },
             {
-                "distance": 22.847319317591726,
-                "number": "631"
+                "distance": 27.440845468024488,
+                "number": "774"
             },
             {
-                "distance": 24.041630560342615,
-                "number": "661"
+                "distance": 28.460498941515414,
+                "number": "718"
             },
             {
-                "distance": 24.596747752497688,
-                "number": "381"
+                "distance": 33.555923471125034,
+                "number": "358"
             }
         ]
     },
     "322": {
         "number": "322",
         "description": "Pale Yellow",
-        "rgbCode": "C7FCF9",
+        "rgbCode": "F9FCC7",
         "distances": [
             {
-                "distance": 11.74734012447073,
+                "distance": 14.7648230602334,
                 "number": "320"
             },
             {
-                "distance": 14.352700094407323,
-                "number": "313"
-            },
-            {
-                "distance": 16.911534525287763,
+                "distance": 17.349351572897472,
                 "number": "334"
             },
             {
-                "distance": 17.029386365926403,
+                "distance": 18.2208671582886,
                 "number": "668"
             },
             {
-                "distance": 17.4928556845359,
-                "number": "316"
+                "distance": 21.400934559032695,
+                "number": "313"
+            },
+            {
+                "distance": 26.570660511172846,
+                "number": "311"
             }
         ]
     },
     "324": {
         "number": "324",
         "description": "Bright Yellow",
-        "rgbCode": "2AF2E8",
+        "rgbCode": "E8F22A",
         "distances": [
             {
-                "distance": 20.639767440550294,
-                "number": "235"
-            },
-            {
-                "distance": 25.179356624028344,
-                "number": "320"
-            },
-            {
-                "distance": 31.304951684997057,
-                "number": "322"
-            },
-            {
-                "distance": 33.31666249791537,
+                "distance": 32.449961479175904,
                 "number": "672"
             },
             {
-                "distance": 34.61213659975356,
-                "number": "668"
+                "distance": 33.12099032335839,
+                "number": "235"
+            },
+            {
+                "distance": 49.34571916590131,
+                "number": "320"
+            },
+            {
+                "distance": 62.13694553162394,
+                "number": "322"
+            },
+            {
+                "distance": 63.03967004989794,
+                "number": "624"
             }
         ]
     },
     "334": {
         "number": "334",
         "description": "Buff",
-        "rgbCode": "A3CCD6",
+        "rgbCode": "D6CCA3",
         "distances": [
             {
-                "distance": 13.19090595827292,
-                "number": "320"
+                "distance": 14.035668847618199,
+                "number": "668"
             },
             {
-                "distance": 16.911534525287763,
-                "number": "322"
-            },
-            {
-                "distance": 17.435595774162696,
+                "distance": 16.583123951777,
                 "number": "661"
             },
             {
-                "distance": 18,
-                "number": "313"
+                "distance": 17.349351572897472,
+                "number": "322"
             },
             {
-                "distance": 18.384776310850235,
-                "number": "341"
+                "distance": 19.313207915827967,
+                "number": "320"
+            },
+            {
+                "distance": 21.42428528562855,
+                "number": "313"
             }
         ]
     },
     "336": {
         "number": "336",
         "description": "Warm Brown",
-        "rgbCode": "2F5D7B",
+        "rgbCode": "7B5D2F",
         "distances": [
-            {
-                "distance": 24.677925358506133,
-                "number": "400"
-            },
             {
                 "distance": 25.573423705088842,
                 "number": "406"
             },
             {
-                "distance": 31.448370387032774,
-                "number": "3950"
-            },
-            {
-                "distance": 34.058772731852805,
-                "number": "365"
-            },
-            {
-                "distance": 36.742346141747674,
+                "distance": 31.25699921617557,
                 "number": "631"
+            },
+            {
+                "distance": 31.38470965295043,
+                "number": "400"
+            },
+            {
+                "distance": 33.25657829663178,
+                "number": "726"
+            },
+            {
+                "distance": 35.59494346111537,
+                "number": "624"
             }
         ]
     },
     "341": {
         "number": "341",
         "description": "Light Grey",
-        "rgbCode": "CDC5BF",
+        "rgbCode": "BFC5CD",
         "distances": [
             {
-                "distance": 15,
-                "number": "381"
-            },
-            {
-                "distance": 15.684387141358123,
-                "number": "313"
-            },
-            {
-                "distance": 16.61324772583615,
-                "number": "316"
-            },
-            {
-                "distance": 16.64331697709324,
+                "distance": 13.74772708486752,
                 "number": "382"
             },
             {
-                "distance": 18.384776310850235,
-                "number": "334"
+                "distance": 17.233687939614086,
+                "number": "381"
+            },
+            {
+                "distance": 17.74823934929885,
+                "number": "316"
+            },
+            {
+                "distance": 18.466185312619388,
+                "number": "345"
+            },
+            {
+                "distance": 18.894443627691185,
+                "number": "313"
             }
         ]
     },
     "345": {
         "number": "345",
         "description": "Baby Pink",
-        "rgbCode": "E2D6F9",
+        "rgbCode": "F9D6E2",
         "distances": [
             {
-                "distance": 13.379088160259652,
+                "distance": 12.68857754044952,
                 "number": "373"
             },
             {
-                "distance": 20.71231517720798,
-                "number": "579"
-            },
-            {
-                "distance": 21,
+                "distance": 15.684387141358123,
                 "number": "316"
             },
             {
-                "distance": 21.37755832643195,
+                "distance": 16.673332000533065,
+                "number": "311"
+            },
+            {
+                "distance": 18.110770276274835,
                 "number": "313"
             },
             {
-                "distance": 21.840329667841555,
-                "number": "311"
+                "distance": 18.466185312619388,
+                "number": "341"
             }
         ]
     },
     "347": {
         "number": "347",
         "description": "Light Periwinkle",
-        "rgbCode": "CA8F79",
+        "rgbCode": "798FCA",
         "distances": [
             {
-                "distance": 18.193405398660254,
-                "number": "381"
+                "distance": 13.638181696985855,
+                "number": "254"
             },
             {
-                "distance": 19.209372712298546,
-                "number": "382"
-            },
-            {
-                "distance": 21.470910553583888,
-                "number": "885"
-            },
-            {
-                "distance": 25.65151067676132,
+                "distance": 19.4164878389476,
                 "number": "579"
             },
             {
-                "distance": 27.477263328068172,
-                "number": "358"
+                "distance": 20.83266665599966,
+                "number": "512"
+            },
+            {
+                "distance": 21.118712081942874,
+                "number": "381"
+            },
+            {
+                "distance": 23.2163735324878,
+                "number": "530"
             }
         ]
     },
     "356": {
         "number": "356",
         "description": "Amethyst",
-        "rgbCode": "71002C",
+        "rgbCode": "2C0071",
         "distances": [
             {
-                "distance": 18.627936010197157,
+                "distance": 13.74772708486752,
                 "number": "385"
             },
             {
-                "distance": 23.62202362203543,
-                "number": "387"
+                "distance": 23.515952032609693,
+                "number": "886"
             },
             {
-                "distance": 24.899799195977465,
+                "distance": 31.843366656181317,
                 "number": "528"
             },
             {
-                "distance": 26.019223662515376,
-                "number": "5851"
+                "distance": 35.014282800023196,
+                "number": "387"
             },
             {
-                "distance": 28.600699292150182,
-                "number": "776"
+                "distance": 36.02776706930364,
+                "number": "358"
             }
         ]
     },
     "358": {
         "number": "358",
         "description": "Lavender",
-        "rgbCode": "BB5E72",
+        "rgbCode": "725EBB",
         "distances": [
             {
-                "distance": 16.55294535724685,
+                "distance": 13.490737563232042,
                 "number": "528"
             },
             {
-                "distance": 19.87460691435179,
-                "number": "254"
+                "distance": 14.2828568570857,
+                "number": "885"
             },
             {
-                "distance": 21,
+                "distance": 19.467922333931785,
+                "number": "886"
+            },
+            {
+                "distance": 20.615528128088304,
                 "number": "530"
             },
             {
-                "distance": 27.477263328068172,
-                "number": "347"
-            },
-            {
-                "distance": 28.178005607210743,
-                "number": "885"
+                "distance": 28.513154858766505,
+                "number": "385"
             }
         ]
     },
@@ -522,19 +522,19 @@
                 "number": "312"
             },
             {
-                "distance": 11.489125293076057,
+                "distance": 11.045361017187261,
                 "number": "365"
             },
             {
-                "distance": 21.6794833886788,
+                "distance": 17.204650534085253,
                 "number": "378"
             },
             {
-                "distance": 27.910571473905726,
+                "distance": 27.09243436828813,
                 "number": "380"
             },
             {
-                "distance": 28.284271247461902,
+                "distance": 29.427877939124322,
                 "number": "389"
             }
         ]
@@ -542,80 +542,80 @@
     "365": {
         "number": "365",
         "description": "Coffee",
-        "rgbCode": "141722",
+        "rgbCode": "221714",
         "distances": [
             {
-                "distance": 11.489125293076057,
+                "distance": 11.045361017187261,
                 "number": "312"
             },
             {
-                "distance": 11.489125293076057,
+                "distance": 11.045361017187261,
                 "number": "360"
             },
             {
-                "distance": 13.784048752090222,
+                "distance": 11.575836902790225,
                 "number": "378"
             },
             {
-                "distance": 22.561028345356956,
-                "number": "3950"
+                "distance": 24.372115213907882,
+                "number": "380"
             },
             {
-                "distance": 23.345235059857504,
-                "number": "776"
+                "distance": 25.337718918639855,
+                "number": "3950"
             }
         ]
     },
     "368": {
         "number": "368",
         "description": "Paddy Green",
-        "rgbCode": "2B5A0E",
+        "rgbCode": "0E5A2B",
         "distances": [
             {
-                "distance": 27.03701166919155,
-                "number": "656"
-            },
-            {
-                "distance": 30.54504869860253,
-                "number": "624"
-            },
-            {
-                "distance": 31.11269837220809,
+                "distance": 23.065125189341593,
                 "number": "389"
             },
             {
-                "distance": 34.307433596816885,
-                "number": "3862"
+                "distance": 26.77685567799177,
+                "number": "624"
             },
             {
-                "distance": 36.959437225152655,
+                "distance": 28.178005607210743,
+                "number": "406"
+            },
+            {
+                "distance": 30.14962686336267,
                 "number": "631"
+            },
+            {
+                "distance": 37.26929030716845,
+                "number": "656"
             }
         ]
     },
     "373": {
         "number": "373",
         "description": "Petal Pink",
-        "rgbCode": "DABFF5",
+        "rgbCode": "F5BFDA",
         "distances": [
             {
-                "distance": 13.379088160259652,
+                "distance": 12.68857754044952,
                 "number": "345"
             },
             {
-                "distance": 21.213203435596427,
+                "distance": 19.949937343260004,
                 "number": "579"
             },
             {
-                "distance": 26.267851073127396,
-                "number": "530"
-            },
-            {
-                "distance": 32.46536616149585,
+                "distance": 25.337718918639855,
                 "number": "341"
             },
             {
-                "distance": 33.97057550292606,
+                "distance": 26.70205984563738,
+                "number": "254"
+            },
+            {
+                "distance": 27.94637722496424,
                 "number": "316"
             }
         ]
@@ -623,782 +623,782 @@
     "376": {
         "number": "376",
         "description": "Burgundy",
-        "rgbCode": "1A024D",
+        "rgbCode": "4D021A",
         "distances": [
             {
-                "distance": 26.758176320519304,
-                "number": "319"
-            },
-            {
-                "distance": 31.176914536239792,
+                "distance": 20.591260281974,
                 "number": "378"
             },
             {
-                "distance": 33.36165463522455,
+                "distance": 27.03701166919155,
+                "number": "319"
+            },
+            {
+                "distance": 29.698484809834994,
+                "number": "365"
+            },
+            {
+                "distance": 32.202484376209235,
                 "number": "776"
             },
             {
-                "distance": 40.024992192379,
-                "number": "726"
-            },
-            {
-                "distance": 43.01162633521314,
-                "number": "774"
+                "distance": 35.014282800023196,
+                "number": "3950"
             }
         ]
     },
     "378": {
         "number": "378",
         "description": "Claret",
-        "rgbCode": "120A28",
+        "rgbCode": "280A12",
         "distances": [
             {
-                "distance": 13.784048752090222,
+                "distance": 11.575836902790225,
                 "number": "365"
             },
             {
-                "distance": 18.57417562100671,
-                "number": "776"
-            },
-            {
-                "distance": 21.6794833886788,
+                "distance": 17.204650534085253,
                 "number": "312"
             },
             {
-                "distance": 21.6794833886788,
+                "distance": 17.204650534085253,
                 "number": "360"
             },
             {
-                "distance": 27.730849247724095,
-                "number": "3950"
+                "distance": 20.591260281974,
+                "number": "376"
+            },
+            {
+                "distance": 25.317977802344327,
+                "number": "776"
             }
         ]
     },
     "380": {
         "number": "380",
         "description": "Windsor Blue",
-        "rgbCode": "4A3225",
+        "rgbCode": "25324A",
         "distances": [
             {
-                "distance": 12.68857754044952,
-                "number": "5851"
-            },
-            {
-                "distance": 13.92838827718412,
+                "distance": 9.16515138991168,
                 "number": "3950"
             },
             {
-                "distance": 15.937377450509228,
+                "distance": 17.146428199482248,
+                "number": "5851"
+            },
+            {
+                "distance": 20.615528128088304,
+                "number": "656"
+            },
+            {
+                "distance": 22.67156809750927,
                 "number": "387"
             },
             {
-                "distance": 23.853720883753127,
-                "number": "406"
-            },
-            {
-                "distance": 25.199206336708304,
-                "number": "389"
+                "distance": 24.228082879171435,
+                "number": "776"
             }
         ]
     },
     "381": {
         "number": "381",
         "description": "Light Blue",
-        "rgbCode": "E5BEA8",
+        "rgbCode": "A8BEE5",
         "distances": [
             {
-                "distance": 12.884098726725126,
+                "distance": 12.328828005937952,
+                "number": "254"
+            },
+            {
+                "distance": 13.92838827718412,
                 "number": "382"
             },
             {
                 "distance": 15,
-                "number": "341"
-            },
-            {
-                "distance": 18.193405398660254,
-                "number": "347"
-            },
-            {
-                "distance": 21.470910553583888,
                 "number": "579"
             },
             {
-                "distance": 24.596747752497688,
-                "number": "321"
+                "distance": 17.233687939614086,
+                "number": "341"
+            },
+            {
+                "distance": 17.72004514666935,
+                "number": "512"
             }
         ]
     },
     "382": {
         "number": "382",
         "description": "Country Blue",
-        "rgbCode": "BFAC8D",
+        "rgbCode": "8DACBF",
         "distances": [
             {
-                "distance": 12.884098726725126,
-                "number": "381"
-            },
-            {
-                "distance": 13.152946437965905,
-                "number": "321"
-            },
-            {
-                "distance": 16.64331697709324,
+                "distance": 13.74772708486752,
                 "number": "341"
             },
             {
-                "distance": 17.804493814764857,
+                "distance": 13.92838827718412,
+                "number": "381"
+            },
+            {
+                "distance": 16.15549442140351,
                 "number": "505"
             },
             {
-                "distance": 19.209372712298546,
-                "number": "347"
+                "distance": 18.05547008526779,
+                "number": "512"
+            },
+            {
+                "distance": 21.494185260204677,
+                "number": "254"
             }
         ]
     },
     "385": {
         "number": "385",
         "description": "Royal Blue",
-        "rgbCode": "771D1A",
+        "rgbCode": "1A1D77",
         "distances": [
             {
-                "distance": 15,
+                "distance": 12.727922061357855,
                 "number": "886"
             },
             {
-                "distance": 18.627936010197157,
+                "distance": 13.74772708486752,
                 "number": "356"
             },
             {
-                "distance": 19.72308292331602,
+                "distance": 24.228082879171435,
+                "number": "528"
+            },
+            {
+                "distance": 24.71841418861655,
                 "number": "387"
             },
             {
-                "distance": 21.118712081942874,
-                "number": "5851"
-            },
-            {
-                "distance": 26.095976701399778,
-                "number": "3251"
+                "distance": 28.513154858766505,
+                "number": "358"
             }
         ]
     },
     "387": {
         "number": "387",
         "description": "Soft Navy",
-        "rgbCode": "4F1C18",
+        "rgbCode": "181C4F",
         "distances": [
             {
-                "distance": 9.539392014169456,
+                "distance": 10.954451150103322,
                 "number": "5851"
             },
             {
-                "distance": 15.937377450509228,
-                "number": "380"
+                "distance": 12.041594578792296,
+                "number": "776"
             },
             {
-                "distance": 19.72308292331602,
-                "number": "385"
-            },
-            {
-                "distance": 20.248456731316587,
+                "distance": 21.95449840010015,
                 "number": "3950"
             },
             {
-                "distance": 23.62202362203543,
-                "number": "356"
+                "distance": 22.67156809750927,
+                "number": "380"
+            },
+            {
+                "distance": 24.71841418861655,
+                "number": "385"
             }
         ]
     },
     "389": {
         "number": "389",
         "description": "Hunter Green",
-        "rgbCode": "1E371F",
+        "rgbCode": "1F371E",
         "distances": [
             {
-                "distance": 14.491376746189438,
+                "distance": 12.083045973594572,
                 "number": "406"
             },
             {
-                "distance": 25.199206336708304,
-                "number": "380"
+                "distance": 23.065125189341593,
+                "number": "368"
             },
             {
-                "distance": 28.284271247461902,
-                "number": "312"
+                "distance": 25.80697580112788,
+                "number": "365"
             },
             {
-                "distance": 28.284271247461902,
-                "number": "360"
-            },
-            {
-                "distance": 29.444863728670914,
+                "distance": 26.019223662515376,
                 "number": "656"
+            },
+            {
+                "distance": 29.427877939124322,
+                "number": "312"
             }
         ]
     },
     "390": {
         "number": "390",
         "description": "Hot Red",
-        "rgbCode": "1201B1",
+        "rgbCode": "B10112",
         "distances": [
             {
-                "distance": 24.372115213907882,
+                "distance": 23.769728648009426,
                 "number": "319"
             },
             {
-                "distance": 24.535688292770594,
-                "number": "718"
+                "distance": 29.478805945967352,
+                "number": "256"
             },
             {
-                "distance": 38.13135192987524,
-                "number": "722"
-            },
-            {
-                "distance": 49.558046773455466,
+                "distance": 29.597297173897484,
                 "number": "726"
             },
             {
-                "distance": 51.048996072400875,
+                "distance": 50.53711507397311,
                 "number": "376"
+            },
+            {
+                "distance": 55.767373974394744,
+                "number": "336"
             }
         ]
     },
     "400": {
         "number": "400",
         "description": "Grey Heather",
-        "rgbCode": "707272",
+        "rgbCode": "727270",
         "distances": [
             {
-                "distance": 18.841443681416774,
+                "distance": 20.445048300260872,
                 "number": "631"
             },
             {
-                "distance": 22.38302928559939,
+                "distance": 24.06241883103193,
                 "number": "406"
             },
             {
-                "distance": 24.596747752497688,
-                "number": "661"
+                "distance": 25.65151067676132,
+                "number": "656"
             },
             {
-                "distance": 24.677925358506133,
-                "number": "336"
+                "distance": 25.942243542145693,
+                "number": "382"
             },
             {
-                "distance": 26.076809620810597,
-                "number": "3950"
+                "distance": 28.844410203711913,
+                "number": "3862"
             }
         ]
     },
     "406": {
         "number": "406",
         "description": "Medium Thyme",
-        "rgbCode": "2E4741",
+        "rgbCode": "41472E",
         "distances": [
             {
-                "distance": 14.491376746189438,
+                "distance": 12.083045973594572,
                 "number": "389"
             },
             {
-                "distance": 22.38302928559939,
+                "distance": 24.06241883103193,
                 "number": "400"
             },
             {
-                "distance": 23.853720883753127,
-                "number": "380"
-            },
-            {
-                "distance": 24.1039415863879,
-                "number": "3950"
-            },
-            {
-                "distance": 25.495097567963924,
+                "distance": 25.37715508089904,
                 "number": "365"
+            },
+            {
+                "distance": 25.573423705088842,
+                "number": "336"
+            },
+            {
+                "distance": 26.324893162176366,
+                "number": "656"
             }
         ]
     },
     "505": {
         "number": "505",
         "description": "Aruba Sea",
-        "rgbCode": "B5B77A",
+        "rgbCode": "7AB7B5",
         "distances": [
             {
-                "distance": 7.3484692283495345,
-                "number": "321"
-            },
-            {
-                "distance": 17.804493814764857,
+                "distance": 16.15549442140351,
                 "number": "382"
             },
             {
-                "distance": 24.779023386727733,
-                "number": "512"
+                "distance": 21.02379604162864,
+                "number": "341"
             },
             {
-                "distance": 25.573423705088842,
-                "number": "668"
+                "distance": 23.430749027719962,
+                "number": "661"
             },
             {
-                "distance": 26.739483914241877,
-                "number": "381"
+                "distance": 23.958297101421877,
+                "number": "631"
+            },
+            {
+                "distance": 24.49489742783178,
+                "number": "3862"
             }
         ]
     },
     "512": {
         "number": "512",
         "description": "Turquoise",
-        "rgbCode": "DBAE5A",
+        "rgbCode": "5AAEDB",
         "distances": [
             {
-                "distance": 24.779023386727733,
-                "number": "505"
+                "distance": 17.72004514666935,
+                "number": "381"
             },
             {
-                "distance": 26.551836094703507,
-                "number": "3862"
-            },
-            {
-                "distance": 28.106938645110393,
-                "number": "321"
-            },
-            {
-                "distance": 31.54362059117501,
+                "distance": 18.05547008526779,
                 "number": "382"
             },
             {
-                "distance": 32.155870381627054,
+                "distance": 20.83266665599966,
                 "number": "347"
+            },
+            {
+                "distance": 23.53720459187964,
+                "number": "254"
+            },
+            {
+                "distance": 26.324893162176366,
+                "number": "505"
             }
         ]
     },
     "528": {
         "number": "528",
         "description": "Medium Purple",
-        "rgbCode": "92476A",
+        "rgbCode": "6A4792",
         "distances": [
             {
-                "distance": 16.55294535724685,
+                "distance": 13.490737563232042,
                 "number": "358"
             },
             {
-                "distance": 21.095023109728988,
+                "distance": 20.445048300260872,
+                "number": "885"
+            },
+            {
+                "distance": 21,
+                "number": "886"
+            },
+            {
+                "distance": 22.825424421026653,
                 "number": "530"
             },
             {
-                "distance": 24.351591323771842,
-                "number": "254"
-            },
-            {
-                "distance": 24.899799195977465,
-                "number": "356"
-            },
-            {
-                "distance": 28.106938645110393,
-                "number": "3950"
+                "distance": 23.57965224510319,
+                "number": "5851"
             }
         ]
     },
     "530": {
         "number": "530",
         "description": "Orchid",
-        "rgbCode": "C47EA9",
+        "rgbCode": "A97EC4",
         "distances": [
             {
-                "distance": 13.490737563232042,
-                "number": "254"
-            },
-            {
-                "distance": 21,
+                "distance": 20.615528128088304,
                 "number": "358"
             },
             {
-                "distance": 21.095023109728988,
-                "number": "528"
+                "distance": 21.79449471770337,
+                "number": "321"
             },
             {
-                "distance": 21.118712081942874,
+                "distance": 22.22611077089287,
                 "number": "579"
             },
             {
-                "distance": 26.267851073127396,
-                "number": "373"
+                "distance": 22.825424421026653,
+                "number": "254"
+            },
+            {
+                "distance": 22.825424421026653,
+                "number": "528"
             }
         ]
     },
     "579": {
         "number": "579",
         "description": "Pale Plum",
-        "rgbCode": "D6AABC",
+        "rgbCode": "BCAAD6",
         "distances": [
             {
-                "distance": 19.339079605813716,
-                "number": "341"
+                "distance": 7.280109889280518,
+                "number": "254"
             },
             {
-                "distance": 20.71231517720798,
-                "number": "345"
+                "distance": 15,
+                "number": "381"
             },
             {
-                "distance": 21.118712081942874,
-                "number": "530"
+                "distance": 19.4164878389476,
+                "number": "347"
             },
             {
-                "distance": 21.213203435596427,
+                "distance": 19.949937343260004,
                 "number": "373"
             },
             {
-                "distance": 21.470910553583888,
-                "number": "381"
+                "distance": 22.22611077089287,
+                "number": "530"
             }
         ]
     },
     "624": {
         "number": "624",
         "description": "Tea Leaf",
-        "rgbCode": "468F69",
+        "rgbCode": "698F46",
         "distances": [
             {
-                "distance": 16.522711641858304,
+                "distance": 23.706539182259394,
                 "number": "631"
             },
             {
-                "distance": 24.186773244895647,
+                "distance": 26.095976701399778,
                 "number": "661"
             },
             {
-                "distance": 30.54504869860253,
+                "distance": 26.77685567799177,
                 "number": "368"
             },
             {
-                "distance": 30.675723300355934,
-                "number": "321"
+                "distance": 32.7566787083184,
+                "number": "3620"
             },
             {
-                "distance": 33.36165463522455,
-                "number": "672"
+                "distance": 35.59494346111537,
+                "number": "336"
             }
         ]
     },
     "631": {
         "number": "631",
         "description": "Light Sage",
-        "rgbCode": "6C8A72",
+        "rgbCode": "728A6C",
         "distances": [
             {
-                "distance": 14.352700094407323,
+                "distance": 14.866068747318506,
                 "number": "661"
             },
             {
-                "distance": 16.522711641858304,
-                "number": "624"
-            },
-            {
-                "distance": 18.841443681416774,
+                "distance": 20.445048300260872,
                 "number": "400"
             },
             {
-                "distance": 22.847319317591726,
-                "number": "321"
+                "distance": 23.706539182259394,
+                "number": "624"
             },
             {
-                "distance": 25.709920264364882,
-                "number": "382"
+                "distance": 23.958297101421877,
+                "number": "505"
+            },
+            {
+                "distance": 27.2213151776324,
+                "number": "406"
             }
         ]
     },
     "656": {
         "number": "656",
         "description": "Real Teal",
-        "rgbCode": "594F12",
+        "rgbCode": "124F59",
         "distances": [
             {
-                "distance": 26.981475126464083,
-                "number": "380"
-            },
-            {
-                "distance": 27.03701166919155,
-                "number": "368"
-            },
-            {
-                "distance": 27.16615541441225,
+                "distance": 19.6468827043885,
                 "number": "3862"
             },
             {
-                "distance": 29.444863728670914,
-                "number": "389"
+                "distance": 20.615528128088304,
+                "number": "380"
             },
             {
-                "distance": 32.449961479175904,
-                "number": "5851"
+                "distance": 25.65151067676132,
+                "number": "400"
+            },
+            {
+                "distance": 26.019223662515376,
+                "number": "3950"
+            },
+            {
+                "distance": 26.019223662515376,
+                "number": "389"
             }
         ]
     },
     "661": {
         "number": "661",
         "description": "Frosty Green",
-        "rgbCode": "88AD9F",
+        "rgbCode": "9FAD88",
         "distances": [
             {
-                "distance": 14.352700094407323,
+                "distance": 14.866068747318506,
                 "number": "631"
             },
             {
-                "distance": 17.204650534085253,
+                "distance": 15.427248620541512,
                 "number": "668"
             },
             {
-                "distance": 17.435595774162696,
+                "distance": 16.583123951777,
                 "number": "334"
             },
             {
-                "distance": 20.83266665599966,
-                "number": "341"
+                "distance": 23.430749027719962,
+                "number": "505"
             },
             {
-                "distance": 22.869193252058544,
-                "number": "382"
+                "distance": 26.095976701399778,
+                "number": "624"
             }
         ]
     },
     "668": {
         "number": "668",
         "description": "Honey Dew",
-        "rgbCode": "B6DAC0",
+        "rgbCode": "C0DAB6",
         "distances": [
             {
-                "distance": 17.029386365926403,
-                "number": "322"
-            },
-            {
-                "distance": 17.204650534085253,
-                "number": "661"
-            },
-            {
-                "distance": 19.390719429665317,
+                "distance": 14.035668847618199,
                 "number": "334"
             },
             {
-                "distance": 19.8997487421324,
+                "distance": 15.427248620541512,
+                "number": "661"
+            },
+            {
+                "distance": 18.2208671582886,
+                "number": "322"
+            },
+            {
+                "distance": 19.748417658131498,
                 "number": "313"
             },
             {
-                "distance": 20.049937655763422,
-                "number": "341"
+                "distance": 24.372115213907882,
+                "number": "316"
             }
         ]
     },
     "672": {
         "number": "672",
         "description": "Spring Green",
-        "rgbCode": "44D793",
+        "rgbCode": "93D744",
         "distances": [
             {
-                "distance": 29.223278392404914,
-                "number": "3620"
-            },
-            {
-                "distance": 33.31666249791537,
+                "distance": 32.449961479175904,
                 "number": "324"
             },
             {
-                "distance": 33.36165463522455,
+                "distance": 36.932370625238775,
+                "number": "235"
+            },
+            {
+                "distance": 41.060930335295616,
+                "number": "3620"
+            },
+            {
+                "distance": 41.72529209005013,
                 "number": "624"
             },
             {
-                "distance": 40.17461885320133,
-                "number": "668"
-            },
-            {
-                "distance": 44.74371464239419,
-                "number": "661"
+                "distance": 44.654227123532216,
+                "number": "320"
             }
         ]
     },
     "718": {
         "number": "718",
         "description": "Shocking Pink",
-        "rgbCode": "801FBC",
+        "rgbCode": "BC1F80",
         "distances": [
             {
-                "distance": 20.493901531919196,
+                "distance": 20.199009876724155,
                 "number": "722"
             },
             {
-                "distance": 24.535688292770594,
-                "number": "390"
+                "distance": 28.460498941515414,
+                "number": "321"
             },
             {
-                "distance": 28.600699292150182,
-                "number": "319"
-            },
-            {
-                "distance": 41.20679555607303,
-                "number": "726"
-            },
-            {
-                "distance": 41.27953488110059,
+                "distance": 31.701734968294716,
                 "number": "774"
+            },
+            {
+                "distance": 41.255302689472536,
+                "number": "528"
+            },
+            {
+                "distance": 42.15447781671598,
+                "number": "530"
             }
         ]
     },
     "722": {
         "number": "722",
         "description": "Pretty n Pink",
-        "rgbCode": "B05CFA",
+        "rgbCode": "FA5CB0",
         "distances": [
             {
-                "distance": 20.493901531919196,
+                "distance": 20.199009876724155,
                 "number": "718"
             },
             {
-                "distance": 38.13135192987524,
-                "number": "390"
+                "distance": 22.045407685048602,
+                "number": "321"
             },
             {
-                "distance": 40.149719799769464,
+                "distance": 32.32645975048923,
                 "number": "774"
             },
             {
-                "distance": 41.641325627314025,
-                "number": "726"
+                "distance": 41.82104733265297,
+                "number": "530"
             },
             {
-                "distance": 44.40720662234904,
-                "number": "256"
+                "distance": 48.83646178829912,
+                "number": "373"
             }
         ]
     },
     "726": {
         "number": "726",
         "description": "Coral",
-        "rgbCode": "495CC0",
+        "rgbCode": "C05C49",
         "distances": [
             {
-                "distance": 5.0990195135927845,
+                "distance": 16.401219466856727,
                 "number": "256"
             },
             {
-                "distance": 18.384776310850235,
-                "number": "774"
-            },
-            {
-                "distance": 38.44476557348217,
+                "distance": 27.2213151776324,
                 "number": "319"
             },
             {
-                "distance": 40.024992192379,
-                "number": "376"
+                "distance": 29.597297173897484,
+                "number": "390"
             },
             {
-                "distance": 41.20679555607303,
-                "number": "718"
+                "distance": 33.25657829663178,
+                "number": "336"
+            },
+            {
+                "distance": 35.14256678161116,
+                "number": "774"
             }
         ]
     },
     "774": {
         "number": "774",
         "description": "Light Raspberry",
-        "rgbCode": "8965BA",
+        "rgbCode": "BA6589",
         "distances": [
             {
-                "distance": 18.384776310850235,
-                "number": "726"
-            },
-            {
-                "distance": 22.44994432064365,
-                "number": "256"
-            },
-            {
-                "distance": 30.099833886584822,
+                "distance": 26.720778431774775,
                 "number": "530"
             },
             {
-                "distance": 35.397740040855716,
-                "number": "528"
+                "distance": 27.440845468024488,
+                "number": "321"
             },
             {
-                "distance": 36.41428291206625,
-                "number": "254"
+                "distance": 31.701734968294716,
+                "number": "718"
+            },
+            {
+                "distance": 32.218007387174026,
+                "number": "373"
+            },
+            {
+                "distance": 32.32645975048923,
+                "number": "722"
             }
         ]
     },
     "776": {
         "number": "776",
         "description": "Dark Orchid",
-        "rgbCode": "3A0F2B",
+        "rgbCode": "2B0F3A",
         "distances": [
             {
-                "distance": 18.57417562100671,
-                "number": "378"
-            },
-            {
-                "distance": 20.09975124224178,
-                "number": "3950"
-            },
-            {
-                "distance": 23.345235059857504,
-                "number": "365"
-            },
-            {
-                "distance": 23.790754506740637,
+                "distance": 12.041594578792296,
                 "number": "387"
             },
             {
-                "distance": 26.92582403567252,
+                "distance": 18.24828759089466,
                 "number": "5851"
+            },
+            {
+                "distance": 21.047565179849187,
+                "number": "3950"
+            },
+            {
+                "distance": 24.228082879171435,
+                "number": "380"
+            },
+            {
+                "distance": 25.317977802344327,
+                "number": "378"
             }
         ]
     },
     "885": {
         "number": "885",
         "description": "Delft Blue",
-        "rgbCode": "B86344",
+        "rgbCode": "4463B8",
         "distances": [
             {
-                "distance": 15.297058540778355,
-                "number": "886"
-            },
-            {
-                "distance": 21.470910553583888,
-                "number": "347"
-            },
-            {
-                "distance": 27.440845468024488,
-                "number": "385"
-            },
-            {
-                "distance": 28.178005607210743,
+                "distance": 14.2828568570857,
                 "number": "358"
             },
             {
-                "distance": 32.202484376209235,
-                "number": "5851"
+                "distance": 19.87460691435179,
+                "number": "886"
+            },
+            {
+                "distance": 20.445048300260872,
+                "number": "528"
+            },
+            {
+                "distance": 23.706539182259394,
+                "number": "347"
+            },
+            {
+                "distance": 27.294688127912362,
+                "number": "530"
             }
         ]
     },
     "886": {
         "number": "886",
         "description": "Blue",
-        "rgbCode": "9A3A24",
+        "rgbCode": "243A9A",
         "distances": [
             {
-                "distance": 15,
+                "distance": 12.727922061357855,
                 "number": "385"
             },
             {
-                "distance": 15.297058540778355,
+                "distance": 19.467922333931785,
+                "number": "358"
+            },
+            {
+                "distance": 19.87460691435179,
                 "number": "885"
             },
             {
-                "distance": 20.639767440550294,
-                "number": "3251"
+                "distance": 21,
+                "number": "528"
             },
             {
-                "distance": 29.068883707497267,
-                "number": "5851"
-            },
-            {
-                "distance": 30.822070014844883,
+                "distance": 23.515952032609693,
                 "number": "356"
             }
         ]
@@ -1406,107 +1406,107 @@
     "3251": {
         "number": "3251",
         "description": "Flame",
-        "rgbCode": "900EC",
+        "rgbCode": "C0E90",
         "distances": [
             {
-                "distance": 20.639767440550294,
-                "number": "886"
+                "distance": 56.01785429664367,
+                "number": "321"
             },
             {
-                "distance": 26.095976701399778,
-                "number": "385"
+                "distance": 57.02630971753301,
+                "number": "718"
             },
             {
-                "distance": 33.46640106136302,
-                "number": "885"
-            },
-            {
-                "distance": 38.91015291668744,
+                "distance": 58.42944463196617,
                 "number": "356"
             },
             {
-                "distance": 45.05552130427524,
-                "number": "387"
+                "distance": 58.82176467941097,
+                "number": "722"
+            },
+            {
+                "distance": 61.886993787063204,
+                "number": "358"
             }
         ]
     },
     "3620": {
         "number": "3620",
         "description": "Glow Worm",
-        "rgbCode": "97D666",
+        "rgbCode": "66D697",
         "distances": [
             {
-                "distance": 29.223278392404914,
-                "number": "672"
+                "distance": 32.341923257592455,
+                "number": "668"
             },
             {
-                "distance": 34.14674215792775,
+                "distance": 32.7566787083184,
+                "number": "624"
+            },
+            {
+                "distance": 35.52463933666322,
+                "number": "661"
+            },
+            {
+                "distance": 38.3275357934736,
                 "number": "505"
             },
             {
-                "distance": 39.57271787481876,
-                "number": "321"
-            },
-            {
-                "distance": 42.2965719651132,
-                "number": "3862"
-            },
-            {
-                "distance": 43.57751713900185,
-                "number": "624"
+                "distance": 39.63584236521283,
+                "number": "631"
             }
         ]
     },
     "3862": {
         "number": "3862",
         "description": "Jade",
-        "rgbCode": "8A7E10",
+        "rgbCode": "107E8A",
         "distances": [
             {
-                "distance": 26.551836094703507,
-                "number": "512"
-            },
-            {
-                "distance": 27.16615541441225,
+                "distance": 19.6468827043885,
                 "number": "656"
             },
             {
-                "distance": 31.28897569432403,
+                "distance": 24.49489742783178,
                 "number": "505"
             },
             {
-                "distance": 32.264531609803356,
-                "number": "321"
+                "distance": 27.730849247724095,
+                "number": "382"
             },
             {
-                "distance": 34.307433596816885,
-                "number": "368"
+                "distance": 27.730849247724095,
+                "number": "512"
+            },
+            {
+                "distance": 28.844410203711913,
+                "number": "400"
             }
         ]
     },
     "3950": {
         "number": "3950",
         "description": "Charcoal",
-        "rgbCode": "51363E",
+        "rgbCode": "3E3651",
         "distances": [
             {
-                "distance": 13.92838827718412,
+                "distance": 9.16515138991168,
                 "number": "380"
             },
             {
-                "distance": 16.15549442140351,
+                "distance": 15.427248620541512,
                 "number": "5851"
             },
             {
-                "distance": 20.09975124224178,
+                "distance": 21.047565179849187,
                 "number": "776"
             },
             {
-                "distance": 20.248456731316587,
+                "distance": 21.95449840010015,
                 "number": "387"
             },
             {
-                "distance": 22.561028345356956,
+                "distance": 25.337718918639855,
                 "number": "365"
             }
         ]
@@ -1514,27 +1514,27 @@
     "5851": {
         "number": "5851",
         "description": "Denim",
-        "rgbCode": "64332C",
+        "rgbCode": "2C3364",
         "distances": [
             {
-                "distance": 9.539392014169456,
+                "distance": 10.954451150103322,
                 "number": "387"
             },
             {
-                "distance": 12.68857754044952,
-                "number": "380"
-            },
-            {
-                "distance": 16.15549442140351,
+                "distance": 15.427248620541512,
                 "number": "3950"
             },
             {
-                "distance": 21.118712081942874,
-                "number": "385"
+                "distance": 17.146428199482248,
+                "number": "380"
             },
             {
-                "distance": 26.019223662515376,
-                "number": "356"
+                "distance": 18.24828759089466,
+                "number": "776"
+            },
+            {
+                "distance": 23.57965224510319,
+                "number": "528"
             }
         ]
     }

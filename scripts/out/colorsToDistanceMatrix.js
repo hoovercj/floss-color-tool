@@ -13,6 +13,7 @@ function colorsToDistanceMatrix(colors) {
             const [iColorLabL, iColorLabA, iColorLabB] = convert.hex.lab(iColor.rgbCode);
             const [jColorLabL, jColorLabA, jColorLabB] = convert.hex.lab(jColor.rgbCode);
             const distance = DeltaE.getDeltaE76({ L: iColorLabL, A: iColorLabA, B: iColorLabB }, { L: jColorLabL, A: jColorLabA, B: jColorLabB });
+            // TODO: Don't include the distance, just give an ordered list of numbers
             iColor.distances.push({ distance: distance, number: jColor.number });
             jColor.distances.push({ distance: distance, number: iColor.number });
         }
