@@ -4,29 +4,35 @@ import { ColorTable } from './ColorTable/color-table';
 import './color-tool.css'
 
 interface ColorTableProps {
-    colors: ColorDistanceMatrix;
+    brand: string,
+    colors: ColorDistanceMatrix,
 }
 
 const DEFAULT_ARRAY: string[] = [];
 export const ColorTool = (props: ColorTableProps) => {
-    const { colors } = props;
-    const [filter, setFilter] = React.useState('');
-    const [filteredColors, setFilteredColors] = React.useState(Object.keys(colors));
-    const timer = React.useRef(0);
+    const { brand, colors } = props;
 
-    const applyFilter = React.useCallback(() => {
-        const trimmedFilter = filter?.trim().toLowerCase();
+    const [filterText, setFilterText] = React.useState('');
+    const [appliedFilter, setAppliedFilter] = React.useState(filterText);
 
-        const filteredColors = trimmedFilter
+    const filteredColors = React.useMemo(() => {
+        const filteredColors = appliedFilter
             ? Object.keys(colors).filter(colorId => {
                 const color: Color = colors[colorId];
-                return color.description.toLowerCase().includes(trimmedFilter) ||
-                    color.number.includes(trimmedFilter);
+                return color.description.toLowerCase().includes(appliedFilter) ||
+                    color.number.includes(appliedFilter);
             })
             : Object.keys(colors);
 
-        setFilteredColors(filteredColors);
-    }, [colors, filter]);
+        return filteredColors;
+    }, [appliedFilter, colors]);
+
+    const timer = React.useRef(0);
+
+    const applyFilter = React.useCallback(() => {
+        const trimmedFilter = filterText?.trim().toLowerCase();
+        setAppliedFilter(trimmedFilter);
+    }, [filterText]);
 
     React.useEffect(() => {
         if (timer.current) {
@@ -34,7 +40,7 @@ export const ColorTool = (props: ColorTableProps) => {
         }
 
         timer.current = window.setTimeout(applyFilter, 250);
-    }, [filter, applyFilter])
+    }, [filterText, applyFilter])
 
     React.useEffect(() => {
         return () => {
@@ -42,24 +48,17 @@ export const ColorTool = (props: ColorTableProps) => {
         }
     }, [])
 
-
     const onInputChanged = React.useCallback((event: {target: { value: string}}) => {
-        setFilter(event.target.value);
+        setFilterText(event.target.value);
     }, []);
 
-    return (
-        <div className="container">
-            <div className="row">
-                <div className="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
-                    <h1 className="text-center">DMC Color Substitute Chart</h1>
-                    <div className="row">
-                        <div className="col-xs-12 col-sm-6">
-                            <input className="form-control filter" type="text" onChange={onInputChanged} placeholder="Search for DMC # or name" value={filter} />
-                        </div>
-                    </div>
-                    <ColorTable colors={colors} filteredColors={filteredColors || DEFAULT_ARRAY} />
-                </div>
+    return (<>
+        <h1 className="text-center">{brand} Color Substitute Chart</h1>
+        <div className="row">
+            <div className="col-xs-12 col-sm-6">
+                <input className="form-control filter" type="text" onChange={onInputChanged} placeholder={`Search for ${brand} # or color name`} value={filterText} />
             </div>
         </div>
-    );
+        <ColorTable brand={brand} colors={colors} filteredColors={filteredColors || DEFAULT_ARRAY} />
+    </>);
 }

@@ -3,6 +3,7 @@ import { Color, ColorDistanceMatrix } from '../../Models/color';
 import { CloseColorRow } from './close-color-row';
 
 interface ColorRowProps {
+    brand: string;
     color: Color;
     colors: ColorDistanceMatrix;
 }
@@ -11,7 +12,7 @@ const DEFAULT_EXPANDED_CLASS = '';
 const ACTIVE_CLASS = 'active';
 
 export const ColorRow = (props: ColorRowProps) =>{
-    const { color, colors } = props;
+    const { brand, color, colors } = props;
     const [expanded, setExpanded] = React.useState(false);
 
     const onRowClick = React.useCallback(() => {
@@ -37,7 +38,7 @@ export const ColorRow = (props: ColorRowProps) =>{
             <tr className={expanded ? '' : 'hidden'}>
                 <td colSpan={8}>
                 <div className="row inner bold">
-                    <div className="col-xs-2 text-center">DMC #</div>
+                    <div className="col-xs-2 text-center">{brand} #</div>
                     <div className="col-xs-4">Name</div>
                     <div className="col-xs-3 text-center">Alternative</div>
                     <div className="col-xs-3 text-center">Original</div>
