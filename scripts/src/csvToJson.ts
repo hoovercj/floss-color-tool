@@ -1,22 +1,43 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-export default function colorsCsvToJson() {
+type ColorFormat = 'hex' | 'decimal';
+
+export default function colorsCsvToJson(filename: string, format: ColorFormat = 'decimal') {
     const resourcesPath = path.resolve(__dirname, '../resources');
-    const csvPath = path.join(resourcesPath, 'colors.csv');
+    const csvPath = path.join(resourcesPath, filename);
     const csvFile = fs.readFileSync(csvPath);
 
     const csvLines = csvFile.toString().split('\n');
-    const csvHeaders = csvLines.shift().split(',');
+    const csvHeaders = csvLines.shift()!.split(',');
+
+    if (csvHeaders.length !== 3) {
+        throw Error("There should be 3 headers");
+    }
 
     const csvLineToJson = (headerValues: string[], line: string) => {
-            const dataValues = line.split(',');
-            const json: any = {};
-            headerValues.forEach((headerValue, index) => {
-                    json[headerValue.trim().replace(' ', '')] = dataValues[index].trim();
-            });
+        const dataValues = line.split(',');
 
-            return json;
+        if (dataValues.length !== 3) {
+            throw Error("There should be 3 values per line");
+        }
+
+        const json: any = {};
+        headerValues.forEach((headerValue, index) => {
+            let value = dataValues[index].trim();
+
+            if (index === 2) {
+                if (format === 'decimal') {
+                    value = parseInt(value, 10).toString(16);
+                }
+
+                value = value.toUpperCase();
+            }
+
+            json[headerValue.trim().replace(' ', '')] = value;
+        });
+
+        return json;
     }
 
     const json = csvLines.map(line => csvLineToJson(csvHeaders, line));

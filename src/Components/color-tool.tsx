@@ -1,79 +1,65 @@
 import * as React from 'react';
 import { Color, ColorDistanceMatrix } from '../Models/color';
-import ColorTable from './ColorTable/color-table';
+import { ColorTable } from './ColorTable/color-table';
 import './color-tool.css'
 
 interface ColorTableProps {
     colors: ColorDistanceMatrix;
 }
 
-interface ColorToolState {
-    filter?: string;
-    filteredColors?: string[];
-}
-
 const DEFAULT_ARRAY: string[] = [];
-export default class ColorTool extends React.Component<ColorTableProps, ColorToolState> {
+export const ColorTool = (props: ColorTableProps) => {
+    const { colors } = props;
+    const [filter, setFilter] = React.useState('');
+    const [filteredColors, setFilteredColors] = React.useState(Object.keys(colors));
+    const timer = React.useRef(0);
 
-    constructor(props: ColorTableProps) {
-        super(props);
-        this.state = {
-            filter: '',
-            filteredColors: Object.keys(props.colors)
-        };
-    }
+    const applyFilter = React.useCallback(() => {
+        const trimmedFilter = filter?.trim().toLowerCase();
 
-    onInputChanged = (event: {target: { value: string}}) => {
-        this.setState({filter: event.target.value});
-        this.debouncedApplyFilter();
-    }
+        const filteredColors = trimmedFilter
+            ? Object.keys(colors).filter(colorId => {
+                const color: Color = colors[colorId];
+                return color.description.toLowerCase().includes(trimmedFilter) ||
+                    color.number.includes(trimmedFilter);
+            })
+            : Object.keys(colors);
 
-    debounce(func: any, wait: number, immediate: boolean = false): () => void {
-        var timeout: any;
-        return function(this: Function) {
-            var context = this, args = arguments;
-            var later = function() {
-                timeout = null;
-                if (!immediate) func.apply(context, args);
-            };
-            var callNow = immediate && !timeout;
-            clearTimeout(timeout);
-            timeout = setTimeout(later, wait);
-            if (callNow) func.apply(context, args);
-        };
-    };
+        setFilteredColors(filteredColors);
+    }, [colors, filter]);
 
-    applyFilter = () => {
-        if (!this.state.filter) {
-            this.setState({filteredColors: Object.keys(this.props.colors)});
+    React.useEffect(() => {
+        if (timer.current) {
+            window.clearTimeout(timer.current);
         }
 
-        const filter = this.state.filter ? this.state.filter.trim().toLowerCase() : '';
+        timer.current = window.setTimeout(applyFilter, 250);
+    }, [filter, applyFilter])
 
-        this.setState({filteredColors: Object.keys(this.props.colors).filter(colorId => {
-            const color: Color = this.props.colors[colorId];
-            return color.description.toLowerCase().includes(filter) ||
-                   color.number.includes(filter);
-        }) || DEFAULT_ARRAY});
-    }
-    debouncedApplyFilter: () => void = this.debounce(this.applyFilter, 250);
+    React.useEffect(() => {
+        return () => {
+            window.clearTimeout(timer.current);
+        }
+    }, [])
 
-    render() {
-        return (
-            <div className="container">
-                <div className="row">
-                    <div className="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
-                        <h1 className="text-center">DMC Color Substitute Chart</h1>
-                        <div className="row">
-                            <div className="col-xs-12 col-sm-6">
-                                <input className="form-control filter" type="text" onChange={this.onInputChanged} placeholder="Search for DMC # or name" value={this.state.filter} />
-                            </div>
+
+    const onInputChanged = React.useCallback((event: {target: { value: string}}) => {
+        setFilter(event.target.value);
+    }, []);
+
+    return (
+        <div className="container">
+            <div className="row">
+                <div className="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+                    <h1 className="text-center">DMC Color Substitute Chart</h1>
+                    <div className="row">
+                        <div className="col-xs-12 col-sm-6">
+                            <input className="form-control filter" type="text" onChange={onInputChanged} placeholder="Search for DMC # or name" value={filter} />
                         </div>
-                        {/*<ColorTable colors={this.props.colors}/>*/}
-                        <ColorTable colors={this.props.colors} filteredColors={this.state.filteredColors || DEFAULT_ARRAY} filter={this.state.filter}/>
                     </div>
+                    <ColorTable colors={colors} filteredColors={filteredColors || DEFAULT_ARRAY} />
                 </div>
             </div>
-        );
-    }
+        </div>
+    );
 }

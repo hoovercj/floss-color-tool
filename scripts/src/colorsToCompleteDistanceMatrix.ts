@@ -19,8 +19,11 @@ interface ColorDistance {
 export default function colorsToCompleteDistanceMatrix(colors: Color[]): {[key: string]: Color} {
     const colorsWithDistance: Color[] = [];
     for (let i = 0; i < colors.length; i++) {
-        const iColor = Object.assign({}, colors[i]);
+        const iColor: any = Object.assign({}, colors[i]);
         iColor.distances = [];
+        iColor.distances76 = [];
+        iColor.distances94 = [];
+        iColor.distances00 = [];
         colorsWithDistance.push(iColor);
         for (let j = 0; j < i; j++) {
             const jColor = colorsWithDistance[j];
@@ -38,7 +41,7 @@ export default function colorsToCompleteDistanceMatrix(colors: Color[]): {[key: 
         }
     }
 
-    const colorsObject = {};
+    const colorsObject: Record<string, any> = {};
 
     colorsWithDistance.forEach(color => {
         color.distances76 = color.distances76.sort((a, b) => a.distance - b.distance).slice(0, 5);
