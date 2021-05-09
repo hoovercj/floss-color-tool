@@ -1,26 +1,23 @@
-.app-body {
-  /* Adjust content down to accommodate the fixed header */
-  padding-top: 50px;
+.nav-link.active {
+  text-decoration: underline;
+}
+
+.nav-link {
+  color: rgb(0,0,0) !important;
+}
+
+.nav-item:hover {
+  background-color: #f8f9fa;
+  filter: brightness(85%);
+  border-radius: 5px;
 }
 
 .app-body {
   /* Adjust content down to accommodate the fixed header */
-  padding-top: 145px;
+  padding-top: 60px;
 }
 
 html {
   /* Ensure links scroll into view below header */
-  scroll-padding-top: 160px;
-}
-
-@media (min-width: 768px) {
-  .app-body {
-    /* Adjust content down to accommodate the fixed header */
-    padding-top: 50px;
-  }
-
-  html {
-    /* Ensure links scroll into view below header */
-    scroll-padding-top: 90px;
-  }
+  scroll-padding-top: 90px;
 }

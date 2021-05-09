@@ -53,10 +53,10 @@ export const ColorTool = (props: ColorTableProps) => {
     }, []);
 
     return (<>
-        <h1 className="text-center">{brand} Color Substitute Chart</h1>
-        <div className="row">
-            <div className="col-xs-12 col-sm-6">
-                <input className="form-control filter" type="text" onChange={onInputChanged} placeholder={`Search for ${brand} # or color name`} value={filterText} />
+        <h1 className='text-center'>{brand} Color Substitute Chart</h1>
+        <div className='row'>
+            <div className='col-xs-12 col-sm-6'>
+                <input className='form-control filter' type='text' onChange={onInputChanged} placeholder={`Search for ${brand} # or color name`} value={filterText} />
             </div>
         </div>
         <ColorTable brand={brand} colors={colors} filteredColors={filteredColors || DEFAULT_ARRAY} />
