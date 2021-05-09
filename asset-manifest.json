@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/floss-color-tool/static/css/main.a7b5b9f0.chunk.css",
-    "main.js": "/floss-color-tool/static/js/main.4ed20989.chunk.js",
-    "main.js.map": "/floss-color-tool/static/js/main.4ed20989.chunk.js.map",
+    "main.css": "/floss-color-tool/static/css/main.58b82c1e.chunk.css",
+    "main.js": "/floss-color-tool/static/js/main.ac3769b8.chunk.js",
+    "main.js.map": "/floss-color-tool/static/js/main.ac3769b8.chunk.js.map",
     "runtime-main.js": "/floss-color-tool/static/js/runtime-main.78ab37cb.js",
     "runtime-main.js.map": "/floss-color-tool/static/js/runtime-main.78ab37cb.js.map",
     "static/css/2.04196b2f.chunk.css": "/floss-color-tool/static/css/2.04196b2f.chunk.css",
-    "static/js/2.b7b346bf.chunk.js": "/floss-color-tool/static/js/2.b7b346bf.chunk.js",
-    "static/js/2.b7b346bf.chunk.js.map": "/floss-color-tool/static/js/2.b7b346bf.chunk.js.map",
+    "static/js/2.18db18ba.chunk.js": "/floss-color-tool/static/js/2.18db18ba.chunk.js",
+    "static/js/2.18db18ba.chunk.js.map": "/floss-color-tool/static/js/2.18db18ba.chunk.js.map",
     "index.html": "/floss-color-tool/index.html",
-    "precache-manifest.4a1f07364ce3d9e97a43fcf610751f3a.js": "/floss-color-tool/precache-manifest.4a1f07364ce3d9e97a43fcf610751f3a.js",
+    "precache-manifest.1bcaec44968236451751ad923e9d4ef9.js": "/floss-color-tool/precache-manifest.1bcaec44968236451751ad923e9d4ef9.js",
     "service-worker.js": "/floss-color-tool/service-worker.js",
     "static/css/2.04196b2f.chunk.css.map": "/floss-color-tool/static/css/2.04196b2f.chunk.css.map",
-    "static/css/main.a7b5b9f0.chunk.css.map": "/floss-color-tool/static/css/main.a7b5b9f0.chunk.css.map",
-    "static/js/2.b7b346bf.chunk.js.LICENSE.txt": "/floss-color-tool/static/js/2.b7b346bf.chunk.js.LICENSE.txt"
+    "static/css/main.58b82c1e.chunk.css.map": "/floss-color-tool/static/css/main.58b82c1e.chunk.css.map",
+    "static/js/2.18db18ba.chunk.js.LICENSE.txt": "/floss-color-tool/static/js/2.18db18ba.chunk.js.LICENSE.txt",
+    "static/media/chevron-right.svg": "/floss-color-tool/static/media/chevron-right.cb01ceea.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.78ab37cb.js",
     "static/css/2.04196b2f.chunk.css",
-    "static/js/2.b7b346bf.chunk.js",
-    "static/css/main.a7b5b9f0.chunk.css",
-    "static/js/main.4ed20989.chunk.js"
+    "static/js/2.18db18ba.chunk.js",
+    "static/css/main.58b82c1e.chunk.css",
+    "static/js/main.ac3769b8.chunk.js"
   ]
 }
