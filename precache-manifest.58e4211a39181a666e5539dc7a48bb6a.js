@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "541c0a6fe78cb8e43c3516f9d9fd1150",
+    "revision": "6feb22e2f9f2733fb1c9bacabf14a2b8",
     "url": "/floss-color-tool/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/floss-color-tool/static/css/2.04196b2f.chunk.css"
   },
   {
-    "revision": "788b3ca1bf065c8994c2",
+    "revision": "03560a4373f7528a0537",
     "url": "/floss-color-tool/static/css/main.58b82c1e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/floss-color-tool/static/js/2.18db18ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "788b3ca1bf065c8994c2",
-    "url": "/floss-color-tool/static/js/main.ac3769b8.chunk.js"
+    "revision": "03560a4373f7528a0537",
+    "url": "/floss-color-tool/static/js/main.8f9564c4.chunk.js"
   },
   {
     "revision": "d61b1f07148cf5b6af31",
