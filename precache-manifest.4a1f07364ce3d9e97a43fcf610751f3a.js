@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32b9a96df2624499c948f2b86504b3c1",
+    "revision": "b0542e62dcdd8d3d3fa6869548d7c953",
     "url": "/floss-color-tool/index.html"
   },
   {
