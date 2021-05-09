@@ -15,12 +15,8 @@ export const ColorTable = React.memo((props: ColorTableProps) => {
         <table className='table color-table table-borderless'>
             <thead>
                 <tr>
-                    <th></th>
-                    <th className='text-center'>{brand} #</th>
-                    <th className='text-center'>Color</th>
-                    <th>Name</th>
-                    <th>Substitute</th>
-                    <th className='text-center' colSpan={5}>Closest Colors</th>
+                    <th colSpan={4} className='text-center'>{brand} Color</th>
+                    <th className='text-center' colSpan={6}>Substitutes</th>
                 </tr>
             </thead>
             {filteredColors.map((id: string) => {

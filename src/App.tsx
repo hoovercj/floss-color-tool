@@ -3,7 +3,7 @@ import {
     BrowserRouter as Router,
     Route,
     Link,
-    useParams
+    useParams,
 } from 'react-router-dom';
 import './App.css';
 import { ColorTool } from './Components/color-tool';
@@ -25,6 +25,7 @@ const App = () => {
     // TODO: Calculate anchor substitutions for colors that don't have one
     // TODO: Fix Favicons
     // TODO: Add "favorites" section?
+    // TODO: Clear the filter when the location changes
 
     return (<Router basename='/floss-color-tool' >
         <Route path='/:brand?'>

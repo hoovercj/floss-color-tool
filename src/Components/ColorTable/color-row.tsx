@@ -40,7 +40,7 @@ export const ColorRow = (props: ColorRowProps) =>{
                     </button>
                 </td>
                 <td className='text-center'>{color.number}</td>
-                <td style={{backgroundColor: '#' + color.rgbCode}}/>
+                <td style={{backgroundColor: '#' + color.rgbCode, minWidth: "30px"}}/>
                 <td>{color.description}</td>
                 <td>{color.substitute ? Object.keys(color.substitute).map(brand => (
                     <HashLink key={brand + color.substitute![brand]} smooth to={`/${brand.toLowerCase()}#${color.substitute![brand]}`}>
