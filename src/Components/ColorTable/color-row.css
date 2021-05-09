@@ -2,6 +2,10 @@
     background-color: rgba(0,0,0,0.05);
 }
 
+.color-row td {
+    padding: 4px !important;
+}
+
 .icon-button {
     background: none;
     color: inherit;
