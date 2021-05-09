@@ -51,6 +51,7 @@ export const ColorRow = (props: ColorRowProps) =>{
                 {color.distances.slice(0, 5).map(closeColor =>
                     <td
                         key={closeColor.number}
+                        className="close-color-block"
                         title={`${closeColor.number} - ${colors[closeColor.number].description}`}
                         style={{backgroundColor: '#' + colors[closeColor.number].rgbCode}}
                     />

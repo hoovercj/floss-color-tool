@@ -30,3 +30,13 @@
 .icon-button.expanded img {
     transform: rotate(90deg);
 }
+
+.close-color-block {
+    min-width: 15px;
+}
+
+@media (min-width: 500px) {
+    .close-color-block {
+        min-width: 30px;
+    }
+}
