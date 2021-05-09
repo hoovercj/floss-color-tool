@@ -1,10 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = require("fs");
-const path = require("path");
-function colorsCsvToJson(filename, format = 'decimal') {
-    const resourcesPath = path.resolve(__dirname, '../resources');
-    const csvPath = path.join(resourcesPath, filename);
+function colorsCsvToJson(csvPath, format = 'decimal') {
     const csvFile = fs.readFileSync(csvPath);
     const csvLines = csvFile.toString().split('\n');
     const csvHeaders = csvLines.shift().split(',');

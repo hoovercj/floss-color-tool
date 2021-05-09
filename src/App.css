@@ -2,3 +2,25 @@
   /* Adjust content down to accommodate the fixed header */
   padding-top: 50px;
 }
+
+.app-body {
+  /* Adjust content down to accommodate the fixed header */
+  padding-top: 145px;
+}
+
+html {
+  /* Ensure links scroll into view below header */
+  scroll-padding-top: 160px;
+}
+
+@media (min-width: 768px) {
+  .app-body {
+    /* Adjust content down to accommodate the fixed header */
+    padding-top: 50px;
+  }
+
+  html {
+    /* Ensure links scroll into view below header */
+    scroll-padding-top: 90px;
+  }
+}

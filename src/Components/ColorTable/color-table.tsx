@@ -18,6 +18,7 @@ export const ColorTable = React.memo((props: ColorTableProps) => {
                     <th className="text-center">{brand} #</th>
                     <th className="text-center">Color</th>
                     <th>Name</th>
+                    <th>Substitute</th>
                     <th className="text-center" colSpan={5}>Closest Colors</th>
                 </tr>
             </thead>

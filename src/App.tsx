@@ -1,17 +1,9 @@
 import * as React from 'react';
 import './App.css';
 import { ColorTool } from './Components/color-tool';
-import { ColorDistanceMatrix } from './Models/color';
+import { AllColors } from './Models/color';
 
-const anchorColors = require('./Resources/anchorColorsDistanceMatrix.json');
-const dmcColors = require('./Resources/dmcColorsDistanceMatrix.json');
-const redheartColors = require('./Resources/redheartColorsDistanceMatrix.json');
-
-const allColors: Record<string, ColorDistanceMatrix> = {
-    "DMC": dmcColors,
-    "Anchor": anchorColors,
-    "Red Heart": redheartColors,
-};
+const allColors: AllColors = require('./Resources/colors.json');
 
 const brands = Object.keys(allColors);
 
