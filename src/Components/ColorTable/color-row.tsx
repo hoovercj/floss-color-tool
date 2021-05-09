@@ -1,8 +1,9 @@
 import * as React from 'react';
 import { Color, ColorDistanceMatrix } from '../../Models/color';
+import chevronRight from '../../Resources/chevron-right.svg'
 import { CloseColorRow } from './close-color-row';
-
 import { HashLink } from 'react-router-hash-link';
+import './color-row.css';
 
 interface ColorRowProps {
     brand: string;
@@ -22,12 +23,23 @@ export const ColorRow = (props: ColorRowProps) =>{
         setExpanded(!expanded);
     }, [expanded]);
 
-
     const className = expanded ? ACTIVE_CLASS : DEFAULT_EXPANDED_CLASS;
     return (
         <tbody className={`${className}`}>
-            <tr className='clickable' onClick={onRowClick}>
-                <td className='text-center' id={color.number}>{color.number}</td>
+            <tr className='color-row' onClick={onRowClick}>
+                <td>
+                    <button
+                        id={color.number}
+                        className={`icon-button ${expanded ? 'expanded' : ''}`}
+                        aria-expanded={expanded}
+                        aria-label={"Show/Hide details"}
+                        title={expanded ? "Show details" : "Hide details"}
+                        onClick={onRowClick}
+                    >
+                        <img alt="" role="presentation" src={chevronRight} />
+                    </button>
+                </td>
+                <td className='text-center'>{color.number}</td>
                 <td style={{backgroundColor: '#' + color.rgbCode}}/>
                 <td>{color.description}</td>
                 <td>{color.substitute ? Object.keys(color.substitute).map(brand => (
@@ -45,7 +57,7 @@ export const ColorRow = (props: ColorRowProps) =>{
                 )}
             </tr>
             <tr className={expanded ? '' : 'hidden'}>
-                <td colSpan={9}>
+                <td colSpan={10}>
                 <div className='row inner bold'>
                     <div className='col-2 text-center'>{brand} #</div>
                     <div className='col-4'>Name</div>

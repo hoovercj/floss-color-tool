@@ -15,6 +15,7 @@
 .app-body {
   /* Adjust content down to accommodate the fixed header */
   padding-top: 60px;
+  margin: 5px;
 }
 
 html {

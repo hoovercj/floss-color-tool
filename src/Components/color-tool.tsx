@@ -6,13 +6,13 @@ import './color-tool.css'
 interface ColorTableProps {
     brand: string,
     colors: ColorDistanceMatrix,
+    filterText: string;
 }
 
 const DEFAULT_ARRAY: string[] = [];
 export const ColorTool = (props: ColorTableProps) => {
-    const { brand, colors } = props;
+    const { brand, colors, filterText } = props;
 
-    const [filterText, setFilterText] = React.useState('');
     const [appliedFilter, setAppliedFilter] = React.useState(filterText);
 
     const filteredColors = React.useMemo(() => {
@@ -48,17 +48,7 @@ export const ColorTool = (props: ColorTableProps) => {
         }
     }, [])
 
-    const onInputChanged = React.useCallback((event: {target: { value: string}}) => {
-        setFilterText(event.target.value);
-    }, []);
-
     return (<>
-        <h1 className='text-center'>{brand} Color Substitute Chart</h1>
-        <div className='row'>
-            <div className='col-xs-12 col-sm-6'>
-                <input className='form-control filter' type='text' onChange={onInputChanged} placeholder={`Search for ${brand} # or color name`} value={filterText} />
-            </div>
-        </div>
         <ColorTable brand={brand} colors={colors} filteredColors={filteredColors || DEFAULT_ARRAY} />
     </>);
 }

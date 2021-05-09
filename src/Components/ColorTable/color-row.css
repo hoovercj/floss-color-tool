@@ -1,0 +1,28 @@
+.color-row:hover, .color-row:focus-within {
+    background-color: rgba(0,0,0,0.05);
+}
+
+.icon-button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.icon-button:focus {
+    outline: 1px solid black;
+}
+
+.icon-button img {
+    /* Manually align icon with the color number */
+    padding-bottom: 4px;
+    transition: .25s;
+    transition-property: transform;
+}
+
+.icon-button.expanded img {
+    transform: rotate(90deg);
+}

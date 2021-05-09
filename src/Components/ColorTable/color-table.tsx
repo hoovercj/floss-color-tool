@@ -12,9 +12,10 @@ interface ColorTableProps {
 export const ColorTable = React.memo((props: ColorTableProps) => {
     const { brand, colors, filteredColors } = props;
     return (
-        <table className='table table-hover color-table table-borderless'>
+        <table className='table color-table table-borderless'>
             <thead>
                 <tr>
+                    <th></th>
                     <th className='text-center'>{brand} #</th>
                     <th className='text-center'>Color</th>
                     <th>Name</th>
