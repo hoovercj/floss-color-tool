@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/floss-color-tool/precache-manifest.58e4211a39181a666e5539dc7a48bb6a.js"
+  "/floss-color-tool/precache-manifest.f5c6eed0479f5298532212ecd47044a6.js"
 );
 
 self.addEventListener('message', (event) => {

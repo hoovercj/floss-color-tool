@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/floss-color-tool/static/css/main.58b82c1e.chunk.css",
+    "main.css": "/floss-color-tool/static/css/main.bf591cfe.chunk.css",
     "main.js": "/floss-color-tool/static/js/main.8f9564c4.chunk.js",
     "main.js.map": "/floss-color-tool/static/js/main.8f9564c4.chunk.js.map",
     "runtime-main.js": "/floss-color-tool/static/js/runtime-main.78ab37cb.js",
@@ -9,10 +9,10 @@
     "static/js/2.18db18ba.chunk.js": "/floss-color-tool/static/js/2.18db18ba.chunk.js",
     "static/js/2.18db18ba.chunk.js.map": "/floss-color-tool/static/js/2.18db18ba.chunk.js.map",
     "index.html": "/floss-color-tool/index.html",
-    "precache-manifest.58e4211a39181a666e5539dc7a48bb6a.js": "/floss-color-tool/precache-manifest.58e4211a39181a666e5539dc7a48bb6a.js",
+    "precache-manifest.f5c6eed0479f5298532212ecd47044a6.js": "/floss-color-tool/precache-manifest.f5c6eed0479f5298532212ecd47044a6.js",
     "service-worker.js": "/floss-color-tool/service-worker.js",
     "static/css/2.04196b2f.chunk.css.map": "/floss-color-tool/static/css/2.04196b2f.chunk.css.map",
-    "static/css/main.58b82c1e.chunk.css.map": "/floss-color-tool/static/css/main.58b82c1e.chunk.css.map",
+    "static/css/main.bf591cfe.chunk.css.map": "/floss-color-tool/static/css/main.bf591cfe.chunk.css.map",
     "static/js/2.18db18ba.chunk.js.LICENSE.txt": "/floss-color-tool/static/js/2.18db18ba.chunk.js.LICENSE.txt",
     "static/media/chevron-right.svg": "/floss-color-tool/static/media/chevron-right.cb01ceea.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.78ab37cb.js",
     "static/css/2.04196b2f.chunk.css",
     "static/js/2.18db18ba.chunk.js",
-    "static/css/main.58b82c1e.chunk.css",
+    "static/css/main.bf591cfe.chunk.css",
     "static/js/main.8f9564c4.chunk.js"
   ]
 }
