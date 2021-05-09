@@ -1,26 +1,17 @@
+import { Color } from './types';
+
 declare var require: any;
 var convert = require('color-convert');
 var DeltaE = require('delta-e');
 
-interface Color {
-    number: string;
-    description: string;
-    rgbCode: string;
-    distances76: ColorDistance[];
-    distances94: ColorDistance[];
-    distances00: ColorDistance[];
-}
-
-interface ColorDistance {
-    number: string;
-    distance: number;
-}
-
 export default function colorsToCompleteDistanceMatrix(colors: Color[]): {[key: string]: Color} {
     const colorsWithDistance: Color[] = [];
     for (let i = 0; i < colors.length; i++) {
-        const iColor = Object.assign({}, colors[i]);
+        const iColor: any = Object.assign({}, colors[i]);
         iColor.distances = [];
+        iColor.distances76 = [];
+        iColor.distances94 = [];
+        iColor.distances00 = [];
         colorsWithDistance.push(iColor);
         for (let j = 0; j < i; j++) {
             const jColor = colorsWithDistance[j];
@@ -32,18 +23,18 @@ export default function colorsToCompleteDistanceMatrix(colors: Color[]): {[key: 
             iColor.distances76.push({distance: distance76, number: jColor.number});
             iColor.distances94.push({distance: distance94, number: jColor.number});
             iColor.distances00.push({distance: distance00, number: jColor.number});
-            jColor.distances76.push({distance: distance76, number: iColor.number});
-            jColor.distances94.push({distance: distance94, number: iColor.number});
-            jColor.distances00.push({distance: distance00, number: iColor.number});
+            jColor.distances76!.push({distance: distance76, number: iColor.number});
+            jColor.distances94!.push({distance: distance94, number: iColor.number});
+            jColor.distances00!.push({distance: distance00, number: iColor.number});
         }
     }
 
-    const colorsObject = {};
+    const colorsObject: Record<string, any> = {};
 
     colorsWithDistance.forEach(color => {
-        color.distances76 = color.distances76.sort((a, b) => a.distance - b.distance).slice(0, 5);
-        color.distances94 = color.distances94.sort((a, b) => a.distance - b.distance).slice(0, 5);
-        color.distances00 = color.distances00.sort((a, b) => a.distance - b.distance).slice(0, 5);
+        color.distances76 = color.distances76!.sort((a, b) => a.distance - b.distance).slice(0, 5);
+        color.distances94 = color.distances94!.sort((a, b) => a.distance - b.distance).slice(0, 5);
+        color.distances00 = color.distances00!.sort((a, b) => a.distance - b.distance).slice(0, 5);
         colorsObject[color.number] = color;
     });
 

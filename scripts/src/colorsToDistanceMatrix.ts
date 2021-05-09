@@ -1,18 +1,8 @@
+import { Color } from './types';
+
 declare var require: any;
 var convert = require('color-convert');
 var DeltaE = require('delta-e');
-
-interface Color {
-    number: string;
-    description: string;
-    rgbCode: string;
-    distances: ColorDistance[];
-}
-
-interface ColorDistance {
-    number: string;
-    distance: number;
-}
 
 export default function colorsToDistanceMatrix(colors: Color[]): {[key: string]: Color} {
     const colorsWithDistance: Color[] = [];
@@ -24,13 +14,16 @@ export default function colorsToDistanceMatrix(colors: Color[]): {[key: string]:
             const jColor = colorsWithDistance[j];
             const [iColorLabL, iColorLabA, iColorLabB] = convert.hex.lab(iColor.rgbCode);
             const [jColorLabL, jColorLabA, jColorLabB] = convert.hex.lab(jColor.rgbCode);
-            const distance = DeltaE.getDeltaE76({L: iColorLabL, A: iColorLabA, B: iColorLabB}, {L: jColorLabL, A: jColorLabA, B: jColorLabB});
+            // TODO: Why did I originally chose E76 over E00?
+            // const distance = DeltaE.getDeltaE76({ L: iColorLabL, A: iColorLabA, B: iColorLabB }, { L: jColorLabL, A: jColorLabA, B: jColorLabB });
+            const distance = DeltaE.getDeltaE00({ L: iColorLabL, A: iColorLabA, B: iColorLabB }, { L: jColorLabL, A: jColorLabA, B: jColorLabB });
+            // TODO: Don't include the distance, just give an ordered list of numbers
             iColor.distances.push({distance: distance, number: jColor.number});
             jColor.distances.push({distance: distance, number: iColor.number});
         }
     }
 
-    const colorsObject = {};
+    const colorsObject: Record<string, any> = {};
 
     colorsWithDistance.forEach(color => {
         color.distances = color.distances.sort((a, b) => a.distance - b.distance).slice(0, 5);

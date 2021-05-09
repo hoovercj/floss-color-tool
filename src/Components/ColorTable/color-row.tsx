@@ -1,74 +1,68 @@
 import * as React from 'react';
 import { Color, ColorDistanceMatrix } from '../../Models/color';
-import CloseColorRow from './close-color-row';
+import { CloseColorRow } from './close-color-row';
+
+import { HashLink } from 'react-router-hash-link';
 
 interface ColorRowProps {
+    brand: string;
     color: Color;
     colors: ColorDistanceMatrix;
 }
 
-interface ColorRowState {
-    expanded: boolean;
-}
+const DEFAULT_EXPANDED_CLASS = '';
+const ACTIVE_CLASS = 'active';
 
-export default class ColorRow extends React.Component<ColorRowProps, ColorRowState> {
 
-    private static DEFAULT_EXPANDED_CLASS = '';
-    private static ACTIVE_CLASS = 'active';
+export const ColorRow = (props: ColorRowProps) =>{
+    const { brand, color, colors } = props;
+    const [expanded, setExpanded] = React.useState(false);
 
-    constructor() {
-        super();
-        this.state = {
-            expanded: false
-        };
-    }
+    const onRowClick = React.useCallback(() => {
+        setExpanded(!expanded);
+    }, [expanded]);
 
-    onRowClick = () => {
-        this.setState({
-            expanded: !this.state.expanded
-        });
-    }
 
-    render() {
-        const color: Color = this.props.color;
-        if (!color) {
-            return null;
-        }
-        const expandedState = this.state.expanded ? ColorRow.ACTIVE_CLASS : ColorRow.DEFAULT_EXPANDED_CLASS;
-        return (
-            <tbody className={`${expandedState}`}>
-                <tr className="clickable" onClick={this.onRowClick}>
-                    <td className="text-center">{color.number}</td>
-                    <td style={{backgroundColor: '#' + color.rgbCode}}/>
-                    <td>{color.description}</td>
+    const className = expanded ? ACTIVE_CLASS : DEFAULT_EXPANDED_CLASS;
+    return (
+        <tbody className={`${className}`}>
+            <tr className='clickable' onClick={onRowClick}>
+                <td className='text-center' id={color.number}>{color.number}</td>
+                <td style={{backgroundColor: '#' + color.rgbCode}}/>
+                <td>{color.description}</td>
+                <td>{color.substitute ? Object.keys(color.substitute).map(brand => (
+                    <HashLink key={brand + color.substitute![brand]} smooth to={`/${brand.toLowerCase()}#${color.substitute![brand]}`}>
+                        {brand} {color.substitute![brand]}
+                    </HashLink>
+                )) : undefined}
+                </td>
+                {color.distances.slice(0, 5).map(closeColor =>
+                    <td
+                        key={closeColor.number}
+                        title={`${closeColor.number} - ${colors[closeColor.number].description}`}
+                        style={{backgroundColor: '#' + colors[closeColor.number].rgbCode}}
+                    />
+                )}
+            </tr>
+            <tr className={expanded ? '' : 'hidden'}>
+                <td colSpan={9}>
+                <div className='row inner bold'>
+                    <div className='col-2 text-center'>{brand} #</div>
+                    <div className='col-4'>Name</div>
+                    <div className='col-3 text-center'>Alternative</div>
+                    <div className='col-3 text-center'>Original</div>
+                </div>
                     {color.distances.slice(0, 5).map(closeColor =>
-                        <td
+                        <CloseColorRow
                             key={closeColor.number}
-                            title={`${closeColor.number} - ${this.props.colors[closeColor.number].description}`}
-                            style={{backgroundColor: '#' + this.props.colors[closeColor.number].rgbCode}}
+                            brand={brand}
+                            visible={expanded}
+                            color={color}
+                            closeColor={colors[closeColor.number]}
                         />
                     )}
-                </tr>
-                <tr className={this.state.expanded ? '' : 'hidden'}>
-                    <td colSpan={8}>
-                    <div className="row inner bold">
-                        <div className="col-xs-2 text-center">DMC #</div>
-                        <div className="col-xs-4">Name</div>
-                        <div className="col-xs-3 text-center">Alternative</div>
-                        <div className="col-xs-3 text-center">Original</div>
-                    </div>
-                        {color.distances.slice(0, 5).map(closeColor =>
-                            <CloseColorRow
-                                key={closeColor.number}
-                                visible={this.state.expanded}
-                                color={color}
-                                closeColor={this.props.colors[closeColor.number]}
-                            />
-                        )}
-                    </td>
-                </tr>
-            {/*<CloseColorTable color={this.props.color} colors={this.props.colors} />*/}
-            </tbody>
-        );
-    }
+                </td>
+            </tr>
+        </tbody>
+    );
 }

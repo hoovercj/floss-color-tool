@@ -3,6 +3,9 @@ export interface Color {
     description: string;
     rgbCode: string;
     distances: ColorDistance[];
+    substitute?: {
+        [brand: string]: string;
+    }
 }
 
 export interface ColorDistance {
@@ -10,4 +13,6 @@ export interface ColorDistance {
     distance: number;
 }
 
-export type ColorDistanceMatrix = {[key: string]: Color};
+export type ColorDistanceMatrix = {[colorNumber: string]: Color};
+
+export type AllColors = {[brand: string]: ColorDistanceMatrix};
