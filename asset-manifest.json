@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/floss-color-tool/static/css/main.7ab128c1.chunk.css",
-    "main.js": "/floss-color-tool/static/js/main.97b183dd.chunk.js",
-    "main.js.map": "/floss-color-tool/static/js/main.97b183dd.chunk.js.map",
+    "main.js": "/floss-color-tool/static/js/main.065ec6a7.chunk.js",
+    "main.js.map": "/floss-color-tool/static/js/main.065ec6a7.chunk.js.map",
     "runtime-main.js": "/floss-color-tool/static/js/runtime-main.78ab37cb.js",
     "runtime-main.js.map": "/floss-color-tool/static/js/runtime-main.78ab37cb.js.map",
     "static/css/2.04196b2f.chunk.css": "/floss-color-tool/static/css/2.04196b2f.chunk.css",
     "static/js/2.18db18ba.chunk.js": "/floss-color-tool/static/js/2.18db18ba.chunk.js",
     "static/js/2.18db18ba.chunk.js.map": "/floss-color-tool/static/js/2.18db18ba.chunk.js.map",
     "index.html": "/floss-color-tool/index.html",
-    "precache-manifest.1f53d20a98c19fb689130af14dd1d562.js": "/floss-color-tool/precache-manifest.1f53d20a98c19fb689130af14dd1d562.js",
+    "precache-manifest.3a54af2b359863916771036f3263b5ef.js": "/floss-color-tool/precache-manifest.3a54af2b359863916771036f3263b5ef.js",
     "service-worker.js": "/floss-color-tool/service-worker.js",
     "static/css/2.04196b2f.chunk.css.map": "/floss-color-tool/static/css/2.04196b2f.chunk.css.map",
     "static/css/main.7ab128c1.chunk.css.map": "/floss-color-tool/static/css/main.7ab128c1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.04196b2f.chunk.css",
     "static/js/2.18db18ba.chunk.js",
     "static/css/main.7ab128c1.chunk.css",
-    "static/js/main.97b183dd.chunk.js"
+    "static/js/main.065ec6a7.chunk.js"
   ]
 }
