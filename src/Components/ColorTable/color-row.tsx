@@ -33,7 +33,7 @@ export const ColorRow = (props: ColorRowProps) =>{
                         className={`icon-button ${expanded ? 'expanded' : ''}`}
                         aria-expanded={expanded}
                         aria-label={"Show/Hide details"}
-                        title={expanded ? "Show details" : "Hide details"}
+                        title={expanded ? "Hide details" : "Show details"}
                         onClick={onRowClick}
                     >
                         <img alt="" role="presentation" src={chevronRight} />
