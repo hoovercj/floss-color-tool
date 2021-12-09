@@ -29,16 +29,16 @@ const App = () => {
 
     return (<Router basename='/floss-color-tool' >
         <Route path='/:brand?'>
-            <RoutedApp/>
+            <RoutedApp />
         </Route>
     </Router>)
 }
 
 const RoutedApp = () => {
-    const { brand: brandParam } = useParams<{brand?: string}>();
+    const { brand: brandParam } = useParams<{ brand?: string }>();
     const [filterText, setFilterText] = React.useState('');
 
-    const onInputChanged = React.useCallback((event: {target: { value: string}}) => {
+    const onInputChanged = React.useCallback((event: { target: { value: string } }) => {
         setFilterText(event.target.value);
     }, []);
 
@@ -46,7 +46,7 @@ const RoutedApp = () => {
         ?? brands[0];
     const colors = allColors[brand];
 
-    return (<>
+    return (<div>
         <nav className="navbar fixed-top navbar-expand navbar-light bg-light">
             <div className="container-fluid">
                 <span role="heading" aria-level={1} className="navbar-brand">Floss Color Tool</span>
@@ -75,11 +75,11 @@ const RoutedApp = () => {
         <div className='container-fl app-body'>
             <div className='row'>
                 <div className='col-sm-10 offset-sm-1 col-xl-8 offset-xl-2'>
-                    <ColorTool brand={brand} colors={colors} filterText={filterText}/>
+                    <ColorTool brand={brand} colors={colors} filterText={filterText} />
                 </div>
             </div>
         </div>
-    </>)
+    </div>)
 }
 
 export default App;
